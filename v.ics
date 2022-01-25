@@ -5,921 +5,628 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:XX+ZGJ5zEJLNZD6+gJFGjzms19mDLrcs
-SUMMARY:DanceHouse Impulso 
-DTSTAMP:20200311T230500Z
-DTSTART:20200312T023000Z
-DESCRIPTION:fc10410-dancehouse-viff-present-impulso
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:18stkzhk4+C898VUaptONA3fWZJXyJnZ
-SUMMARY:Beanpole 
-DTSTAMP:20200311T230500Z
-DTSTART:20200314T031000Z
-DESCRIPTION:fc10428-beanpole
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:wCuSBlT0KQoAV3cbJ1r5Q+V7tT3/2feB
-SUMMARY:Weathering With You 
-DTSTAMP:20200311T230500Z
-DTSTART:20200314T191000Z
-DESCRIPTION:fc10484-weathering-with-you
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:3gjfI6sryszkqKbYMsMUd622PXZINhyw
-SUMMARY:Ride Your Wave 
-DTSTAMP:20200311T230500Z
-DTSTART:20200314T213000Z
-DESCRIPTION:fc10470-ride-your-wave
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:npGHU4aVzKmHsou7yFAUfZ41vhoJXopY
-SUMMARY:To Live to Sing 
-DTSTAMP:20200311T230500Z
-DTSTART:20200314T233000Z
-DESCRIPTION:fc10431-to-live-to-sing
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:Ne37s8uiCJSZPXrrmlAU2Gyai2oRgWoT
-SUMMARY:Beanpole 
-DTSTAMP:20200311T230500Z
-DTSTART:20200315T034500Z
-DESCRIPTION:fc10428-beanpole
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:OpLdQ82TVAA0ePm7j2s/L7gK4/9udjYj
-SUMMARY:Film Studies: The Piano 
-DTSTAMP:20200311T230500Z
-DTSTART:20200315T173000Z
-DESCRIPTION:fc10462-film-studies-the-piano
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:n+uo2bTVCP3CRAlr2MSHqzeRG0M+b1a6
-SUMMARY:Beanpole 
-DTSTAMP:20200311T230500Z
-DTSTART:20200315T210000Z
-DESCRIPTION:fc10428-beanpole
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fpSQVaBfGuEwhvoAWQJuwdU4xoFowifH
-SUMMARY:To Live to Sing 
-DTSTAMP:20200311T230500Z
-DTSTART:20200316T000000Z
-DESCRIPTION:fc10431-to-live-to-sing
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:vDGFoKgPVS6nHk6cJ6dbUCwBL0z2zEBq
-SUMMARY:Beanpole 
-DTSTAMP:20200311T230500Z
-DTSTART:20200316T040000Z
-DESCRIPTION:fc10428-beanpole
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:bWLO6WFb2SWk1ge7RrxeJtB6L3DVuHk+
-SUMMARY:Beanpole 
-DTSTAMP:20200311T230500Z
-DTSTART:20200317T010000Z
-DESCRIPTION:fc10428-beanpole
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:EUmfB+j+kfebnj9k59F0+edcw3NzWhcM
-SUMMARY:Linda Ronstadt: The Sound of My Voice 
-DTSTAMP:20200311T230500Z
-DTSTART:20200317T034000Z
-DESCRIPTION:fc10466-linda-ronstadt-the-sound-of-my-voice
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:4V6bE9wGOrI/c1bQttIUyzl09Fl1UXzm
-SUMMARY:Beanpole 
-DTSTAMP:20200311T230500Z
-DTSTART:20200318T031000Z
-DESCRIPTION:fc10428-beanpole
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:eImrvbgUzmmyGmLUW0kk7/u0b6EOKpst
-SUMMARY:To Live to Sing 
-DTSTAMP:20200311T230500Z
-DTSTART:20200319T010000Z
-DESCRIPTION:fc10431-to-live-to-sing
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:SMOuNMEvzMqgumwxrKhJfpWgUS7qkDTx
-SUMMARY:To Live to Sing 
-DTSTAMP:20200311T230500Z
-DTSTART:20200320T010000Z
-DESCRIPTION:fc10431-to-live-to-sing
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:wbjYLsgzw38PiJSlElpNvZYiZkx5l2Wt
-SUMMARY:Beanpole 
-DTSTAMP:20200311T230500Z
-DTSTART:20200320T031000Z
-DESCRIPTION:fc10428-beanpole
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:g/75iDGU7ZfNVDlkoA+mUfJNJECZD4Xb
-SUMMARY:Wild Goose Lake 
-DTSTAMP:20200311T230500Z
-DTSTART:20200321T010000Z
-DESCRIPTION:fc10432-wild-goose-lake
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:Q5HJgin+7dHnzAy5sNYW6YGDWcBdAISd
-SUMMARY:Ash 
-DTSTAMP:20200311T230500Z
-DTSTART:20200321T032500Z
-DESCRIPTION:fc10430-ash
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:Lk00il+09j5aDPTg5quVsNmVMAUKPau+
-SUMMARY:Cat Video Festival 2020 
-DTSTAMP:20200311T230500Z
-DTSTART:20200321T172000Z
-DESCRIPTION:fc10464-cat-video-festival-2020
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:X6EzqzBirK3zxu1bqpj7WsYjU0gDow52
-SUMMARY:Cat Video Festival 2020 
-DTSTAMP:20200311T230500Z
-DTSTART:20200321T191000Z
-DESCRIPTION:fc10464-cat-video-festival-2020
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:vxw1ld77tW3aadzu5jpnUL+gMKWNkIni
-SUMMARY:Cat Video Festival 2020 
-DTSTAMP:20200311T230500Z
-DTSTART:20200321T205000Z
-DESCRIPTION:fc10464-cat-video-festival-2020
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:DExgyPppnCqpr05b48ej6mebnkEhUWND
-SUMMARY:Cat Video Festival 2020 
-DTSTAMP:20200311T230500Z
-DTSTART:20200321T224000Z
-DESCRIPTION:fc10464-cat-video-festival-2020
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:MCDdbOcavGhiqm8f/6sRU74PvhoNxcyQ
-SUMMARY:Cat Video Festival 2020 
-DTSTAMP:20200311T230500Z
-DTSTART:20200322T002500Z
-DESCRIPTION:fc10464-cat-video-festival-2020
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:X4E+EXClV2WUz1aX1kgKB/YVZoFYC9dL
-SUMMARY:Easy Land 
-DTSTAMP:20200311T230500Z
-DTSTART:20200322T021500Z
-DESCRIPTION:fc10433-easy-land
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fhRqld3SGxcXfMZX+h0PIceMPGSMHWbh
-SUMMARY:Ash 
-DTSTAMP:20200311T230500Z
-DTSTART:20200322T041500Z
-DESCRIPTION:fc10430-ash
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:8XNvCBaXee24+gZw0XPlYCucWN3sexDv
-SUMMARY:Golda 
-DTSTAMP:20200311T230500Z
-DTSTART:20200322T173000Z
-DESCRIPTION:fc10468-golda
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:uJ2m9qdvPmf1OJySgWjDDjN7lThOLUb3
-SUMMARY:Icons: Judy Garland 
-DTSTAMP:20200311T230500Z
-DTSTART:20200322T200000Z
-DESCRIPTION:fc10471-icons-judy-garland
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:CfrMfJsFH44r18rPnuN3MALZPF+lHeWU
-SUMMARY:Wild Goose Lake 
-DTSTAMP:20200311T230500Z
-DTSTART:20200322T220000Z
-DESCRIPTION:fc10432-wild-goose-lake
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:0RLX9RiJ7DOaFbF5O9gnRTcDW89a/lPF
-SUMMARY:Easy Land 
-DTSTAMP:20200311T230500Z
-DTSTART:20200323T003000Z
-DESCRIPTION:fc10433-easy-land
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:jmMdA3dp70qZpgLKz3b2Q/p1VpLCKeyJ
-SUMMARY:Ash 
-DTSTAMP:20200311T230500Z
-DTSTART:20200323T023000Z
-DESCRIPTION:fc10430-ash
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:SvFqnqz1Pr0v5MkAk4xH3KqKwGnwLeIv
-SUMMARY:Wild Goose Lake 
-DTSTAMP:20200311T230500Z
-DTSTART:20200324T010000Z
-DESCRIPTION:fc10432-wild-goose-lake
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:oX8bSIN3u4sbLSvunIej0Wkkl1PvYFOt
-SUMMARY:Marianne & Leonard: Words of Love 
-DTSTAMP:20200311T230500Z
-DTSTART:20200324T032000Z
-DESCRIPTION:fc10476-marianne-leonard-words-of-love
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:pN7VjNttnJmRjXSsWEdlvc8MFd4A6ZzA
-SUMMARY:Easy Land 
-DTSTAMP:20200311T230500Z
-DTSTART:20200325T011000Z
-DESCRIPTION:fc10433-easy-land
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:QpIll4shOW+TzIrz1XL428J+OHnbTDA3
-SUMMARY:Ash 
-DTSTAMP:20200311T230500Z
-DTSTART:20200325T031000Z
-DESCRIPTION:fc10430-ash
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:RvycYp+4g7qt3aCMMKnF1xiG8VVLl4Sv
-SUMMARY:Wild Goose Lake 
-DTSTAMP:20200311T230500Z
-DTSTART:20200326T010000Z
-DESCRIPTION:fc10432-wild-goose-lake
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:u6KCPPCJYNyDmcBIRrwQpxDdlWdpzF37
-SUMMARY:Ash 
-DTSTAMP:20200311T230500Z
-DTSTART:20200326T033000Z
-DESCRIPTION:fc10430-ash
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:UVha9HSdNOIxg+dLAs39Cax39b3doXul
-SUMMARY:VIT: Capital in the Twenty-First Century 
-DTSTAMP:20200311T230500Z
-DTSTART:20200327T013000Z
-DESCRIPTION:fc10477-vit-capital-in-the-twenty-first-century
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:xif2mohJdgrQtdR4ed7Os4E0eh8VY+NX
-SUMMARY:This Is Not a Movie 
-DTSTAMP:20200311T230500Z
-DTSTART:20200328T031000Z
-DESCRIPTION:fc10478-this-is-not-a-movie
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:vdMfNd4VGuV60Jwt0itvDJhsSnVaU7i7
-SUMMARY:Relaxed: Weathering With You 
-DTSTAMP:20200311T230500Z
-DTSTART:20200328T170000Z
-DESCRIPTION:fc10491-relaxed-weathering-with-you
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:tH0uER5kaD2VCEoUUrc9ga2Vt/fkvCl6
-SUMMARY:This Is Not a Movie 
-DTSTAMP:20200311T230500Z
-DTSTART:20200329T021000Z
-DESCRIPTION:fc10478-this-is-not-a-movie
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:STzCTgHjVnXGyKVfx+IUnLCmmaO6Q1TB
-SUMMARY:Beanpole 
-DTSTAMP:20200311T230500Z
-DTSTART:20200329T042000Z
-DESCRIPTION:fc10428-beanpole
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:kxi+4NfJwYoGDISsnm+s6OjhXkAMX83z
-SUMMARY:Film Studies: The Conversation 
-DTSTAMP:20200311T230500Z
-DTSTART:20200329T173000Z
-DESCRIPTION:fc10463-film-studies-the-conversation
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:gHG/gI+8URQyUO9QkYXefeeeK/FVG8xs
-SUMMARY:The Booksellers 
-DTSTAMP:20200311T230500Z
-DTSTART:20200329T210000Z
-DESCRIPTION:fc10475-the-booksellers
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:7MPu6SxsRzmjuGSzusW0NR/brVciuDuU
-SUMMARY:The Body Remembers... 
-DTSTAMP:20200311T230500Z
-DTSTART:20200329T231000Z
-DESCRIPTION:fc10474-the-body-remembers
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:e/yx8Y7Bveg5MlpEurk1tXt3jXPBJVeq
-SUMMARY:Kuessipan 
-DTSTAMP:20200311T230500Z
-DTSTART:20200330T012000Z
-DESCRIPTION:fc10472-kuessipan
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:QNVvXiRHbAnKrjC1rhfk0dQ4hhig8/D3
-SUMMARY:Rustic Oracle 
-DTSTAMP:20200311T230500Z
-DTSTART:20200330T034000Z
-DESCRIPTION:fc10473-rustic-oracle
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:QJPsR3468rgMLNrxDxbVqPZwj1alQ2nR
-SUMMARY:Mystify: Michael Hutchence 
-DTSTAMP:20200311T230500Z
-DTSTART:20200331T033000Z
-DESCRIPTION:fc10467-mystify-michael-hutchence
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:Ovv6WbGacetElDA1EHBs5u3+RbgPkzMI
-SUMMARY:This Is Not a Movie 
-DTSTAMP:20200311T230500Z
-DTSTART:20200401T010000Z
-DESCRIPTION:fc10478-this-is-not-a-movie
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:oqJ7v9IORW0ATjQG8T/dbLQ0XX1+5WCX
-SUMMARY:Kuessipan 
-DTSTAMP:20200311T230500Z
-DTSTART:20200401T032000Z
-DESCRIPTION:fc10472-kuessipan
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:uW6zf/78JcF6L9xPpok5Ak1rpBe5bqZs
-SUMMARY:Rustic Oracle 
-DTSTAMP:20200311T230500Z
-DTSTART:20200402T010000Z
-DESCRIPTION:fc10473-rustic-oracle
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:HyuUEUSb95KjSQUQmvHcoZqZDihS2xBv
-SUMMARY:The Body Remembers... 
-DTSTAMP:20200311T230500Z
-DTSTART:20200402T031000Z
-DESCRIPTION:fc10474-the-body-remembers
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:XX+ZGJ5zEJLNZD6+gJFGjzms19mDLrcs
-SUMMARY:DanceHouse Impulso 
-DTSTAMP:20200311T230500Z
-DTSTART:20200312T023000Z
-DESCRIPTION:fc10410-dancehouse-viff-present-impulso
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:18stkzhk4+C898VUaptONA3fWZJXyJnZ
-SUMMARY:Beanpole 
-DTSTAMP:20200311T230500Z
-DTSTART:20200314T031000Z
-DESCRIPTION:fc10428-beanpole
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:wCuSBlT0KQoAV3cbJ1r5Q+V7tT3/2feB
-SUMMARY:Weathering With You 
-DTSTAMP:20200311T230500Z
-DTSTART:20200314T191000Z
-DESCRIPTION:fc10484-weathering-with-you
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:3gjfI6sryszkqKbYMsMUd622PXZINhyw
-SUMMARY:Ride Your Wave 
-DTSTAMP:20200311T230500Z
-DTSTART:20200314T213000Z
-DESCRIPTION:fc10470-ride-your-wave
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:npGHU4aVzKmHsou7yFAUfZ41vhoJXopY
-SUMMARY:To Live to Sing 
-DTSTAMP:20200311T230500Z
-DTSTART:20200314T233000Z
-DESCRIPTION:fc10431-to-live-to-sing
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:Ne37s8uiCJSZPXrrmlAU2Gyai2oRgWoT
-SUMMARY:Beanpole 
-DTSTAMP:20200311T230500Z
-DTSTART:20200315T034500Z
-DESCRIPTION:fc10428-beanpole
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:OpLdQ82TVAA0ePm7j2s/L7gK4/9udjYj
-SUMMARY:Film Studies: The Piano 
-DTSTAMP:20200311T230500Z
-DTSTART:20200315T173000Z
-DESCRIPTION:fc10462-film-studies-the-piano
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:n+uo2bTVCP3CRAlr2MSHqzeRG0M+b1a6
-SUMMARY:Beanpole 
-DTSTAMP:20200311T230500Z
-DTSTART:20200315T210000Z
-DESCRIPTION:fc10428-beanpole
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fpSQVaBfGuEwhvoAWQJuwdU4xoFowifH
-SUMMARY:To Live to Sing 
-DTSTAMP:20200311T230500Z
-DTSTART:20200316T000000Z
-DESCRIPTION:fc10431-to-live-to-sing
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:vDGFoKgPVS6nHk6cJ6dbUCwBL0z2zEBq
-SUMMARY:Beanpole 
-DTSTAMP:20200311T230500Z
-DTSTART:20200316T040000Z
-DESCRIPTION:fc10428-beanpole
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:bWLO6WFb2SWk1ge7RrxeJtB6L3DVuHk+
-SUMMARY:Beanpole 
-DTSTAMP:20200311T230500Z
-DTSTART:20200317T010000Z
-DESCRIPTION:fc10428-beanpole
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:EUmfB+j+kfebnj9k59F0+edcw3NzWhcM
-SUMMARY:Linda Ronstadt: The Sound of My Voice 
-DTSTAMP:20200311T230500Z
-DTSTART:20200317T034000Z
-DESCRIPTION:fc10466-linda-ronstadt-the-sound-of-my-voice
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:4V6bE9wGOrI/c1bQttIUyzl09Fl1UXzm
-SUMMARY:Beanpole 
-DTSTAMP:20200311T230500Z
-DTSTART:20200318T031000Z
-DESCRIPTION:fc10428-beanpole
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:eImrvbgUzmmyGmLUW0kk7/u0b6EOKpst
-SUMMARY:To Live to Sing 
-DTSTAMP:20200311T230500Z
-DTSTART:20200319T010000Z
-DESCRIPTION:fc10431-to-live-to-sing
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:SMOuNMEvzMqgumwxrKhJfpWgUS7qkDTx
-SUMMARY:To Live to Sing 
-DTSTAMP:20200311T230500Z
-DTSTART:20200320T010000Z
-DESCRIPTION:fc10431-to-live-to-sing
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:wbjYLsgzw38PiJSlElpNvZYiZkx5l2Wt
-SUMMARY:Beanpole 
-DTSTAMP:20200311T230500Z
-DTSTART:20200320T031000Z
-DESCRIPTION:fc10428-beanpole
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:g/75iDGU7ZfNVDlkoA+mUfJNJECZD4Xb
-SUMMARY:Wild Goose Lake 
-DTSTAMP:20200311T230500Z
-DTSTART:20200321T010000Z
-DESCRIPTION:fc10432-wild-goose-lake
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:Q5HJgin+7dHnzAy5sNYW6YGDWcBdAISd
-SUMMARY:Ash 
-DTSTAMP:20200311T230500Z
-DTSTART:20200321T032500Z
-DESCRIPTION:fc10430-ash
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:Lk00il+09j5aDPTg5quVsNmVMAUKPau+
-SUMMARY:Cat Video Festival 2020 
-DTSTAMP:20200311T230500Z
-DTSTART:20200321T172000Z
-DESCRIPTION:fc10464-cat-video-festival-2020
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:X6EzqzBirK3zxu1bqpj7WsYjU0gDow52
-SUMMARY:Cat Video Festival 2020 
-DTSTAMP:20200311T230500Z
-DTSTART:20200321T191000Z
-DESCRIPTION:fc10464-cat-video-festival-2020
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:vxw1ld77tW3aadzu5jpnUL+gMKWNkIni
-SUMMARY:Cat Video Festival 2020 
-DTSTAMP:20200311T230500Z
-DTSTART:20200321T205000Z
-DESCRIPTION:fc10464-cat-video-festival-2020
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:DExgyPppnCqpr05b48ej6mebnkEhUWND
-SUMMARY:Cat Video Festival 2020 
-DTSTAMP:20200311T230500Z
-DTSTART:20200321T224000Z
-DESCRIPTION:fc10464-cat-video-festival-2020
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:MCDdbOcavGhiqm8f/6sRU74PvhoNxcyQ
-SUMMARY:Cat Video Festival 2020 
-DTSTAMP:20200311T230500Z
-DTSTART:20200322T002500Z
-DESCRIPTION:fc10464-cat-video-festival-2020
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:X4E+EXClV2WUz1aX1kgKB/YVZoFYC9dL
-SUMMARY:Easy Land 
-DTSTAMP:20200311T230500Z
-DTSTART:20200322T021500Z
-DESCRIPTION:fc10433-easy-land
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fhRqld3SGxcXfMZX+h0PIceMPGSMHWbh
-SUMMARY:Ash 
-DTSTAMP:20200311T230500Z
-DTSTART:20200322T041500Z
-DESCRIPTION:fc10430-ash
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:8XNvCBaXee24+gZw0XPlYCucWN3sexDv
-SUMMARY:Golda 
-DTSTAMP:20200311T230500Z
-DTSTART:20200322T173000Z
-DESCRIPTION:fc10468-golda
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:uJ2m9qdvPmf1OJySgWjDDjN7lThOLUb3
-SUMMARY:Icons: Judy Garland 
-DTSTAMP:20200311T230500Z
-DTSTART:20200322T200000Z
-DESCRIPTION:fc10471-icons-judy-garland
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:CfrMfJsFH44r18rPnuN3MALZPF+lHeWU
-SUMMARY:Wild Goose Lake 
-DTSTAMP:20200311T230500Z
-DTSTART:20200322T220000Z
-DESCRIPTION:fc10432-wild-goose-lake
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:0RLX9RiJ7DOaFbF5O9gnRTcDW89a/lPF
-SUMMARY:Easy Land 
-DTSTAMP:20200311T230500Z
-DTSTART:20200323T003000Z
-DESCRIPTION:fc10433-easy-land
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:jmMdA3dp70qZpgLKz3b2Q/p1VpLCKeyJ
-SUMMARY:Ash 
-DTSTAMP:20200311T230500Z
-DTSTART:20200323T023000Z
-DESCRIPTION:fc10430-ash
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:SvFqnqz1Pr0v5MkAk4xH3KqKwGnwLeIv
-SUMMARY:Wild Goose Lake 
-DTSTAMP:20200311T230500Z
-DTSTART:20200324T010000Z
-DESCRIPTION:fc10432-wild-goose-lake
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:oX8bSIN3u4sbLSvunIej0Wkkl1PvYFOt
-SUMMARY:Marianne & Leonard: Words of Love 
-DTSTAMP:20200311T230500Z
-DTSTART:20200324T032000Z
-DESCRIPTION:fc10476-marianne-leonard-words-of-love
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:pN7VjNttnJmRjXSsWEdlvc8MFd4A6ZzA
-SUMMARY:Easy Land 
-DTSTAMP:20200311T230500Z
-DTSTART:20200325T011000Z
-DESCRIPTION:fc10433-easy-land
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:QpIll4shOW+TzIrz1XL428J+OHnbTDA3
-SUMMARY:Ash 
-DTSTAMP:20200311T230500Z
-DTSTART:20200325T031000Z
-DESCRIPTION:fc10430-ash
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:RvycYp+4g7qt3aCMMKnF1xiG8VVLl4Sv
-SUMMARY:Wild Goose Lake 
-DTSTAMP:20200311T230500Z
-DTSTART:20200326T010000Z
-DESCRIPTION:fc10432-wild-goose-lake
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:u6KCPPCJYNyDmcBIRrwQpxDdlWdpzF37
-SUMMARY:Ash 
-DTSTAMP:20200311T230500Z
-DTSTART:20200326T033000Z
-DESCRIPTION:fc10430-ash
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:UVha9HSdNOIxg+dLAs39Cax39b3doXul
-SUMMARY:VIT: Capital in the Twenty-First Century 
-DTSTAMP:20200311T230500Z
-DTSTART:20200327T013000Z
-DESCRIPTION:fc10477-vit-capital-in-the-twenty-first-century
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:xif2mohJdgrQtdR4ed7Os4E0eh8VY+NX
-SUMMARY:This Is Not a Movie 
-DTSTAMP:20200311T230500Z
-DTSTART:20200328T031000Z
-DESCRIPTION:fc10478-this-is-not-a-movie
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:vdMfNd4VGuV60Jwt0itvDJhsSnVaU7i7
-SUMMARY:Relaxed: Weathering With You 
-DTSTAMP:20200311T230500Z
-DTSTART:20200328T170000Z
-DESCRIPTION:fc10491-relaxed-weathering-with-you
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:tH0uER5kaD2VCEoUUrc9ga2Vt/fkvCl6
-SUMMARY:This Is Not a Movie 
-DTSTAMP:20200311T230500Z
-DTSTART:20200329T021000Z
-DESCRIPTION:fc10478-this-is-not-a-movie
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:STzCTgHjVnXGyKVfx+IUnLCmmaO6Q1TB
-SUMMARY:Beanpole 
-DTSTAMP:20200311T230500Z
-DTSTART:20200329T042000Z
-DESCRIPTION:fc10428-beanpole
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:kxi+4NfJwYoGDISsnm+s6OjhXkAMX83z
-SUMMARY:Film Studies: The Conversation 
-DTSTAMP:20200311T230500Z
-DTSTART:20200329T173000Z
-DESCRIPTION:fc10463-film-studies-the-conversation
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:gHG/gI+8URQyUO9QkYXefeeeK/FVG8xs
-SUMMARY:The Booksellers 
-DTSTAMP:20200311T230500Z
-DTSTART:20200329T210000Z
-DESCRIPTION:fc10475-the-booksellers
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:7MPu6SxsRzmjuGSzusW0NR/brVciuDuU
-SUMMARY:The Body Remembers... 
-DTSTAMP:20200311T230500Z
-DTSTART:20200329T231000Z
-DESCRIPTION:fc10474-the-body-remembers
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:e/yx8Y7Bveg5MlpEurk1tXt3jXPBJVeq
-SUMMARY:Kuessipan 
-DTSTAMP:20200311T230500Z
-DTSTART:20200330T012000Z
-DESCRIPTION:fc10472-kuessipan
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:QNVvXiRHbAnKrjC1rhfk0dQ4hhig8/D3
-SUMMARY:Rustic Oracle 
-DTSTAMP:20200311T230500Z
-DTSTART:20200330T034000Z
-DESCRIPTION:fc10473-rustic-oracle
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:QJPsR3468rgMLNrxDxbVqPZwj1alQ2nR
-SUMMARY:Mystify: Michael Hutchence 
-DTSTAMP:20200311T230500Z
-DTSTART:20200331T033000Z
-DESCRIPTION:fc10467-mystify-michael-hutchence
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:Ovv6WbGacetElDA1EHBs5u3+RbgPkzMI
-SUMMARY:This Is Not a Movie 
-DTSTAMP:20200311T230500Z
-DTSTART:20200401T010000Z
-DESCRIPTION:fc10478-this-is-not-a-movie
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:oqJ7v9IORW0ATjQG8T/dbLQ0XX1+5WCX
-SUMMARY:Kuessipan 
-DTSTAMP:20200311T230500Z
-DTSTART:20200401T032000Z
-DESCRIPTION:fc10472-kuessipan
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:uW6zf/78JcF6L9xPpok5Ak1rpBe5bqZs
-SUMMARY:Rustic Oracle 
-DTSTAMP:20200311T230500Z
-DTSTART:20200402T010000Z
-DESCRIPTION:fc10473-rustic-oracle
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:HyuUEUSb95KjSQUQmvHcoZqZDihS2xBv
-SUMMARY:The Body Remembers... 
-DTSTAMP:20200311T230500Z
-DTSTART:20200402T031000Z
-DESCRIPTION:fc10474-the-body-remembers
-LOCATION:Vancity Theatre
-DURATION:PT1H30M
+UID:E4fVlmIRbpyvR2EWoOkvMgPtTAf82Fcj
+SUMMARY:Drive My Car
+DTSTAMP:20220125T234200Z
+DTSTART:20220125T130000Z
+DESCRIPTION:Kafuku is a theatre director\, actor\, and storyteller… yet eve
+	n he withdraws when it comes to confronting his deepest sorrow. Mourning h
+	is wife\, and the secrets that died with her\, he accepts an invitation to
+	 mount a new production of Uncle Vanya\, and surprises everyone by casting
+	 a troubled young movie star\, Takatsuki\, his late wife’s lover\, in the 
+	title role. Elaborating on a short story by Haruki Murakami\, Asako I & II
+	 director Hamaguchi has crafted a piercing\, sublime philosophical drama.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:l7JGUlqpDXLrxnFrVw7VyAlqROtDlqc0
+SUMMARY:Délicieux
+DTSTAMP:20220125T234200Z
+DTSTART:20220125T133000Z
+DESCRIPTION:France\, 1789. Popular unrest is broiling\, the people are hung
+	ry for change. But for Manceron (Grégory Gadebois)\, personal chef to a go
+	urmand duke\, the breaking point comes when his patron rebukes him for ser
+	ving a potato and truffle appetizer: peasant food. Exiled to a country inn
+	\, the chef tries to forget about cooking. That is\, until Louise (Isabell
+	e Carré) insists he take her as an apprentice… This fanciful tale of the g
+	enesis of the first restaurant in France is a feast for the eyes. Bon appe
+	tit!
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:rvgv8aH5qhSG+9jvbJq5razryLk77kmk
+SUMMARY:Wheel of Fortune and Fantasy
+DTSTAMP:20220125T234200Z
+DTSTART:20220125T160000Z
+DESCRIPTION:An unexpected love triangle\, a literary seduction\, and a chan
+	ce encounter with an old school friend… Propelled by coincidence and imagi
+	nation\, and guided by love’s gentle current\, acclaimed director Ryūsuke 
+	Hamaguchi (Drive My Car\, Asako I & II) returns with a spellbinding tripty
+	ch that spins mundane encounters into a world of infinite possibilities."R
+	yûsuke Hamaguchi’s film is an alternately scathing\, erotic\, terrifying\,
+	 and affirming fable of the primordial power of storytelling."Slant Magazi
+	ne
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:g/hWh0gIlmklSj3Ccjt9qn873vWp3V6D
+SUMMARY:Titane
+DTSTAMP:20220125T234200Z
+DTSTART:20220125T163000Z
+DESCRIPTION:The love child of Jean Cocteau and David Cronenberg\, this ugly
+	 duckling of a movie has more gasp-out-loud moments than anything we’ve se
+	en in a long\, long time. Alexia (Agathe Rousselle) has a steel plate in h
+	er head and a chip on her shoulder. She’s also a killer hand with a metal-
+	tipped chopstick. Oh\, and she’s carrying a baby which might very well be 
+	born with four wheels and a motor. The film’s dream logic is aggressive bu
+	t deliriously\, ecstatically demented. Did we mention it won the Palme d’O
+	r?
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:P9WH7htT5GpKp4Py2pbRcUAMb9TL1+Lw
+SUMMARY:Belfast
+DTSTAMP:20220125T234200Z
+DTSTART:20220128T130000Z
+DESCRIPTION:Kenneth Branagh gets personal in this bittersweet black and whi
+	te autobiographical drama\, set in his hometown in Northern Ireland in 196
+	9\, at the advent of the Troubles. Buddy (Jude Hill) is nine when spiralin
+	g Catholic unrest upsets his previously cozy childhood and sends shockwave
+	s through his tight-knit family: Ma and Pa (Caitríona Balfe and Jamie Dorn
+	an) and beloved grandparents (Judi Dench and Ciarán Hinds). For Buddy\, it
+	’s a rude awakening\, but even hard times bring humour and vivid dreams of
+	 escape.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:5I8fRqYJfMcRRVVTpazB6C72xFzZyakk
+SUMMARY:The Conductor
+DTSTAMP:20220125T234200Z
+DTSTART:20220128T133000Z
+DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
+	was nine-years old. That’s when she found her vocation. Told that girls ca
+	n’t do that\, Marin struggled against enormous prejudices and institutiona
+	l obstacles for decades to become one of the world’s most renowned classic
+	al music conductors. The film follows Marin’s improbable rise and her sing
+	le-minded pursuit."If conductor Marin Alsop’s done it\, it’s probably beca
+	use someone told her she couldn’t.” The Washington Post
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:38EDv28olcc9f3urRPZWGsNgC0mqBK7C
+SUMMARY:C'mon C'mon
+DTSTAMP:20220125T234200Z
+DTSTART:20220128T150000Z
+DESCRIPTION:The latest from Mike Mills (20th Century Women\; Beginners) is 
+	guaranteed to make you feel a little better about humanity. Joaquin Phoeni
+	x plays Johnny\, a radio reporter working on a project in which he intervi
+	ews youths about their aspirations and fears. Pressed into looking after h
+	is nine-year-old nephew Jesse (Woody Norman)\, Johnny is taken aback by th
+	e boy’s mixture of candour and mischief-making. Little by little they buil
+	d trust and affection in beautifully written and often very funny scenes.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:j9qAyMmf5FVctqiw5rKqqIpZzLLDaVOw
+SUMMARY:Keep Rolling (Ann Hui\, Filmmaker)
+DTSTAMP:20220125T234200Z
+DTSTART:20220128T153000Z
+DESCRIPTION:Recipient of Venice Film Festival’s 2020 Lifetime Achievement A
+	ward\, Ann Hui’s 40-year artistic trajectory not only mirrors the roller-c
+	oaster ride that is Hong Kong cinema\, but parallels the poignant yet resi
+	lient course of its history. Hui displays her storytelling genius not only
+	 with celluloid but in humourous\, candid conversation. This documentary s
+	eamlessly weaves interviews and archival material into a Who’s Who of Asia
+	n cinema\, and is catnip for cinephiles anywhere.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Q+BtyvAIjf/iQAOIeO9tbKbWiUUPBYDa
+SUMMARY:Tosca\, From the Royal Opera House
+DTSTAMP:20220125T234200Z
+DTSTART:20220129T203000Z
+DESCRIPTION:Jonathan Kent’s taut and intense production of Puccini’s tragic
+	 opera with Paul Brown’s historically charged designs wonderfully evokes t
+	he dangerous atmosphere of Rome in 1800\, where love and evil come – thril
+	lingly – face to face. Oksana Lyniv conducts. Elena Stikina (Floria Tosca)
+	\; Freddie De Tommaso (Mario Cavaradossi)\; Alexey Markov (Baron Scarpia)\
+	; Hubert Francis (Spoletta). Running time includes two 15 minute intermiss
+	ions.Special ticket prices apply
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:rVNisa/SSzbI3dT/xiwWI4V/9w8MdLMZ
+SUMMARY:The Conductor
+DTSTAMP:20220125T234200Z
+DTSTART:20220129T110000Z
+DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
+	was nine-years old. That’s when she found her vocation. Told that girls ca
+	n’t do that\, Marin struggled against enormous prejudices and institutiona
+	l obstacles for decades to become one of the world’s most renowned classic
+	al music conductors. The film follows Marin’s improbable rise and her sing
+	le-minded pursuit."If conductor Marin Alsop’s done it\, it’s probably beca
+	use someone told her she couldn’t.” The Washington Post
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:AQdUQVFSB/fz2lhPnyoNnCp43cWoi506
+SUMMARY:C'mon C'mon
+DTSTAMP:20220125T234200Z
+DTSTART:20220129T122000Z
+DESCRIPTION:The latest from Mike Mills (20th Century Women\; Beginners) is 
+	guaranteed to make you feel a little better about humanity. Joaquin Phoeni
+	x plays Johnny\, a radio reporter working on a project in which he intervi
+	ews youths about their aspirations and fears. Pressed into looking after h
+	is nine-year-old nephew Jesse (Woody Norman)\, Johnny is taken aback by th
+	e boy’s mixture of candour and mischief-making. Little by little they buil
+	d trust and affection in beautifully written and often very funny scenes.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:rI+IwGOAST7GFdioRQqsc0qVMNtdks0v
+SUMMARY:Keep Rolling (Ann Hui\, Filmmaker)
+DTSTAMP:20220125T234200Z
+DTSTART:20220129T130000Z
+DESCRIPTION:Recipient of Venice Film Festival’s 2020 Lifetime Achievement A
+	ward\, Ann Hui’s 40-year artistic trajectory not only mirrors the roller-c
+	oaster ride that is Hong Kong cinema\, but parallels the poignant yet resi
+	lient course of its history. Hui displays her storytelling genius not only
+	 with celluloid but in humourous\, candid conversation. This documentary s
+	eamlessly weaves interviews and archival material into a Who’s Who of Asia
+	n cinema\, and is catnip for cinephiles anywhere.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:XzqP4i3gEkRbqDf/QSInYDZLCfp9RFz7
+SUMMARY:Belfast
+DTSTAMP:20220125T234200Z
+DTSTART:20220129T143000Z
+DESCRIPTION:Kenneth Branagh gets personal in this bittersweet black and whi
+	te autobiographical drama\, set in his hometown in Northern Ireland in 196
+	9\, at the advent of the Troubles. Buddy (Jude Hill) is nine when spiralin
+	g Catholic unrest upsets his previously cozy childhood and sends shockwave
+	s through his tight-knit family: Ma and Pa (Caitríona Balfe and Jamie Dorn
+	an) and beloved grandparents (Judi Dench and Ciarán Hinds). For Buddy\, it
+	’s a rude awakening\, but even hard times bring humour and vivid dreams of
+	 escape.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Q5U3QvHiM4zt+Wlg/XDrgadF5aFpqKVf
+SUMMARY:Ann Hui's Our Time Will Come
+DTSTAMP:20220125T234200Z
+DTSTART:20220129T153000Z
+DESCRIPTION:Based on the true story of Fang Gu (Zhou Xun)\, a school teache
+	r\, and the legendary\, JinJin “Blackie” Lau (Eddie Peng Yuyan)\, Ann Hui’
+	s award-winning drama recounts the exploits of the Dongjiang during World 
+	War II. Tasked with fighting against the Japanese occupation of Hong Kong\
+	, this ragtag group of guerrillas recruits Gu\, all against the wishes of 
+	her childhood sweetheart\, Li Jinrong (Wallace Huo Chienhwa)."Beautifully 
+	mounted and emotionally engaging." Hollywood Reporter
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:24fh2pyrlMpZcDcv7u+My2Bxqi2iwFQx
+SUMMARY:Titane
+DTSTAMP:20220125T234200Z
+DTSTART:20220129T163000Z
+DESCRIPTION:The love child of Jean Cocteau and David Cronenberg\, this ugly
+	 duckling of a movie has more gasp-out-loud moments than anything we’ve se
+	en in a long\, long time. Alexia (Agathe Rousselle) has a steel plate in h
+	er head and a chip on her shoulder. She’s also a killer hand with a metal-
+	tipped chopstick. Oh\, and she’s carrying a baby which might very well be 
+	born with four wheels and a motor. The film’s dream logic is aggressive bu
+	t deliriously\, ecstatically demented. Did we mention it won the Palme d’O
+	r?
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:IHkKiLmZ80lqxA7HdUE84yO6fSWF7bEE
+SUMMARY:Tribute to Peter Bogdanovich: The Last Picture Show
+DTSTAMP:20220125T234200Z
+DTSTART:20220130T113000Z
+DESCRIPTION:Bogdanovich’s second film was a triumph\, an adaptation of Larr
+	y McMurtry’s novel about a small Texas town at the dawn of the 1950s. Teen
+	agers Duane and Sonny (Jeff Bridges and Timothy Bottoms) are best friends\
+	, but the soul of the film is Ben Johnson’s Sam the Lion\, proprietor of t
+	he local movie house\, and a father figure in the boy’s lives. Robert Surt
+	ees’ dusty monochrome cinematography evokes a great yearning for a lost go
+	lden age.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:K2d5m8ZBUAxxEXlIcHSUSdE9u/rbsK0k
+SUMMARY:The Conductor
+DTSTAMP:20220125T234200Z
+DTSTART:20220130T120000Z
+DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
+	was nine-years old. That’s when she found her vocation. Told that girls ca
+	n’t do that\, Marin struggled against enormous prejudices and institutiona
+	l obstacles for decades to become one of the world’s most renowned classic
+	al music conductors. The film follows Marin’s improbable rise and her sing
+	le-minded pursuit."If conductor Marin Alsop’s done it\, it’s probably beca
+	use someone told her she couldn’t.” The Washington Post
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:8IacW+1nm6TtVn26TlXhL/JXIrvXNUqq
+SUMMARY:Tribute to Peter Bogdanovich: What's Up\, Doc?
+DTSTAMP:20220125T234200Z
+DTSTART:20220130T140000Z
+DESCRIPTION:After the acclaim which greeted The Last Picture Show\, Bogdano
+	vich proved his versatility with this colourful\, contemporary screwball c
+	omedy inspired by Howard Hawks’ classic Bringing Up Baby. Ryan O’Neal stan
+	ds in for Cary Grant\, and Barbra Streisand for Katharine Hepburn. Instead
+	 of a paleontologist\, it’s the story of an absent-minded musicologist who
+	se impending marriage to Madeline Kahn is derailed by the force of nature 
+	that is Streisand’s disaster-prone Judy Maxwell.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Jt2CV0rIeYXZOQxeYNCv5PTARkMOjT9+
+SUMMARY:Ann Hui's A Simple Life
+DTSTAMP:20220125T234200Z
+DTSTART:20220130T143000Z
+DESCRIPTION:Ann Hui’s lovely portrait of an elderly maid (Deanie Ip) retiri
+	ng after 60 years of service is one of her most beloved and acclaimed movi
+	es. As the title suggests\, this is a quiet\, quotidien film\, yet it spea
+	ks volumes about universal themes: aging\, work\, and personal relationshi
+	ps. This screens alongside Hui’s Our Time Will Come and the documentary po
+	rtrait of the filmmaker\, Keep Rolling.Best Actress\, Venice 2011\; Best D
+	irector\, Actor and Actress\, Golden Horse Awards 2011
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Cqrg88T57mn7XgmUs3iNu/hmrN6JzIQ1
+SUMMARY:Tribute to Peter Bogdanovich: Saint Jack
+DTSTAMP:20220125T234200Z
+DTSTART:20220130T160000Z
+DESCRIPTION:Jack Flowers (Ben Gazzara) is an American pimp in Singapore\, a
+	nd\, although his livelihood is unsavory\, he is not morally bankrupt\, an
+	d makes friends with auditor William (Denholm Elliott). Jack yearns for mo
+	re than the small-time\, though — his ambition is to open an entire bordel
+	lo. Meanwhile he gets the squeeze put on him by the local mob for his busi
+	ness dealings\, and\, to achieve his dream of luxury\, he may need to assi
+	st in a sinister deal by the CIA to take some compromising photographs.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:CHEsmgSAYZHayHcpqCCLJwygBXCOTiS4
+SUMMARY:Ann Hui's A Simple Life
+DTSTAMP:20220125T234200Z
+DTSTART:20220131T134000Z
+DESCRIPTION:Ann Hui’s lovely portrait of an elderly maid (Deanie Ip) retiri
+	ng after 60 years of service is one of her most beloved and acclaimed movi
+	es. As the title suggests\, this is a quiet\, quotidien film\, yet it spea
+	ks volumes about universal themes: aging\, work\, and personal relationshi
+	ps. This screens alongside Hui’s Our Time Will Come and the documentary po
+	rtrait of the filmmaker\, Keep Rolling.Best Actress\, Venice 2011\; Best D
+	irector\, Actor and Actress\, Golden Horse Awards 2011
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:ZQbjtpIHtHmbp54hvGkcBWYdWF/iZupb
+SUMMARY:The Conductor
+DTSTAMP:20220125T234200Z
+DTSTART:20220131T140000Z
+DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
+	was nine-years old. That’s when she found her vocation. Told that girls ca
+	n’t do that\, Marin struggled against enormous prejudices and institutiona
+	l obstacles for decades to become one of the world’s most renowned classic
+	al music conductors. The film follows Marin’s improbable rise and her sing
+	le-minded pursuit."If conductor Marin Alsop’s done it\, it’s probably beca
+	use someone told her she couldn’t.” The Washington Post
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:oM5fv/1FMxMv7cDSeFcp6tGKnSQ4pinl
+SUMMARY:Keep Rolling (Ann Hui\, Filmmaker)
+DTSTAMP:20220125T234200Z
+DTSTART:20220131T160000Z
+DESCRIPTION:Recipient of Venice Film Festival’s 2020 Lifetime Achievement A
+	ward\, Ann Hui’s 40-year artistic trajectory not only mirrors the roller-c
+	oaster ride that is Hong Kong cinema\, but parallels the poignant yet resi
+	lient course of its history. Hui displays her storytelling genius not only
+	 with celluloid but in humourous\, candid conversation. This documentary s
+	eamlessly weaves interviews and archival material into a Who’s Who of Asia
+	n cinema\, and is catnip for cinephiles anywhere.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Z7+dDeE4NHinKK5tujIem24y4AJfV4sO
+SUMMARY:Tribute to Peter Bogdanovich: Saint Jack
+DTSTAMP:20220125T234200Z
+DTSTART:20220131T162000Z
+DESCRIPTION:Jack Flowers (Ben Gazzara) is an American pimp in Singapore\, a
+	nd\, although his livelihood is unsavory\, he is not morally bankrupt\, an
+	d makes friends with auditor William (Denholm Elliott). Jack yearns for mo
+	re than the small-time\, though — his ambition is to open an entire bordel
+	lo. Meanwhile he gets the squeeze put on him by the local mob for his busi
+	ness dealings\, and\, to achieve his dream of luxury\, he may need to assi
+	st in a sinister deal by the CIA to take some compromising photographs.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:qxa4HjMKvHgdLUTnoS+TfO2m4hcHwpM8
+SUMMARY:C'mon C'mon
+DTSTAMP:20220125T234200Z
+DTSTART:20220201T124000Z
+DESCRIPTION:The latest from Mike Mills (20th Century Women\; Beginners) is 
+	guaranteed to make you feel a little better about humanity. Joaquin Phoeni
+	x plays Johnny\, a radio reporter working on a project in which he intervi
+	ews youths about their aspirations and fears. Pressed into looking after h
+	is nine-year-old nephew Jesse (Woody Norman)\, Johnny is taken aback by th
+	e boy’s mixture of candour and mischief-making. Little by little they buil
+	d trust and affection in beautifully written and often very funny scenes.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:ZtUKPFDB4JpWLkD7GW4DpK5dqBRXJthI
+SUMMARY:The Conductor
+DTSTAMP:20220125T234200Z
+DTSTART:20220201T130000Z
+DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
+	was nine-years old. That’s when she found her vocation. Told that girls ca
+	n’t do that\, Marin struggled against enormous prejudices and institutiona
+	l obstacles for decades to become one of the world’s most renowned classic
+	al music conductors. The film follows Marin’s improbable rise and her sing
+	le-minded pursuit."If conductor Marin Alsop’s done it\, it’s probably beca
+	use someone told her she couldn’t.” The Washington Post
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:JYXijb7PdkecOPxF1pmfwtsjJRAMkFzj
+SUMMARY:Belfast
+DTSTAMP:20220125T234200Z
+DTSTART:20220201T145000Z
+DESCRIPTION:Kenneth Branagh gets personal in this bittersweet black and whi
+	te autobiographical drama\, set in his hometown in Northern Ireland in 196
+	9\, at the advent of the Troubles. Buddy (Jude Hill) is nine when spiralin
+	g Catholic unrest upsets his previously cozy childhood and sends shockwave
+	s through his tight-knit family: Ma and Pa (Caitríona Balfe and Jamie Dorn
+	an) and beloved grandparents (Judi Dench and Ciarán Hinds). For Buddy\, it
+	’s a rude awakening\, but even hard times bring humour and vivid dreams of
+	 escape.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:4DLUywbSVSL6kpgvmdzXGgCdrmchZ3Ve
+SUMMARY:Tosca\, From the Royal Opera House
+DTSTAMP:20220125T234200Z
+DTSTART:20220202T100000Z
+DESCRIPTION:Jonathan Kent’s taut and intense production of Puccini’s tragic
+	 opera with Paul Brown’s historically charged designs wonderfully evokes t
+	he dangerous atmosphere of Rome in 1800\, where love and evil come – thril
+	lingly – face to face. Oksana Lyniv conducts. Elena Stikina (Floria Tosca)
+	\; Freddie De Tommaso (Mario Cavaradossi)\; Alexey Markov (Baron Scarpia)\
+	; Hubert Francis (Spoletta). Running time includes two 15 minute intermiss
+	ions.Special ticket prices apply
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:z6c7vVqaj88LCp5xvbsT+osImZRfjQBJ
+SUMMARY:C'mon C'mon
+DTSTAMP:20220125T234200Z
+DTSTART:20220202T110000Z
+DESCRIPTION:The latest from Mike Mills (20th Century Women\; Beginners) is 
+	guaranteed to make you feel a little better about humanity. Joaquin Phoeni
+	x plays Johnny\, a radio reporter working on a project in which he intervi
+	ews youths about their aspirations and fears. Pressed into looking after h
+	is nine-year-old nephew Jesse (Woody Norman)\, Johnny is taken aback by th
+	e boy’s mixture of candour and mischief-making. Little by little they buil
+	d trust and affection in beautifully written and often very funny scenes.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:JmJVJW7FYlX5oh0ZiEX4JAOqaEFqKKMB
+SUMMARY:Ann Hui's Our Time Will Come
+DTSTAMP:20220125T234200Z
+DTSTART:20220202T133000Z
+DESCRIPTION:Based on the true story of Fang Gu (Zhou Xun)\, a school teache
+	r\, and the legendary\, JinJin “Blackie” Lau (Eddie Peng Yuyan)\, Ann Hui’
+	s award-winning drama recounts the exploits of the Dongjiang during World 
+	War II. Tasked with fighting against the Japanese occupation of Hong Kong\
+	, this ragtag group of guerrillas recruits Gu\, all against the wishes of 
+	her childhood sweetheart\, Li Jinrong (Wallace Huo Chienhwa)."Beautifully 
+	mounted and emotionally engaging." Hollywood Reporter
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:flshk89EoFxXyibzSPyHo0V1pMa8nUWw
+SUMMARY:The Conductor
+DTSTAMP:20220125T234200Z
+DTSTART:20220202T140000Z
+DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
+	was nine-years old. That’s when she found her vocation. Told that girls ca
+	n’t do that\, Marin struggled against enormous prejudices and institutiona
+	l obstacles for decades to become one of the world’s most renowned classic
+	al music conductors. The film follows Marin’s improbable rise and her sing
+	le-minded pursuit."If conductor Marin Alsop’s done it\, it’s probably beca
+	use someone told her she couldn’t.” The Washington Post
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Y2NXxfeWwZ0HwYJYubgKZGnje4ETpYXl
+SUMMARY:Tribute to Peter Bogdanovich: The Last Picture Show
+DTSTAMP:20220125T234200Z
+DTSTART:20220202T155000Z
+DESCRIPTION:Bogdanovich’s second film was a triumph\, an adaptation of Larr
+	y McMurtry’s novel about a small Texas town at the dawn of the 1950s. Teen
+	agers Duane and Sonny (Jeff Bridges and Timothy Bottoms) are best friends\
+	, but the soul of the film is Ben Johnson’s Sam the Lion\, proprietor of t
+	he local movie house\, and a father figure in the boy’s lives. Robert Surt
+	ees’ dusty monochrome cinematography evokes a great yearning for a lost go
+	lden age.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:ADL0WSFsbmsr400X1fWmnMAh1jHvF2ey
+SUMMARY:Keep Rolling (Ann Hui\, Filmmaker)
+DTSTAMP:20220125T234200Z
+DTSTART:20220202T161000Z
+DESCRIPTION:Recipient of Venice Film Festival’s 2020 Lifetime Achievement A
+	ward\, Ann Hui’s 40-year artistic trajectory not only mirrors the roller-c
+	oaster ride that is Hong Kong cinema\, but parallels the poignant yet resi
+	lient course of its history. Hui displays her storytelling genius not only
+	 with celluloid but in humourous\, candid conversation. This documentary s
+	eamlessly weaves interviews and archival material into a Who’s Who of Asia
+	n cinema\, and is catnip for cinephiles anywhere.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:5D1GEXonTDqV26YcYZ7tK5R27RsXNGU7
+SUMMARY:The Conductor
+DTSTAMP:20220125T234200Z
+DTSTART:20220203T140000Z
+DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
+	was nine-years old. That’s when she found her vocation. Told that girls ca
+	n’t do that\, Marin struggled against enormous prejudices and institutiona
+	l obstacles for decades to become one of the world’s most renowned classic
+	al music conductors. The film follows Marin’s improbable rise and her sing
+	le-minded pursuit."If conductor Marin Alsop’s done it\, it’s probably beca
+	use someone told her she couldn’t.” The Washington Post
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:9AgakbAtYacihqlo7Q8yWRn2pKjUxzfy
+SUMMARY:Belfast
+DTSTAMP:20220125T234200Z
+DTSTART:20220203T142000Z
+DESCRIPTION:Kenneth Branagh gets personal in this bittersweet black and whi
+	te autobiographical drama\, set in his hometown in Northern Ireland in 196
+	9\, at the advent of the Troubles. Buddy (Jude Hill) is nine when spiralin
+	g Catholic unrest upsets his previously cozy childhood and sends shockwave
+	s through his tight-knit family: Ma and Pa (Caitríona Balfe and Jamie Dorn
+	an) and beloved grandparents (Judi Dench and Ciarán Hinds). For Buddy\, it
+	’s a rude awakening\, but even hard times bring humour and vivid dreams of
+	 escape.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Esd/tVvN0U0gj2j/dY999TP7imjj8/TR
+SUMMARY:Tribute to Peter Bogdanovich: What's Up\, Doc?
+DTSTAMP:20220125T234200Z
+DTSTART:20220203T155000Z
+DESCRIPTION:After the acclaim which greeted The Last Picture Show\, Bogdano
+	vich proved his versatility with this colourful\, contemporary screwball c
+	omedy inspired by Howard Hawks’ classic Bringing Up Baby. Ryan O’Neal stan
+	ds in for Cary Grant\, and Barbra Streisand for Katharine Hepburn. Instead
+	 of a paleontologist\, it’s the story of an absent-minded musicologist who
+	se impending marriage to Madeline Kahn is derailed by the force of nature 
+	that is Streisand’s disaster-prone Judy Maxwell.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:s2wrG1c3+Z8R6/5W2zQJUnI3ODqP2c4u
+SUMMARY:C'mon C'mon
+DTSTAMP:20220125T234200Z
+DTSTART:20220203T162000Z
+DESCRIPTION:The latest from Mike Mills (20th Century Women\; Beginners) is 
+	guaranteed to make you feel a little better about humanity. Joaquin Phoeni
+	x plays Johnny\, a radio reporter working on a project in which he intervi
+	ews youths about their aspirations and fears. Pressed into looking after h
+	is nine-year-old nephew Jesse (Woody Norman)\, Johnny is taken aback by th
+	e boy’s mixture of candour and mischief-making. Little by little they buil
+	d trust and affection in beautifully written and often very funny scenes.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Ojvo5suflo43UEODKbNDT/5NQ0N+xApC
+SUMMARY:The Conductor
+DTSTAMP:20220125T234200Z
+DTSTART:20220205T113000Z
+DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
+	was nine-years old. That’s when she found her vocation. Told that girls ca
+	n’t do that\, Marin struggled against enormous prejudices and institutiona
+	l obstacles for decades to become one of the world’s most renowned classic
+	al music conductors. The film follows Marin’s improbable rise and her sing
+	le-minded pursuit."If conductor Marin Alsop’s done it\, it’s probably beca
+	use someone told her she couldn’t.” The Washington Post
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Mcvkt6KkQ9QOk7r/NoEAHc0RC4gve4JQ
+SUMMARY:The Conductor
+DTSTAMP:20220125T234200Z
+DTSTART:20220208T161000Z
+DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
+	was nine-years old. That’s when she found her vocation. Told that girls ca
+	n’t do that\, Marin struggled against enormous prejudices and institutiona
+	l obstacles for decades to become one of the world’s most renowned classic
+	al music conductors. The film follows Marin’s improbable rise and her sing
+	le-minded pursuit."If conductor Marin Alsop’s done it\, it’s probably beca
+	use someone told her she couldn’t.” The Washington Post
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:cc9MoFF1x+x0FskO1IdYOMy37pkDOGZv
+SUMMARY:The Power of the Dog
+DTSTAMP:20220125T234200Z
+DTSTART:20220208T163000Z
+DESCRIPTION:In her strongest movie since The Piano\, Jane Campion turns the
+	 machismo of the western film on its head. On the Burbanks’ Montana cattle
+	 ranch the boorish Phil (Benedict Cumberbatch) rules the roost over his mi
+	ld mannered brother George (Jesse Plemons). When George finds himself a wi
+	fe and heir in the form of Rose (Kirsten Dunst) and her effete son (Kodi S
+	mit-McPhee)\, Phil is determined to make their life hell. But then he take
+	s a shine to the boy…A stark\, brooding tale destined to be a modern class
+	ic.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:IJVI9XSbt/ZsngYA25y0rBy0w38TgdMs
+SUMMARY:The Power of the Dog
+DTSTAMP:20220125T234200Z
+DTSTART:20220210T135000Z
+DESCRIPTION:In her strongest movie since The Piano\, Jane Campion turns the
+	 machismo of the western film on its head. On the Burbanks’ Montana cattle
+	 ranch the boorish Phil (Benedict Cumberbatch) rules the roost over his mi
+	ld mannered brother George (Jesse Plemons). When George finds himself a wi
+	fe and heir in the form of Rose (Kirsten Dunst) and her effete son (Kodi S
+	mit-McPhee)\, Phil is determined to make their life hell. But then he take
+	s a shine to the boy…A stark\, brooding tale destined to be a modern class
+	ic.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
 END:VEVENT
 END:VCALENDAR
