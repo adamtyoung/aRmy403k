@@ -7,8 +7,8 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:E4fVlmIRbpyvR2EWoOkvMgPtTAf82Fcj
 SUMMARY:Drive My Car
-DTSTAMP:20220125T234200Z
-DTSTART:20220125T130000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220126T010000Z
 DESCRIPTION:Kafuku is a theatre director\, actor\, and storyteller… yet eve
 	n he withdraws when it comes to confronting his deepest sorrow. Mourning h
 	is wife\, and the secrets that died with her\, he accepts an invitation to
@@ -22,8 +22,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:l7JGUlqpDXLrxnFrVw7VyAlqROtDlqc0
 SUMMARY:Délicieux
-DTSTAMP:20220125T234200Z
-DTSTART:20220125T133000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220126T013000Z
 DESCRIPTION:France\, 1789. Popular unrest is broiling\, the people are hung
 	ry for change. But for Manceron (Grégory Gadebois)\, personal chef to a go
 	urmand duke\, the breaking point comes when his patron rebukes him for ser
@@ -38,8 +38,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rvgv8aH5qhSG+9jvbJq5razryLk77kmk
 SUMMARY:Wheel of Fortune and Fantasy
-DTSTAMP:20220125T234200Z
-DTSTART:20220125T160000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220126T040000Z
 DESCRIPTION:An unexpected love triangle\, a literary seduction\, and a chan
 	ce encounter with an old school friend… Propelled by coincidence and imagi
 	nation\, and guided by love’s gentle current\, acclaimed director Ryūsuke 
@@ -54,8 +54,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:g/hWh0gIlmklSj3Ccjt9qn873vWp3V6D
 SUMMARY:Titane
-DTSTAMP:20220125T234200Z
-DTSTART:20220125T163000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220126T043000Z
 DESCRIPTION:The love child of Jean Cocteau and David Cronenberg\, this ugly
 	 duckling of a movie has more gasp-out-loud moments than anything we’ve se
 	en in a long\, long time. Alexia (Agathe Rousselle) has a steel plate in h
@@ -70,8 +70,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:P9WH7htT5GpKp4Py2pbRcUAMb9TL1+Lw
 SUMMARY:Belfast
-DTSTAMP:20220125T234200Z
-DTSTART:20220128T130000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220129T010000Z
 DESCRIPTION:Kenneth Branagh gets personal in this bittersweet black and whi
 	te autobiographical drama\, set in his hometown in Northern Ireland in 196
 	9\, at the advent of the Troubles. Buddy (Jude Hill) is nine when spiralin
@@ -86,8 +86,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5I8fRqYJfMcRRVVTpazB6C72xFzZyakk
 SUMMARY:The Conductor
-DTSTAMP:20220125T234200Z
-DTSTART:20220128T133000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220129T013000Z
 DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
 	was nine-years old. That’s when she found her vocation. Told that girls ca
 	n’t do that\, Marin struggled against enormous prejudices and institutiona
@@ -101,8 +101,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:38EDv28olcc9f3urRPZWGsNgC0mqBK7C
 SUMMARY:C'mon C'mon
-DTSTAMP:20220125T234200Z
-DTSTART:20220128T150000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220129T030000Z
 DESCRIPTION:The latest from Mike Mills (20th Century Women\; Beginners) is 
 	guaranteed to make you feel a little better about humanity. Joaquin Phoeni
 	x plays Johnny\, a radio reporter working on a project in which he intervi
@@ -116,8 +116,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:j9qAyMmf5FVctqiw5rKqqIpZzLLDaVOw
 SUMMARY:Keep Rolling (Ann Hui\, Filmmaker)
-DTSTAMP:20220125T234200Z
-DTSTART:20220128T153000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220129T033000Z
 DESCRIPTION:Recipient of Venice Film Festival’s 2020 Lifetime Achievement A
 	ward\, Ann Hui’s 40-year artistic trajectory not only mirrors the roller-c
 	oaster ride that is Hong Kong cinema\, but parallels the poignant yet resi
@@ -131,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Q+BtyvAIjf/iQAOIeO9tbKbWiUUPBYDa
 SUMMARY:Tosca\, From the Royal Opera House
-DTSTAMP:20220125T234200Z
+DTSTAMP:20220125T235300Z
 DTSTART:20220129T203000Z
 DESCRIPTION:Jonathan Kent’s taut and intense production of Puccini’s tragic
 	 opera with Paul Brown’s historically charged designs wonderfully evokes t
@@ -146,8 +146,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rVNisa/SSzbI3dT/xiwWI4V/9w8MdLMZ
 SUMMARY:The Conductor
-DTSTAMP:20220125T234200Z
-DTSTART:20220129T110000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220129T230000Z
 DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
 	was nine-years old. That’s when she found her vocation. Told that girls ca
 	n’t do that\, Marin struggled against enormous prejudices and institutiona
@@ -161,8 +161,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:AQdUQVFSB/fz2lhPnyoNnCp43cWoi506
 SUMMARY:C'mon C'mon
-DTSTAMP:20220125T234200Z
-DTSTART:20220129T122000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220130T002000Z
 DESCRIPTION:The latest from Mike Mills (20th Century Women\; Beginners) is 
 	guaranteed to make you feel a little better about humanity. Joaquin Phoeni
 	x plays Johnny\, a radio reporter working on a project in which he intervi
@@ -176,8 +176,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rI+IwGOAST7GFdioRQqsc0qVMNtdks0v
 SUMMARY:Keep Rolling (Ann Hui\, Filmmaker)
-DTSTAMP:20220125T234200Z
-DTSTART:20220129T130000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220130T010000Z
 DESCRIPTION:Recipient of Venice Film Festival’s 2020 Lifetime Achievement A
 	ward\, Ann Hui’s 40-year artistic trajectory not only mirrors the roller-c
 	oaster ride that is Hong Kong cinema\, but parallels the poignant yet resi
@@ -191,8 +191,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:XzqP4i3gEkRbqDf/QSInYDZLCfp9RFz7
 SUMMARY:Belfast
-DTSTAMP:20220125T234200Z
-DTSTART:20220129T143000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220130T023000Z
 DESCRIPTION:Kenneth Branagh gets personal in this bittersweet black and whi
 	te autobiographical drama\, set in his hometown in Northern Ireland in 196
 	9\, at the advent of the Troubles. Buddy (Jude Hill) is nine when spiralin
@@ -207,8 +207,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Q5U3QvHiM4zt+Wlg/XDrgadF5aFpqKVf
 SUMMARY:Ann Hui's Our Time Will Come
-DTSTAMP:20220125T234200Z
-DTSTART:20220129T153000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220130T033000Z
 DESCRIPTION:Based on the true story of Fang Gu (Zhou Xun)\, a school teache
 	r\, and the legendary\, JinJin “Blackie” Lau (Eddie Peng Yuyan)\, Ann Hui’
 	s award-winning drama recounts the exploits of the Dongjiang during World 
@@ -222,8 +222,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:24fh2pyrlMpZcDcv7u+My2Bxqi2iwFQx
 SUMMARY:Titane
-DTSTAMP:20220125T234200Z
-DTSTART:20220129T163000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220130T043000Z
 DESCRIPTION:The love child of Jean Cocteau and David Cronenberg\, this ugly
 	 duckling of a movie has more gasp-out-loud moments than anything we’ve se
 	en in a long\, long time. Alexia (Agathe Rousselle) has a steel plate in h
@@ -238,8 +238,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:IHkKiLmZ80lqxA7HdUE84yO6fSWF7bEE
 SUMMARY:Tribute to Peter Bogdanovich: The Last Picture Show
-DTSTAMP:20220125T234200Z
-DTSTART:20220130T113000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220130T233000Z
 DESCRIPTION:Bogdanovich’s second film was a triumph\, an adaptation of Larr
 	y McMurtry’s novel about a small Texas town at the dawn of the 1950s. Teen
 	agers Duane and Sonny (Jeff Bridges and Timothy Bottoms) are best friends\
@@ -253,8 +253,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:K2d5m8ZBUAxxEXlIcHSUSdE9u/rbsK0k
 SUMMARY:The Conductor
-DTSTAMP:20220125T234200Z
-DTSTART:20220130T120000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220131T000000Z
 DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
 	was nine-years old. That’s when she found her vocation. Told that girls ca
 	n’t do that\, Marin struggled against enormous prejudices and institutiona
@@ -268,8 +268,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8IacW+1nm6TtVn26TlXhL/JXIrvXNUqq
 SUMMARY:Tribute to Peter Bogdanovich: What's Up\, Doc?
-DTSTAMP:20220125T234200Z
-DTSTART:20220130T140000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220131T020000Z
 DESCRIPTION:After the acclaim which greeted The Last Picture Show\, Bogdano
 	vich proved his versatility with this colourful\, contemporary screwball c
 	omedy inspired by Howard Hawks’ classic Bringing Up Baby. Ryan O’Neal stan
@@ -283,8 +283,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Jt2CV0rIeYXZOQxeYNCv5PTARkMOjT9+
 SUMMARY:Ann Hui's A Simple Life
-DTSTAMP:20220125T234200Z
-DTSTART:20220130T143000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220131T023000Z
 DESCRIPTION:Ann Hui’s lovely portrait of an elderly maid (Deanie Ip) retiri
 	ng after 60 years of service is one of her most beloved and acclaimed movi
 	es. As the title suggests\, this is a quiet\, quotidien film\, yet it spea
@@ -298,8 +298,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cqrg88T57mn7XgmUs3iNu/hmrN6JzIQ1
 SUMMARY:Tribute to Peter Bogdanovich: Saint Jack
-DTSTAMP:20220125T234200Z
-DTSTART:20220130T160000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220131T040000Z
 DESCRIPTION:Jack Flowers (Ben Gazzara) is an American pimp in Singapore\, a
 	nd\, although his livelihood is unsavory\, he is not morally bankrupt\, an
 	d makes friends with auditor William (Denholm Elliott). Jack yearns for mo
@@ -313,8 +313,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:CHEsmgSAYZHayHcpqCCLJwygBXCOTiS4
 SUMMARY:Ann Hui's A Simple Life
-DTSTAMP:20220125T234200Z
-DTSTART:20220131T134000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220201T014000Z
 DESCRIPTION:Ann Hui’s lovely portrait of an elderly maid (Deanie Ip) retiri
 	ng after 60 years of service is one of her most beloved and acclaimed movi
 	es. As the title suggests\, this is a quiet\, quotidien film\, yet it spea
@@ -328,8 +328,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ZQbjtpIHtHmbp54hvGkcBWYdWF/iZupb
 SUMMARY:The Conductor
-DTSTAMP:20220125T234200Z
-DTSTART:20220131T140000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220201T020000Z
 DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
 	was nine-years old. That’s when she found her vocation. Told that girls ca
 	n’t do that\, Marin struggled against enormous prejudices and institutiona
@@ -343,8 +343,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:oM5fv/1FMxMv7cDSeFcp6tGKnSQ4pinl
 SUMMARY:Keep Rolling (Ann Hui\, Filmmaker)
-DTSTAMP:20220125T234200Z
-DTSTART:20220131T160000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220201T040000Z
 DESCRIPTION:Recipient of Venice Film Festival’s 2020 Lifetime Achievement A
 	ward\, Ann Hui’s 40-year artistic trajectory not only mirrors the roller-c
 	oaster ride that is Hong Kong cinema\, but parallels the poignant yet resi
@@ -358,8 +358,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Z7+dDeE4NHinKK5tujIem24y4AJfV4sO
 SUMMARY:Tribute to Peter Bogdanovich: Saint Jack
-DTSTAMP:20220125T234200Z
-DTSTART:20220131T162000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220201T042000Z
 DESCRIPTION:Jack Flowers (Ben Gazzara) is an American pimp in Singapore\, a
 	nd\, although his livelihood is unsavory\, he is not morally bankrupt\, an
 	d makes friends with auditor William (Denholm Elliott). Jack yearns for mo
@@ -373,8 +373,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:qxa4HjMKvHgdLUTnoS+TfO2m4hcHwpM8
 SUMMARY:C'mon C'mon
-DTSTAMP:20220125T234200Z
-DTSTART:20220201T124000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220202T004000Z
 DESCRIPTION:The latest from Mike Mills (20th Century Women\; Beginners) is 
 	guaranteed to make you feel a little better about humanity. Joaquin Phoeni
 	x plays Johnny\, a radio reporter working on a project in which he intervi
@@ -388,8 +388,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ZtUKPFDB4JpWLkD7GW4DpK5dqBRXJthI
 SUMMARY:The Conductor
-DTSTAMP:20220125T234200Z
-DTSTART:20220201T130000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220202T010000Z
 DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
 	was nine-years old. That’s when she found her vocation. Told that girls ca
 	n’t do that\, Marin struggled against enormous prejudices and institutiona
@@ -403,8 +403,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:JYXijb7PdkecOPxF1pmfwtsjJRAMkFzj
 SUMMARY:Belfast
-DTSTAMP:20220125T234200Z
-DTSTART:20220201T145000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220202T025000Z
 DESCRIPTION:Kenneth Branagh gets personal in this bittersweet black and whi
 	te autobiographical drama\, set in his hometown in Northern Ireland in 196
 	9\, at the advent of the Troubles. Buddy (Jude Hill) is nine when spiralin
@@ -419,8 +419,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4DLUywbSVSL6kpgvmdzXGgCdrmchZ3Ve
 SUMMARY:Tosca\, From the Royal Opera House
-DTSTAMP:20220125T234200Z
-DTSTART:20220202T100000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220202T220000Z
 DESCRIPTION:Jonathan Kent’s taut and intense production of Puccini’s tragic
 	 opera with Paul Brown’s historically charged designs wonderfully evokes t
 	he dangerous atmosphere of Rome in 1800\, where love and evil come – thril
@@ -434,8 +434,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:z6c7vVqaj88LCp5xvbsT+osImZRfjQBJ
 SUMMARY:C'mon C'mon
-DTSTAMP:20220125T234200Z
-DTSTART:20220202T110000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220202T230000Z
 DESCRIPTION:The latest from Mike Mills (20th Century Women\; Beginners) is 
 	guaranteed to make you feel a little better about humanity. Joaquin Phoeni
 	x plays Johnny\, a radio reporter working on a project in which he intervi
@@ -449,8 +449,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:JmJVJW7FYlX5oh0ZiEX4JAOqaEFqKKMB
 SUMMARY:Ann Hui's Our Time Will Come
-DTSTAMP:20220125T234200Z
-DTSTART:20220202T133000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220203T013000Z
 DESCRIPTION:Based on the true story of Fang Gu (Zhou Xun)\, a school teache
 	r\, and the legendary\, JinJin “Blackie” Lau (Eddie Peng Yuyan)\, Ann Hui’
 	s award-winning drama recounts the exploits of the Dongjiang during World 
@@ -464,8 +464,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:flshk89EoFxXyibzSPyHo0V1pMa8nUWw
 SUMMARY:The Conductor
-DTSTAMP:20220125T234200Z
-DTSTART:20220202T140000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220203T020000Z
 DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
 	was nine-years old. That’s when she found her vocation. Told that girls ca
 	n’t do that\, Marin struggled against enormous prejudices and institutiona
@@ -479,8 +479,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Y2NXxfeWwZ0HwYJYubgKZGnje4ETpYXl
 SUMMARY:Tribute to Peter Bogdanovich: The Last Picture Show
-DTSTAMP:20220125T234200Z
-DTSTART:20220202T155000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220203T035000Z
 DESCRIPTION:Bogdanovich’s second film was a triumph\, an adaptation of Larr
 	y McMurtry’s novel about a small Texas town at the dawn of the 1950s. Teen
 	agers Duane and Sonny (Jeff Bridges and Timothy Bottoms) are best friends\
@@ -494,8 +494,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ADL0WSFsbmsr400X1fWmnMAh1jHvF2ey
 SUMMARY:Keep Rolling (Ann Hui\, Filmmaker)
-DTSTAMP:20220125T234200Z
-DTSTART:20220202T161000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220203T041000Z
 DESCRIPTION:Recipient of Venice Film Festival’s 2020 Lifetime Achievement A
 	ward\, Ann Hui’s 40-year artistic trajectory not only mirrors the roller-c
 	oaster ride that is Hong Kong cinema\, but parallels the poignant yet resi
@@ -509,8 +509,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5D1GEXonTDqV26YcYZ7tK5R27RsXNGU7
 SUMMARY:The Conductor
-DTSTAMP:20220125T234200Z
-DTSTART:20220203T140000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220204T020000Z
 DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
 	was nine-years old. That’s when she found her vocation. Told that girls ca
 	n’t do that\, Marin struggled against enormous prejudices and institutiona
@@ -524,8 +524,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9AgakbAtYacihqlo7Q8yWRn2pKjUxzfy
 SUMMARY:Belfast
-DTSTAMP:20220125T234200Z
-DTSTART:20220203T142000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220204T022000Z
 DESCRIPTION:Kenneth Branagh gets personal in this bittersweet black and whi
 	te autobiographical drama\, set in his hometown in Northern Ireland in 196
 	9\, at the advent of the Troubles. Buddy (Jude Hill) is nine when spiralin
@@ -540,8 +540,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Esd/tVvN0U0gj2j/dY999TP7imjj8/TR
 SUMMARY:Tribute to Peter Bogdanovich: What's Up\, Doc?
-DTSTAMP:20220125T234200Z
-DTSTART:20220203T155000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220204T035000Z
 DESCRIPTION:After the acclaim which greeted The Last Picture Show\, Bogdano
 	vich proved his versatility with this colourful\, contemporary screwball c
 	omedy inspired by Howard Hawks’ classic Bringing Up Baby. Ryan O’Neal stan
@@ -555,8 +555,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:s2wrG1c3+Z8R6/5W2zQJUnI3ODqP2c4u
 SUMMARY:C'mon C'mon
-DTSTAMP:20220125T234200Z
-DTSTART:20220203T162000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220204T042000Z
 DESCRIPTION:The latest from Mike Mills (20th Century Women\; Beginners) is 
 	guaranteed to make you feel a little better about humanity. Joaquin Phoeni
 	x plays Johnny\, a radio reporter working on a project in which he intervi
@@ -570,8 +570,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Ojvo5suflo43UEODKbNDT/5NQ0N+xApC
 SUMMARY:The Conductor
-DTSTAMP:20220125T234200Z
-DTSTART:20220205T113000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220205T233000Z
 DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
 	was nine-years old. That’s when she found her vocation. Told that girls ca
 	n’t do that\, Marin struggled against enormous prejudices and institutiona
@@ -585,8 +585,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Mcvkt6KkQ9QOk7r/NoEAHc0RC4gve4JQ
 SUMMARY:The Conductor
-DTSTAMP:20220125T234200Z
-DTSTART:20220208T161000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220209T041000Z
 DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
 	was nine-years old. That’s when she found her vocation. Told that girls ca
 	n’t do that\, Marin struggled against enormous prejudices and institutiona
@@ -600,8 +600,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cc9MoFF1x+x0FskO1IdYOMy37pkDOGZv
 SUMMARY:The Power of the Dog
-DTSTAMP:20220125T234200Z
-DTSTART:20220208T163000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220209T043000Z
 DESCRIPTION:In her strongest movie since The Piano\, Jane Campion turns the
 	 machismo of the western film on its head. On the Burbanks’ Montana cattle
 	 ranch the boorish Phil (Benedict Cumberbatch) rules the roost over his mi
@@ -616,8 +616,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:IJVI9XSbt/ZsngYA25y0rBy0w38TgdMs
 SUMMARY:The Power of the Dog
-DTSTAMP:20220125T234200Z
-DTSTART:20220210T135000Z
+DTSTAMP:20220125T235300Z
+DTSTART:20220211T015000Z
 DESCRIPTION:In her strongest movie since The Piano\, Jane Campion turns the
 	 machismo of the western film on its head. On the Burbanks’ Montana cattle
 	 ranch the boorish Phil (Benedict Cumberbatch) rules the roost over his mi
