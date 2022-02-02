@@ -5,373 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:P9WH7htT5GpKp4Py2pbRcUAMb9TL1+Lw
-SUMMARY:Belfast
-DTSTAMP:20220128T232600Z
-DTSTART:20220129T010000Z
-DESCRIPTION:Kenneth Branagh gets personal in this bittersweet black and whi
-	te autobiographical drama\, set in his hometown in Northern Ireland in 196
-	9\, at the advent of the Troubles. Buddy (Jude Hill) is nine when spiralin
-	g Catholic unrest upsets his previously cozy childhood and sends shockwave
-	s through his tight-knit family: Ma and Pa (Caitríona Balfe and Jamie Dorn
-	an) and beloved grandparents (Judi Dench and Ciarán Hinds). For Buddy\, it
-	’s a rude awakening\, but even hard times bring humour and vivid dreams of
-	 escape.
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:5I8fRqYJfMcRRVVTpazB6C72xFzZyakk
-SUMMARY:The Conductor
-DTSTAMP:20220128T232600Z
-DTSTART:20220129T013000Z
-DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
-	was nine-years old. That’s when she found her vocation. Told that girls ca
-	n’t do that\, Marin struggled against enormous prejudices and institutiona
-	l obstacles for decades to become one of the world’s most renowned classic
-	al music conductors. The film follows Marin’s improbable rise and her sing
-	le-minded pursuit."If conductor Marin Alsop’s done it\, it’s probably beca
-	use someone told her she couldn’t.” The Washington Post
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:38EDv28olcc9f3urRPZWGsNgC0mqBK7C
-SUMMARY:C'mon C'mon
-DTSTAMP:20220128T232600Z
-DTSTART:20220129T030000Z
-DESCRIPTION:The latest from Mike Mills (20th Century Women\; Beginners) is 
-	guaranteed to make you feel a little better about humanity. Joaquin Phoeni
-	x plays Johnny\, a radio reporter working on a project in which he intervi
-	ews youths about their aspirations and fears. Pressed into looking after h
-	is nine-year-old nephew Jesse (Woody Norman)\, Johnny is taken aback by th
-	e boy’s mixture of candour and mischief-making. Little by little they buil
-	d trust and affection in beautifully written and often very funny scenes.
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:j9qAyMmf5FVctqiw5rKqqIpZzLLDaVOw
-SUMMARY:Keep Rolling (Ann Hui\, Filmmaker)
-DTSTAMP:20220128T232600Z
-DTSTART:20220129T033000Z
-DESCRIPTION:Recipient of Venice Film Festival’s 2020 Lifetime Achievement A
-	ward\, Ann Hui’s 40-year artistic trajectory not only mirrors the roller-c
-	oaster ride that is Hong Kong cinema\, but parallels the poignant yet resi
-	lient course of its history. Hui displays her storytelling genius not only
-	 with celluloid but in humourous\, candid conversation. This documentary s
-	eamlessly weaves interviews and archival material into a Who’s Who of Asia
-	n cinema\, and is catnip for cinephiles anywhere.
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:Q+BtyvAIjf/iQAOIeO9tbKbWiUUPBYDa
-SUMMARY:Tosca\, From the Royal Opera House
-DTSTAMP:20220128T232600Z
-DTSTART:20220129T203000Z
-DESCRIPTION:Jonathan Kent’s taut and intense production of Puccini’s tragic
-	 opera with Paul Brown’s historically charged designs wonderfully evokes t
-	he dangerous atmosphere of Rome in 1800\, where love and evil come – thril
-	lingly – face to face. Oksana Lyniv conducts. Elena Stikina (Floria Tosca)
-	\; Freddie De Tommaso (Mario Cavaradossi)\; Alexey Markov (Baron Scarpia)\
-	; Hubert Francis (Spoletta). Running time includes two 15 minute intermiss
-	ions.Special ticket prices apply
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:rVNisa/SSzbI3dT/xiwWI4V/9w8MdLMZ
-SUMMARY:The Conductor
-DTSTAMP:20220128T232600Z
-DTSTART:20220129T230000Z
-DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
-	was nine-years old. That’s when she found her vocation. Told that girls ca
-	n’t do that\, Marin struggled against enormous prejudices and institutiona
-	l obstacles for decades to become one of the world’s most renowned classic
-	al music conductors. The film follows Marin’s improbable rise and her sing
-	le-minded pursuit."If conductor Marin Alsop’s done it\, it’s probably beca
-	use someone told her she couldn’t.” The Washington Post
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:AQdUQVFSB/fz2lhPnyoNnCp43cWoi506
-SUMMARY:C'mon C'mon
-DTSTAMP:20220128T232600Z
-DTSTART:20220130T002000Z
-DESCRIPTION:The latest from Mike Mills (20th Century Women\; Beginners) is 
-	guaranteed to make you feel a little better about humanity. Joaquin Phoeni
-	x plays Johnny\, a radio reporter working on a project in which he intervi
-	ews youths about their aspirations and fears. Pressed into looking after h
-	is nine-year-old nephew Jesse (Woody Norman)\, Johnny is taken aback by th
-	e boy’s mixture of candour and mischief-making. Little by little they buil
-	d trust and affection in beautifully written and often very funny scenes.
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:rI+IwGOAST7GFdioRQqsc0qVMNtdks0v
-SUMMARY:Keep Rolling (Ann Hui\, Filmmaker)
-DTSTAMP:20220128T232600Z
-DTSTART:20220130T010000Z
-DESCRIPTION:Recipient of Venice Film Festival’s 2020 Lifetime Achievement A
-	ward\, Ann Hui’s 40-year artistic trajectory not only mirrors the roller-c
-	oaster ride that is Hong Kong cinema\, but parallels the poignant yet resi
-	lient course of its history. Hui displays her storytelling genius not only
-	 with celluloid but in humourous\, candid conversation. This documentary s
-	eamlessly weaves interviews and archival material into a Who’s Who of Asia
-	n cinema\, and is catnip for cinephiles anywhere.
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:XzqP4i3gEkRbqDf/QSInYDZLCfp9RFz7
-SUMMARY:Belfast
-DTSTAMP:20220128T232600Z
-DTSTART:20220130T023000Z
-DESCRIPTION:Kenneth Branagh gets personal in this bittersweet black and whi
-	te autobiographical drama\, set in his hometown in Northern Ireland in 196
-	9\, at the advent of the Troubles. Buddy (Jude Hill) is nine when spiralin
-	g Catholic unrest upsets his previously cozy childhood and sends shockwave
-	s through his tight-knit family: Ma and Pa (Caitríona Balfe and Jamie Dorn
-	an) and beloved grandparents (Judi Dench and Ciarán Hinds). For Buddy\, it
-	’s a rude awakening\, but even hard times bring humour and vivid dreams of
-	 escape.
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:Q5U3QvHiM4zt+Wlg/XDrgadF5aFpqKVf
-SUMMARY:Ann Hui's Our Time Will Come
-DTSTAMP:20220128T232600Z
-DTSTART:20220130T033000Z
-DESCRIPTION:Based on the true story of Fang Gu (Zhou Xun)\, a school teache
-	r\, and the legendary\, JinJin “Blackie” Lau (Eddie Peng Yuyan)\, Ann Hui’
-	s award-winning drama recounts the exploits of the Dongjiang during World 
-	War II. Tasked with fighting against the Japanese occupation of Hong Kong\
-	, this ragtag group of guerrillas recruits Gu\, all against the wishes of 
-	her childhood sweetheart\, Li Jinrong (Wallace Huo Chienhwa)."Beautifully 
-	mounted and emotionally engaging." Hollywood Reporter
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:24fh2pyrlMpZcDcv7u+My2Bxqi2iwFQx
-SUMMARY:Titane
-DTSTAMP:20220128T232600Z
-DTSTART:20220130T043000Z
-DESCRIPTION:The love child of Jean Cocteau and David Cronenberg\, this ugly
-	 duckling of a movie has more gasp-out-loud moments than anything we’ve se
-	en in a long\, long time. Alexia (Agathe Rousselle) has a steel plate in h
-	er head and a chip on her shoulder. She’s also a killer hand with a metal-
-	tipped chopstick. Oh\, and she’s carrying a baby which might very well be 
-	born with four wheels and a motor. The film’s dream logic is aggressive bu
-	t deliriously\, ecstatically demented. Did we mention it won the Palme d’O
-	r?
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:IHkKiLmZ80lqxA7HdUE84yO6fSWF7bEE
-SUMMARY:Tribute to Peter Bogdanovich: The Last Picture Show
-DTSTAMP:20220128T232600Z
-DTSTART:20220130T233000Z
-DESCRIPTION:Bogdanovich’s second film was a triumph\, an adaptation of Larr
-	y McMurtry’s novel about a small Texas town at the dawn of the 1950s. Teen
-	agers Duane and Sonny (Jeff Bridges and Timothy Bottoms) are best friends\
-	, but the soul of the film is Ben Johnson’s Sam the Lion\, proprietor of t
-	he local movie house\, and a father figure in the boy’s lives. Robert Surt
-	ees’ dusty monochrome cinematography evokes a great yearning for a lost go
-	lden age.
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:K2d5m8ZBUAxxEXlIcHSUSdE9u/rbsK0k
-SUMMARY:The Conductor
-DTSTAMP:20220128T232600Z
-DTSTART:20220131T000000Z
-DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
-	was nine-years old. That’s when she found her vocation. Told that girls ca
-	n’t do that\, Marin struggled against enormous prejudices and institutiona
-	l obstacles for decades to become one of the world’s most renowned classic
-	al music conductors. The film follows Marin’s improbable rise and her sing
-	le-minded pursuit."If conductor Marin Alsop’s done it\, it’s probably beca
-	use someone told her she couldn’t.” The Washington Post
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:8IacW+1nm6TtVn26TlXhL/JXIrvXNUqq
-SUMMARY:Tribute to Peter Bogdanovich: What's Up\, Doc?
-DTSTAMP:20220128T232600Z
-DTSTART:20220131T020000Z
-DESCRIPTION:After the acclaim which greeted The Last Picture Show\, Bogdano
-	vich proved his versatility with this colourful\, contemporary screwball c
-	omedy inspired by Howard Hawks’ classic Bringing Up Baby. Ryan O’Neal stan
-	ds in for Cary Grant\, and Barbra Streisand for Katharine Hepburn. Instead
-	 of a paleontologist\, it’s the story of an absent-minded musicologist who
-	se impending marriage to Madeline Kahn is derailed by the force of nature 
-	that is Streisand’s disaster-prone Judy Maxwell.
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:Jt2CV0rIeYXZOQxeYNCv5PTARkMOjT9+
-SUMMARY:Ann Hui's A Simple Life
-DTSTAMP:20220128T232600Z
-DTSTART:20220131T023000Z
-DESCRIPTION:Ann Hui’s lovely portrait of an elderly maid (Deanie Ip) retiri
-	ng after 60 years of service is one of her most beloved and acclaimed movi
-	es. As the title suggests\, this is a quiet\, quotidien film\, yet it spea
-	ks volumes about universal themes: aging\, work\, and personal relationshi
-	ps. This screens alongside Hui’s Our Time Will Come and the documentary po
-	rtrait of the filmmaker\, Keep Rolling.Best Actress\, Venice 2011\; Best D
-	irector\, Actor and Actress\, Golden Horse Awards 2011
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:Cqrg88T57mn7XgmUs3iNu/hmrN6JzIQ1
-SUMMARY:Tribute to Peter Bogdanovich: Saint Jack
-DTSTAMP:20220128T232600Z
-DTSTART:20220131T040000Z
-DESCRIPTION:Jack Flowers (Ben Gazzara) is an American pimp in Singapore\, a
-	nd\, although his livelihood is unsavory\, he is not morally bankrupt\, an
-	d makes friends with auditor William (Denholm Elliott). Jack yearns for mo
-	re than the small-time\, though — his ambition is to open an entire bordel
-	lo. Meanwhile he gets the squeeze put on him by the local mob for his busi
-	ness dealings\, and\, to achieve his dream of luxury\, he may need to assi
-	st in a sinister deal by the CIA to take some compromising photographs.
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:CHEsmgSAYZHayHcpqCCLJwygBXCOTiS4
-SUMMARY:Ann Hui's A Simple Life
-DTSTAMP:20220128T232600Z
-DTSTART:20220201T014000Z
-DESCRIPTION:Ann Hui’s lovely portrait of an elderly maid (Deanie Ip) retiri
-	ng after 60 years of service is one of her most beloved and acclaimed movi
-	es. As the title suggests\, this is a quiet\, quotidien film\, yet it spea
-	ks volumes about universal themes: aging\, work\, and personal relationshi
-	ps. This screens alongside Hui’s Our Time Will Come and the documentary po
-	rtrait of the filmmaker\, Keep Rolling.Best Actress\, Venice 2011\; Best D
-	irector\, Actor and Actress\, Golden Horse Awards 2011
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:ZQbjtpIHtHmbp54hvGkcBWYdWF/iZupb
-SUMMARY:The Conductor
-DTSTAMP:20220128T232600Z
-DTSTART:20220201T020000Z
-DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
-	was nine-years old. That’s when she found her vocation. Told that girls ca
-	n’t do that\, Marin struggled against enormous prejudices and institutiona
-	l obstacles for decades to become one of the world’s most renowned classic
-	al music conductors. The film follows Marin’s improbable rise and her sing
-	le-minded pursuit."If conductor Marin Alsop’s done it\, it’s probably beca
-	use someone told her she couldn’t.” The Washington Post
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:oM5fv/1FMxMv7cDSeFcp6tGKnSQ4pinl
-SUMMARY:Keep Rolling (Ann Hui\, Filmmaker)
-DTSTAMP:20220128T232600Z
-DTSTART:20220201T040000Z
-DESCRIPTION:Recipient of Venice Film Festival’s 2020 Lifetime Achievement A
-	ward\, Ann Hui’s 40-year artistic trajectory not only mirrors the roller-c
-	oaster ride that is Hong Kong cinema\, but parallels the poignant yet resi
-	lient course of its history. Hui displays her storytelling genius not only
-	 with celluloid but in humourous\, candid conversation. This documentary s
-	eamlessly weaves interviews and archival material into a Who’s Who of Asia
-	n cinema\, and is catnip for cinephiles anywhere.
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:Z7+dDeE4NHinKK5tujIem24y4AJfV4sO
-SUMMARY:Tribute to Peter Bogdanovich: Saint Jack
-DTSTAMP:20220128T232600Z
-DTSTART:20220201T042000Z
-DESCRIPTION:Jack Flowers (Ben Gazzara) is an American pimp in Singapore\, a
-	nd\, although his livelihood is unsavory\, he is not morally bankrupt\, an
-	d makes friends with auditor William (Denholm Elliott). Jack yearns for mo
-	re than the small-time\, though — his ambition is to open an entire bordel
-	lo. Meanwhile he gets the squeeze put on him by the local mob for his busi
-	ness dealings\, and\, to achieve his dream of luxury\, he may need to assi
-	st in a sinister deal by the CIA to take some compromising photographs.
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:qxa4HjMKvHgdLUTnoS+TfO2m4hcHwpM8
-SUMMARY:C'mon C'mon
-DTSTAMP:20220128T232600Z
-DTSTART:20220202T004000Z
-DESCRIPTION:The latest from Mike Mills (20th Century Women\; Beginners) is 
-	guaranteed to make you feel a little better about humanity. Joaquin Phoeni
-	x plays Johnny\, a radio reporter working on a project in which he intervi
-	ews youths about their aspirations and fears. Pressed into looking after h
-	is nine-year-old nephew Jesse (Woody Norman)\, Johnny is taken aback by th
-	e boy’s mixture of candour and mischief-making. Little by little they buil
-	d trust and affection in beautifully written and often very funny scenes.
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:ZtUKPFDB4JpWLkD7GW4DpK5dqBRXJthI
-SUMMARY:The Conductor
-DTSTAMP:20220128T232600Z
-DTSTART:20220202T010000Z
-DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
-	was nine-years old. That’s when she found her vocation. Told that girls ca
-	n’t do that\, Marin struggled against enormous prejudices and institutiona
-	l obstacles for decades to become one of the world’s most renowned classic
-	al music conductors. The film follows Marin’s improbable rise and her sing
-	le-minded pursuit."If conductor Marin Alsop’s done it\, it’s probably beca
-	use someone told her she couldn’t.” The Washington Post
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:JYXijb7PdkecOPxF1pmfwtsjJRAMkFzj
-SUMMARY:Belfast
-DTSTAMP:20220128T232600Z
-DTSTART:20220202T025000Z
-DESCRIPTION:Kenneth Branagh gets personal in this bittersweet black and whi
-	te autobiographical drama\, set in his hometown in Northern Ireland in 196
-	9\, at the advent of the Troubles. Buddy (Jude Hill) is nine when spiralin
-	g Catholic unrest upsets his previously cozy childhood and sends shockwave
-	s through his tight-knit family: Ma and Pa (Caitríona Balfe and Jamie Dorn
-	an) and beloved grandparents (Judi Dench and Ciarán Hinds). For Buddy\, it
-	’s a rude awakening\, but even hard times bring humour and vivid dreams of
-	 escape.
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:4DLUywbSVSL6kpgvmdzXGgCdrmchZ3Ve
-SUMMARY:Tosca\, From the Royal Opera House
-DTSTAMP:20220128T232600Z
-DTSTART:20220202T220000Z
-DESCRIPTION:Jonathan Kent’s taut and intense production of Puccini’s tragic
-	 opera with Paul Brown’s historically charged designs wonderfully evokes t
-	he dangerous atmosphere of Rome in 1800\, where love and evil come – thril
-	lingly – face to face. Oksana Lyniv conducts. Elena Stikina (Floria Tosca)
-	\; Freddie De Tommaso (Mario Cavaradossi)\; Alexey Markov (Baron Scarpia)\
-	; Hubert Francis (Spoletta). Running time includes two 15 minute intermiss
-	ions.Special ticket prices apply
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
 UID:z6c7vVqaj88LCp5xvbsT+osImZRfjQBJ
 SUMMARY:C'mon C'mon
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220202T230000Z
 DESCRIPTION:The latest from Mike Mills (20th Century Women\; Beginners) is 
 	guaranteed to make you feel a little better about humanity. Joaquin Phoeni
@@ -386,7 +22,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:JmJVJW7FYlX5oh0ZiEX4JAOqaEFqKKMB
 SUMMARY:Ann Hui's Our Time Will Come
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220203T013000Z
 DESCRIPTION:Based on the true story of Fang Gu (Zhou Xun)\, a school teache
 	r\, and the legendary\, JinJin “Blackie” Lau (Eddie Peng Yuyan)\, Ann Hui’
@@ -401,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:flshk89EoFxXyibzSPyHo0V1pMa8nUWw
 SUMMARY:The Conductor
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220203T020000Z
 DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
 	was nine-years old. That’s when she found her vocation. Told that girls ca
@@ -416,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Y2NXxfeWwZ0HwYJYubgKZGnje4ETpYXl
 SUMMARY:Tribute to Peter Bogdanovich: The Last Picture Show
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220203T035000Z
 DESCRIPTION:Bogdanovich’s second film was a triumph\, an adaptation of Larr
 	y McMurtry’s novel about a small Texas town at the dawn of the 1950s. Teen
@@ -431,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ADL0WSFsbmsr400X1fWmnMAh1jHvF2ey
 SUMMARY:Keep Rolling (Ann Hui\, Filmmaker)
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220203T041000Z
 DESCRIPTION:Recipient of Venice Film Festival’s 2020 Lifetime Achievement A
 	ward\, Ann Hui’s 40-year artistic trajectory not only mirrors the roller-c
@@ -446,7 +82,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5D1GEXonTDqV26YcYZ7tK5R27RsXNGU7
 SUMMARY:The Conductor
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220204T020000Z
 DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
 	was nine-years old. That’s when she found her vocation. Told that girls ca
@@ -461,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9AgakbAtYacihqlo7Q8yWRn2pKjUxzfy
 SUMMARY:Belfast
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220204T022000Z
 DESCRIPTION:Kenneth Branagh gets personal in this bittersweet black and whi
 	te autobiographical drama\, set in his hometown in Northern Ireland in 196
@@ -477,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Esd/tVvN0U0gj2j/dY999TP7imjj8/TR
 SUMMARY:Tribute to Peter Bogdanovich: What's Up\, Doc?
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220204T035000Z
 DESCRIPTION:After the acclaim which greeted The Last Picture Show\, Bogdano
 	vich proved his versatility with this colourful\, contemporary screwball c
@@ -492,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:s2wrG1c3+Z8R6/5W2zQJUnI3ODqP2c4u
 SUMMARY:C'mon C'mon
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220204T042000Z
 DESCRIPTION:The latest from Mike Mills (20th Century Women\; Beginners) is 
 	guaranteed to make you feel a little better about humanity. Joaquin Phoeni
@@ -507,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:EO0I7RTDrJdiZlXX03qVusSQlVU+/c/4
 SUMMARY:Who We Are: A Chronicle of Racism in America
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220205T010000Z
 DESCRIPTION:The most important film about race since I Am Not Your Negro\, 
 	Who We Are is an eloquent\, passionate and revelatory reclamation of the h
@@ -523,7 +159,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7aNj0nuCjdy0os5FvbikKv9OV50IJiYa
 SUMMARY:Striding Into the Wind
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220205T013000Z
 DESCRIPTION:Slacker comedies may have fallen out of fashion in the US\, but
 	 this debut feature from lauded short filmmaker Wei Shujun suggests the tr
@@ -539,7 +175,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:WF4d0Kz0vYz3xo9Ia2/9Ek11QVJT3vZP
 SUMMARY:Music. Money. Madness - Jimi Hendrix Experience Live in Maui
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220205T033000Z
 DESCRIPTION:This 2022 Grammy-nominated film chronicles the Jimi Hendrix Exp
 	erience’s storied visit to Maui\, and how the band became ensnared with th
@@ -553,7 +189,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Gh93wKbo/kwMIn5eY06Knk4sOGNFvubq
 SUMMARY:Poly Styrene: I Am A Cliche
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220205T040000Z
 DESCRIPTION:Poly Styrene was the first woman of color in the UK to front a 
 	successful rock band. The death of this punk icon and X-Ray Spex frontwoma
@@ -568,7 +204,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:uX+3WENskvT11AmNkI9/GMXpsrWXhRMK
 SUMMARY:Cosmic Dawn
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220205T052000Z
 DESCRIPTION:There are cult movies\, and then there are movies about cults. 
 	Cosmic Dawn could be both. Inspired by director Jefferson Moneo’s own chil
@@ -583,7 +219,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:/NtuhKuoqAVgvGUFaiNEcJV4YJZCGYOA
 SUMMARY:Who We Are: A Chronicle of Racism in America
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220205T230000Z
 DESCRIPTION:The most important film about race since I Am Not Your Negro\, 
 	Who We Are is an eloquent\, passionate and revelatory reclamation of the h
@@ -599,7 +235,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Ojvo5suflo43UEODKbNDT/5NQ0N+xApC
 SUMMARY:The Conductor
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220205T233000Z
 DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
 	was nine-years old. That’s when she found her vocation. Told that girls ca
@@ -614,7 +250,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1FNZqvPMmwZbtIaApDXx/W97nEfhOZZR
 SUMMARY:Striding Into the Wind
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220206T012000Z
 DESCRIPTION:Slacker comedies may have fallen out of fashion in the US\, but
 	 this debut feature from lauded short filmmaker Wei Shujun suggests the tr
@@ -630,7 +266,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:V0sonRa1cCyJHd+RAK0lq1ZEaqymUk+O
 SUMMARY:Who We Are: A Chronicle of Racism in America
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220206T014000Z
 DESCRIPTION:The most important film about race since I Am Not Your Negro\, 
 	Who We Are is an eloquent\, passionate and revelatory reclamation of the h
@@ -646,7 +282,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:KnGuyHmx7JH79yVTVakMfK0po0YDkIg/
 SUMMARY:Music. Money. Madness - Jimi Hendrix: Experience Live in Maui
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220206T035000Z
 DESCRIPTION:This 2022 Grammy-nominated film chronicles the Jimi Hendrix Exp
 	erience’s storied visit to Maui\, and how the band became ensnared with th
@@ -660,7 +296,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9xS7Sm4Z4GVMwmrXh3ZlaKHWEqM9jYH4
 SUMMARY:Cosmic Dawn
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220206T041000Z
 DESCRIPTION:There are cult movies\, and then there are movies about cults. 
 	Cosmic Dawn could be both. Inspired by director Jefferson Moneo’s own chil
@@ -675,7 +311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:+7Qic7E9q5QFMoxXBYG+YtM1dh0WwvJl
 SUMMARY:Tribute to Sidney Poitier: A Raisin in the Sun
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220206T230000Z
 DESCRIPTION:The first film in our Landmarks series\, curated by Nya Lewis\,
 	 A Raisin in the Sun is the film version of the acclaimed 1959 play by Bla
@@ -691,7 +327,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tKOPEVa5WKirB/VSPSDGiF7NokBthiEW
 SUMMARY:The Rescue
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220206T232000Z
 DESCRIPTION:June 2018. When a junior soccer team is trapped within a deep c
 	ave network in Thailand\, offers of help come from far and wide. But the i
@@ -706,7 +342,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:AhKgYdJOF6TQMTcXH9a9aH5T2eftonld
 SUMMARY:Who We Are: A Chronicle of Racism in America
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220207T013000Z
 DESCRIPTION:The most important film about race since I Am Not Your Negro\, 
 	Who We Are is an eloquent\, passionate and revelatory reclamation of the h
@@ -722,7 +358,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:i9VkO6kzmlI54gL6O8x3XG6Ol0+k7KU1
 SUMMARY:Striding Into the Wind
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220207T015000Z
 DESCRIPTION:Slacker comedies may have fallen out of fashion in the US\, but
 	 this debut feature from lauded short filmmaker Wei Shujun suggests the tr
@@ -738,7 +374,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:zjg7gHax55Y1cyzWOPNnELHT3bMy+4rK
 SUMMARY:Tribute to Jean-Marc Vallée : C.R.A.Z.Y.
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220207T035000Z
 DESCRIPTION:The late Jean-Marc Vallée enjoyed working with some of Hollywoo
 	d’s best and brightest on projects as diverse as Wild\, Dallas Buyers Club
@@ -754,7 +390,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:SnktT4iJDLjma11HXPZEJQyOIX/NPNKO
 SUMMARY:Cosmic Dawn
-DTSTAMP:20220128T232600Z
+DTSTAMP:20220202T225900Z
 DTSTART:20220207T041500Z
 DESCRIPTION:There are cult movies\, and then there are movies about cults. 
 	Cosmic Dawn could be both. Inspired by director Jefferson Moneo’s own chil
@@ -763,6 +399,380 @@ DESCRIPTION:There are cult movies\, and then there are movies about cults.
 	lle Rowe) sucked into a cult led by the charismatic but probably bonkers E
 	lyse (Antonia Zegers)… But for all the red flags\, Cosmic Dawn does seem a
 	ble to tap into some mysterious alternate reality…
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:VAILcmMpNhRnaMnKKZy2WSFRVQ7qa4Ky
+SUMMARY:Who We Are: A Chronicle of Racism in America
+DTSTAMP:20220202T225900Z
+DTSTART:20220208T000000Z
+DESCRIPTION:The most important film about race since I Am Not Your Negro\, 
+	Who We Are is an eloquent\, passionate and revelatory reclamation of the h
+	istory America sweeps under the carpet. This is the story of how white sup
+	remacy and slavery underpins the disUnited States\, and\, equally damning\
+	, a critique of how the tide for social justice has been betrayed by the r
+	ich and the powerful. Former ACLU Deputy Legal Director Jeffery Robinson’s
+	 argument is interwoven with archival footage\, interviews\, and his own s
+	tory.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:UKrKvpArezbdHuGtWFnMGnDC148HATBY
+SUMMARY:Tribute to Jean-Marc Vallée : C.R.A.Z.Y.
+DTSTAMP:20220202T225900Z
+DTSTART:20220208T002000Z
+DESCRIPTION:The late Jean-Marc Vallée enjoyed working with some of Hollywoo
+	d’s best and brightest on projects as diverse as Wild\, Dallas Buyers Club
+	\, Sharp Objects and Big Little Lies. But his best film was his breakthrou
+	gh feature\, a coming out/coming of age movie\, set in Montreal in the 60s
+	\, 70s and 80s\, and a love story between a young gay man and his uncompre
+	hending father. Considered one of the best Canadian films ever made\, this
+	 movie has brio to spare\, a terrific soundtrack\, comic panache and compa
+	ssion to spare.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:piJw3T9syhOYUsXymJa2oF4aZsF8TM7W
+SUMMARY:Poly Styrene: I Am A Cliche
+DTSTAMP:20220202T225900Z
+DTSTART:20220208T023000Z
+DESCRIPTION:Poly Styrene was the first woman of color in the UK to front a 
+	successful rock band. The death of this punk icon and X-Ray Spex frontwoma
+	n sends her daughter on a journey across the world and through her mother’
+	s archives to reconcile their fraught relationship\, featuring Oscar nomin
+	ee Ruth Negga as the voice of Poly Styrene. Winner of 2 British Independen
+	t Film Awards including Best Documentary"This must-watch documentary tells
+	 a story often erased from rock history." Leonie Cooper\, NME
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:LFlK2oUnjiCtfFFuhA2nWpl5iiwiOL3x
+SUMMARY:Cosmic Dawn
+DTSTAMP:20220202T225900Z
+DTSTART:20220208T025000Z
+DESCRIPTION:There are cult movies\, and then there are movies about cults. 
+	Cosmic Dawn could be both. Inspired by director Jefferson Moneo’s own chil
+	dhood close encounter with UFOs and the revelations about nxivm right here
+	 in Vancouver\, it’s a movie about a vulnerable young woman\, Aurora (Cami
+	lle Rowe) sucked into a cult led by the charismatic but probably bonkers E
+	lyse (Antonia Zegers)… But for all the red flags\, Cosmic Dawn does seem a
+	ble to tap into some mysterious alternate reality…
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:kkm0cfAvRsvAqqIWYPCwNFpjzvKQmVV0
+SUMMARY:Music. Money. Madness - Jimi Hendrix: Experience Live in Maui
+DTSTAMP:20220202T225900Z
+DTSTART:20220208T043000Z
+DESCRIPTION:This 2022 Grammy-nominated film chronicles the Jimi Hendrix Exp
+	erience’s storied visit to Maui\, and how the band became ensnared with th
+	e ill-fated "Rainbow Bridge" movie. Never-before-released original footage
+	\, and new interviews with key players such as Billy Cox and director Chuc
+	k Wein\, form this fascinating account about one of the most controversial
+	 independent films ever made.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:BfNDN8auWOhPQeJZmhJm/mJ/p+WWNb37
+SUMMARY:Who We Are: A Chronicle of Racism in America
+DTSTAMP:20220202T225900Z
+DTSTART:20220209T015000Z
+DESCRIPTION:The most important film about race since I Am Not Your Negro\, 
+	Who We Are is an eloquent\, passionate and revelatory reclamation of the h
+	istory America sweeps under the carpet. This is the story of how white sup
+	remacy and slavery underpins the disUnited States\, and\, equally damning\
+	, a critique of how the tide for social justice has been betrayed by the r
+	ich and the powerful. Former ACLU Deputy Legal Director Jeffery Robinson’s
+	 argument is interwoven with archival footage\, interviews\, and his own s
+	tory.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:9K8cbsHb0D7BpiG93OCvOYOdTV2g9/kP
+SUMMARY:The Rescue
+DTSTAMP:20220202T225900Z
+DTSTART:20220209T022000Z
+DESCRIPTION:June 2018. When a junior soccer team is trapped within a deep c
+	ave network in Thailand\, offers of help come from far and wide. But the i
+	dentity of the men who will make a crucial difference\, well\, they’re the
+	 unlikeliest of heroes… Directed by husband and wife team and extreme spor
+	ts specialists Jimmy Chin and E. Chai Vasarhelyi (Free Solo\; Meru)\, The 
+	Rescue is one of the most acclaimed documentaries of the year. This is an 
+	intensely compelling story\, a fascinating and insightful film.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Mcvkt6KkQ9QOk7r/NoEAHc0RC4gve4JQ
+SUMMARY:The Conductor
+DTSTAMP:20220202T225900Z
+DTSTART:20220209T041000Z
+DESCRIPTION:Marin Alsop first saw the legendary Leonard Bernstein when she 
+	was nine-years old. That’s when she found her vocation. Told that girls ca
+	n’t do that\, Marin struggled against enormous prejudices and institutiona
+	l obstacles for decades to become one of the world’s most renowned classic
+	al music conductors. The film follows Marin’s improbable rise and her sing
+	le-minded pursuit."If conductor Marin Alsop’s done it\, it’s probably beca
+	use someone told her she couldn’t.” The Washington Post
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:cc9MoFF1x+x0FskO1IdYOMy37pkDOGZv
+SUMMARY:The Power of the Dog
+DTSTAMP:20220202T225900Z
+DTSTART:20220209T043000Z
+DESCRIPTION:In her strongest movie since The Piano\, Jane Campion turns the
+	 machismo of the western film on its head. On the Burbanks’ Montana cattle
+	 ranch the boorish Phil (Benedict Cumberbatch) rules the roost over his mi
+	ld mannered brother George (Jesse Plemons). When George finds himself a wi
+	fe and heir in the form of Rose (Kirsten Dunst) and her effete son (Kodi S
+	mit-McPhee)\, Phil is determined to make their life hell. But then he take
+	s a shine to the boy…A stark\, brooding tale destined to be a modern class
+	ic.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:+iYXGxhblNumso0W1BG1AzO5TIC5Nqcy
+SUMMARY:Who We Are: A Chronicle of Racism in America
+DTSTAMP:20220202T225900Z
+DTSTART:20220210T000000Z
+DESCRIPTION:The most important film about race since I Am Not Your Negro\, 
+	Who We Are is an eloquent\, passionate and revelatory reclamation of the h
+	istory America sweeps under the carpet. This is the story of how white sup
+	remacy and slavery underpins the disUnited States\, and\, equally damning\
+	, a critique of how the tide for social justice has been betrayed by the r
+	ich and the powerful. Former ACLU Deputy Legal Director Jeffery Robinson’s
+	 argument is interwoven with archival footage\, interviews\, and his own s
+	tory.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:QR5K9m4QanS9XTJOJlVoQva+XhJVW3Js
+SUMMARY:Striding Into the Wind
+DTSTAMP:20220202T225900Z
+DTSTART:20220210T002000Z
+DESCRIPTION:Slacker comedies may have fallen out of fashion in the US\, but
+	 this debut feature from lauded short filmmaker Wei Shujun suggests the tr
+	avails of young adulthood are not so very different even in China. Film sc
+	hool student Kun takes his sound recording skills from Beijing to Inner Mo
+	ngolia in a beaten up Jeep Cherokee in this slow burning road comedy\, whi
+	ch lands somewhere between Jia Zhangke and Jim Jarmusch."Easily one of the
+	 best Chinese indie or arthouse films of the last few years." Eastern Kick
+	s
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:pwPRjTv050tFZ+bvZJfv8RnO4Hg4+F92
+SUMMARY:Tribute to Sidney Poitier: A Raisin in the Sun
+DTSTAMP:20220202T225900Z
+DTSTART:20220210T023000Z
+DESCRIPTION:The first film in our Landmarks series\, curated by Nya Lewis\,
+	 A Raisin in the Sun is the film version of the acclaimed 1959 play by Bla
+	ck writer Lorraine Hansberry. It is the story of tensions in a working cla
+	ss family in Chicago\, 1930\, as they await the arrival of a life insuranc
+	e check after the passing of Lena’s husband\, father to Walter (Sidney Poi
+	tier). Hansberry was the first African-American woman to write a play perf
+	ormed on Broadway. The New York Times said it "changed American theatre fo
+	rever."
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:HhMSCozFu3ZkhS0/bsj0Yv8o+JHv9Ngm
+SUMMARY:The Rescue
+DTSTAMP:20220202T225900Z
+DTSTART:20220210T025000Z
+DESCRIPTION:June 2018. When a junior soccer team is trapped within a deep c
+	ave network in Thailand\, offers of help come from far and wide. But the i
+	dentity of the men who will make a crucial difference\, well\, they’re the
+	 unlikeliest of heroes… Directed by husband and wife team and extreme spor
+	ts specialists Jimmy Chin and E. Chai Vasarhelyi (Free Solo\; Meru)\, The 
+	Rescue is one of the most acclaimed documentaries of the year. This is an 
+	intensely compelling story\, a fascinating and insightful film.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:iCW9BOSM3MrbS9OAi62qkSec49vRPe4b
+SUMMARY:Poly Styrene: I Am A Cliche
+DTSTAMP:20220202T225900Z
+DTSTART:20220211T013000Z
+DESCRIPTION:Poly Styrene was the first woman of color in the UK to front a 
+	successful rock band. The death of this punk icon and X-Ray Spex frontwoma
+	n sends her daughter on a journey across the world and through her mother’
+	s archives to reconcile their fraught relationship\, featuring Oscar nomin
+	ee Ruth Negga as the voice of Poly Styrene. Winner of 2 British Independen
+	t Film Awards including Best Documentary"This must-watch documentary tells
+	 a story often erased from rock history." Leonie Cooper\, NME
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:IJVI9XSbt/ZsngYA25y0rBy0w38TgdMs
+SUMMARY:The Power of the Dog
+DTSTAMP:20220202T225900Z
+DTSTART:20220211T015000Z
+DESCRIPTION:In her strongest movie since The Piano\, Jane Campion turns the
+	 machismo of the western film on its head. On the Burbanks’ Montana cattle
+	 ranch the boorish Phil (Benedict Cumberbatch) rules the roost over his mi
+	ld mannered brother George (Jesse Plemons). When George finds himself a wi
+	fe and heir in the form of Rose (Kirsten Dunst) and her effete son (Kodi S
+	mit-McPhee)\, Phil is determined to make their life hell. But then he take
+	s a shine to the boy…A stark\, brooding tale destined to be a modern class
+	ic.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:D5K8kBkUoCRAFIek5n6ct5Bk55hR2PZm
+SUMMARY:Who We Are: A Chronicle of Racism in America
+DTSTAMP:20220202T225900Z
+DTSTART:20220211T033000Z
+DESCRIPTION:The most important film about race since I Am Not Your Negro\, 
+	Who We Are is an eloquent\, passionate and revelatory reclamation of the h
+	istory America sweeps under the carpet. This is the story of how white sup
+	remacy and slavery underpins the disUnited States\, and\, equally damning\
+	, a critique of how the tide for social justice has been betrayed by the r
+	ich and the powerful. Former ACLU Deputy Legal Director Jeffery Robinson’s
+	 argument is interwoven with archival footage\, interviews\, and his own s
+	tory.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:uKGxbDGNg12AaEzPfB09EneLyyC6lDYw
+SUMMARY:Music. Money. Madness - Jimi Hendrix: Experience Live in Maui
+DTSTAMP:20220202T225900Z
+DTSTART:20220211T042000Z
+DESCRIPTION:This 2022 Grammy-nominated film chronicles the Jimi Hendrix Exp
+	erience’s storied visit to Maui\, and how the band became ensnared with th
+	e ill-fated "Rainbow Bridge" movie. Never-before-released original footage
+	\, and new interviews with key players such as Billy Cox and director Chuc
+	k Wein\, form this fascinating account about one of the most controversial
+	 independent films ever made.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:qOIt9oO6laSLI+beQtDE+mTxbFbMqUDd
+SUMMARY:Flee
+DTSTAMP:20220202T225900Z
+DTSTART:20220212T000000Z
+DESCRIPTION:Flee is a powerful animated documentary that tells the story of
+	 Amin Nawabi as he grapples with a secret he’s kept for 20 years\; one tha
+	t threatens to derail the life he’s built for himself and his soon-to-be h
+	usband. As he shares the story of his extraordinary journey as a child ref
+	ugee from Afghanistan in the early ’90s\, Jonas Poher Rasmussen (a longtim
+	e friend of Amin’s) restages his trials through evocative animation that r
+	esults in a film that’s deeply personal\, candid\, and unexpectedly beauti
+	ful.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:U5EULkaeMEKRx02KBbH+l72V7p/x6/aM
+SUMMARY:Who We Are: A Chronicle of Racism in America
+DTSTAMP:20220202T225900Z
+DTSTART:20220212T015500Z
+DESCRIPTION:The most important film about race since I Am Not Your Negro\, 
+	Who We Are is an eloquent\, passionate and revelatory reclamation of the h
+	istory America sweeps under the carpet. This is the story of how white sup
+	remacy and slavery underpins the disUnited States\, and\, equally damning\
+	, a critique of how the tide for social justice has been betrayed by the r
+	ich and the powerful. Former ACLU Deputy Legal Director Jeffery Robinson’s
+	 argument is interwoven with archival footage\, interviews\, and his own s
+	tory.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:3yM6Ia5E8+qxg2+MjqyRiytjdEzm31TN
+SUMMARY:Women on the Verge of a Nervous Breakdown + The Human Voice
+DTSTAMP:20220202T225900Z
+DTSTART:20220212T020000Z
+DESCRIPTION:Almodóvar’s 1988 farce was his commercial breakthrough in North
+	 America\, and his first film to be nominated for an Academy Award. His fi
+	rst muse\, Carmen Maura stars as Pepe\, who is summarily dumped by her mar
+	ried boyfriend\, Ivan (Fernando Guillén). Over the course of two days as s
+	he frantically tries to connect with him Pepe learns a great deal about he
+	r lover\, and her friends and neighbours in her apartment building.+ The H
+	uman Voice\, Almodóvar’s 2020 30-minute film of Cocteau’s play with Tilda 
+	Swinton
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:i4FXDUC1I4/KbxRYSgKVg2RRyuXIkMig
+SUMMARY:The Sleeping Negro
+DTSTAMP:20220202T225900Z
+DTSTART:20220212T041500Z
+DESCRIPTION:"To be a Negro in this country and to be relatively conscious i
+	s to be in a state of rage almost all of the time." Beginning with a quote
+	 from James Baldwin\, Skinner Myers’ radical debut feature is an uncomprom
+	isingly confrontational movie\, a portrait of a young Black man (played by
+	 Myers) on the verge of "making it": marriage (to a white woman) and big m
+	oney career (his fiancee’s brother is his boss). But it feels all wrong. A
+	lienated and angry\, he wavers between playing the game and tearing it all
+	 down.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:EbfDtb+2mdxBhuyedxcPR4lqKc2GZ5MZ
+SUMMARY:Compartment No.6
+DTSTAMP:20220202T225900Z
+DTSTART:20220212T044000Z
+DESCRIPTION:A Finnish intellectual finds herself sharing a sleeper compartm
+	ent with a boorish Russian skinhead on the long train ride from Moscow to 
+	the Arctic Circle in this subtly shaded character study from Juho Kuosmane
+	n (The Happiest Day in the Life of Olli Maki). Superb\, sharply contrastin
+	g performances from Seidi Haarla and Yuriy Borisov are just the ticket in 
+	a movie that unearths humour as well as pathos in its tale of two lonely p
+	eople\, about as far apart as you can get\, forced to share close quarters
+	.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:djb4QYgNyNfX6MuLRLi2l+e0rR5A0G99
+SUMMARY:Flee
+DTSTAMP:20220202T225900Z
+DTSTART:20220212T220000Z
+DESCRIPTION:Flee is a powerful animated documentary that tells the story of
+	 Amin Nawabi as he grapples with a secret he’s kept for 20 years\; one tha
+	t threatens to derail the life he’s built for himself and his soon-to-be h
+	usband. As he shares the story of his extraordinary journey as a child ref
+	ugee from Afghanistan in the early ’90s\, Jonas Poher Rasmussen (a longtim
+	e friend of Amin’s) restages his trials through evocative animation that r
+	esults in a film that’s deeply personal\, candid\, and unexpectedly beauti
+	ful.
+LOCATION:Vancity Theatre
+DURATION:PT2H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:LXQDwJP8IkODVLGhkF4hbjmiyoRobz3s
+SUMMARY:Compartment No.6
+DTSTAMP:20220202T225900Z
+DTSTART:20220212T235000Z
+DESCRIPTION:A Finnish intellectual finds herself sharing a sleeper compartm
+	ent with a boorish Russian skinhead on the long train ride from Moscow to 
+	the Arctic Circle in this subtly shaded character study from Juho Kuosmane
+	n (The Happiest Day in the Life of Olli Maki). Superb\, sharply contrastin
+	g performances from Seidi Haarla and Yuriy Borisov are just the ticket in 
+	a movie that unearths humour as well as pathos in its tale of two lonely p
+	eople\, about as far apart as you can get\, forced to share close quarters
+	.
 LOCATION:Vancity Theatre
 DURATION:PT2H30M
 END:VEVENT
