@@ -5,6 +5,7 @@ import cryptojs from 'crypto-js'
 import ics from 'ics'
 import { writeFileSync } from 'fs'
 import ora from 'ora'
+import { parse, format } from 'date-fns'
 
 controller()
 
@@ -108,21 +109,23 @@ function extractInfo(content) {
       // in case the day is today
       if (s.startsWith("Today")) {
         var today = moment().format("MMMM D") + s.replace("Today", "")
-        var finalDate = moment(today, ["MMMM D h:ma"]).subtract(1, "hours")
+        // var finalDate = moment(today, ["MMMM D h:ma"]).subtract(1, "hours")
+        var finalDate = moment(today, ["MMMM D h:ma"])
       } else if (s.startsWith("Tomorrow")) {
         // get tomorrow
         var tomorrow =
           moment()
             .add(1, "days")
             .format("MMMM D") + s.replace("Tomorrow", "")
-        var finalDate = moment(tomorrow, ["MMMM D h:ma"]).subtract(1, "hours")
+        // var finalDate = moment(tomorrow, ["MMMM D h:ma"]).subtract(1, "hours")
+        var finalDate = moment(tomorrow, ["MMMM D h:ma"])
       } else {
-        // var finalDate = moment(s, ["MMMM D h:ma"])
-        var finalDate = moment(s, ["MMMM D h:ma"]).subtract(1, "hours")
+        var finalDate = moment(s, ["MMMM D h:ma"])
+        // var finalDate = moment(s, ["MMMM D h:ma"]).subtract(1, "hours")
       }
 
       let start = moment(finalDate)
-        .add(9, "hours")
+        // .add(9, "hours")
         .format("YYYY-M-D-H-m")
         .split("-")
       // need to convert object values to numbers
