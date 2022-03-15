@@ -5,219 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:sjj6eE7/QgMrXmvbPlWr/T22g4Hzo+3r
-SUMMARY:Wildhood
-DTSTAMP:20220311T224300Z
-DTSTART:20220312T001000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11113-wildhood
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dP9LSlH69xpy4RizO1F5+AjwvB259Ppg
-SUMMARY:2022 Oscar-Nominated Live Action Shorts
-DTSTAMP:20220311T224300Z
-DTSTART:20220312T003000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11147-2022-oscar-nominated-live-action-shorts
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:lN0KjwmK67SI9gDRP5xapVhOtzAz4PJs
-SUMMARY:Donkeyhead
-DTSTAMP:20220311T224300Z
-DTSTART:20220312T022000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11144-donkeyhead
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:FI7nKhjdv24bvTOMqVLpsSgde4crwnt1
-SUMMARY:2022 Oscar-Nominated Documentary Shorts
-DTSTAMP:20220311T224300Z
-DTSTART:20220312T030000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11149-2022-oscar-nominated-documentary-shorts
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:btigT9fFmoia9XsLigoV+r2kNwqggraR
-SUMMARY:After Yang
-DTSTAMP:20220311T224300Z
-DTSTART:20220312T045000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11145-after-yang
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:w+LNQlt+GDswcQqRAmSFfGXf4oQBNCWV
-SUMMARY:After Yang
-DTSTAMP:20220311T224300Z
-DTSTART:20220312T230000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11145-after-yang
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:4ldBJFiuYN34s7LMKZVQwFMVz5BhsPaI
-SUMMARY:2022 Oscar-Nominated Live Action Shorts
-DTSTAMP:20220311T224300Z
-DTSTART:20220312T233000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11147-2022-oscar-nominated-live-action-shorts
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:tFi5CdOt3FvPM93clohrmoyx2C99S69T
-SUMMARY:Donkeyhead
-DTSTAMP:20220311T224300Z
-DTSTART:20220313T010000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11144-donkeyhead
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:kNQYUkC8Y+PY1x46AufRXQvtiWyk5W9C
-SUMMARY:Wildhood
-DTSTAMP:20220311T224300Z
-DTSTART:20220313T021000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11113-wildhood
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:X9WULHbtNCo3An7BP0wpOWwYRJiVxjDP
-SUMMARY:Tzouhalem
-DTSTAMP:20220311T224300Z
-DTSTART:20220313T033000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11146-tzouhalem
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:ttwqMxqPLpVDWEaKwlC08BrgkQ/7VuNo
-SUMMARY:2022 Oscar-Nominated Animated Shorts
-DTSTAMP:20220311T224300Z
-DTSTART:20220313T043000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11148-2022-oscar-nominated-animated-shorts
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:4IJF87B2GiYvUjn5/2P3Mw1eQnIp7M6Q
-SUMMARY:Tzouhalem
-DTSTAMP:20220311T224300Z
-DTSTART:20220313T213000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11146-tzouhalem
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:jy5p6zJ6/TISu2m1KYNct24XViV+JfLt
-SUMMARY:The Learning Tree
-DTSTAMP:20220311T224300Z
-DTSTART:20220313T220000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11139-the-learning-tree
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:6RXhU6hU9QSun/GvIsaNM/Y4VpqhOBru
-SUMMARY:Wildhood
-DTSTAMP:20220311T224300Z
-DTSTART:20220313T232000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11113-wildhood
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:jZ02f3+PzbtmGBuGRsFYInlcN7ys3Y3v
-SUMMARY:Donkeyhead
-DTSTAMP:20220311T224300Z
-DTSTART:20220314T001000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11144-donkeyhead
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:H5j2QeGIjRqHsaHqEsPKYUgeXhEDw6ay
-SUMMARY:2022 Oscar-Nominated Documentary Shorts
-DTSTAMP:20220311T224300Z
-DTSTART:20220314T013000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11149-2022-oscar-nominated-documentary-shorts
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:sL8nL1m8N0GHQh6CK3zSIl9734wMkcVe
-SUMMARY:After Yang
-DTSTAMP:20220311T224300Z
-DTSTART:20220314T023000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11145-after-yang
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:B/7MMqftHJMPtlKwfQfxlfXH09IJ41Tv
-SUMMARY:Tzouhalem
-DTSTAMP:20220311T224300Z
-DTSTART:20220315T003000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11146-tzouhalem
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:YvccaWPEc4iLlSUDxwBdUPV1utsEp8zS
-SUMMARY:After Yang
-DTSTAMP:20220311T224300Z
-DTSTART:20220315T005000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11145-after-yang
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:XuMfrCC5lY3KchfbWWpmkb27oDzXpKyG
-SUMMARY:2022 Oscar-Nominated Animated Shorts
-DTSTAMP:20220311T224300Z
-DTSTART:20220315T023000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11148-2022-oscar-nominated-animated-shorts
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:pQatQ/vQsVGn9/0/gEA7L8aZhWjBkHd/
-SUMMARY:Wildhood
-DTSTAMP:20220311T224300Z
-DTSTART:20220315T025500Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11113-wildhood
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
 UID:GdT9dzZY2pCSMGHMnB5Ir9vjE+vBn9NJ
 SUMMARY:2022 Oscar-Nominated Animated Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220316T003000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11148-2022-oscar-nominated-animated-shorts
@@ -227,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:zLetbadW/xlifsPQZlaj2vka/82Y98MC
 SUMMARY:Donkeyhead
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220316T005000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11144-donkeyhead
@@ -237,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2ff/zDMz5yjXfeJJqTdJFgJqO4rtCqlE
 SUMMARY:Wildhood
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220316T023000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11113-wildhood
@@ -247,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:BszE7eUO42SuGP43U8la+OL6AoEWqf7+
 SUMMARY:After Yang
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220316T030000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11145-after-yang
@@ -257,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Gh2CZ4hKveEehNz0qqDOFbUO2bsEkH1d
 SUMMARY:The Learning Tree
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220317T013000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11139-the-learning-tree
@@ -267,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tod+CxZlEqhOJ/UvCsfpC5swkxw2YjCG
 SUMMARY:2022 Oscar-Nominated Documentary Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220317T020000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11149-2022-oscar-nominated-documentary-shorts
@@ -277,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pwbrdAnQx/ujZ2CqDIAKPfJAMtdom/Wh
 SUMMARY:After Yang
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220317T034500Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11145-after-yang
@@ -287,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:QTJisYLj4wzvk9QSkyUNftYs3O9uw4Qh
 SUMMARY:2022 Oscar-Nominated Animated Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220318T003000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11148-2022-oscar-nominated-animated-shorts
@@ -297,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:XksvIMZQaCxzZPkd8jGmJPYaWreI0Pdf
 SUMMARY:After Yang
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220318T005000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11145-after-yang
@@ -307,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:UrfhM1zqFfjPUEfb7fe3q9I9ZbdXagz9
 SUMMARY:Donkeyhead
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220318T023000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11144-donkeyhead
@@ -317,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:yEAwgH+5ucL7atkTZKbsvTp2oPrhWXUg
 SUMMARY:Wildhood
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220318T025500Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11113-wildhood
@@ -327,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ruQwjML4WdU5jclTjKHZZrqhEAQp8swa
 SUMMARY:After Yang
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220318T230000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11145-after-yang
@@ -337,7 +127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:iXY7jcYGmoPSFy7hIhMsubx7iKWY5Tf3
 SUMMARY:2022 Oscar-Nominated Animated Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220318T233000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11148-2022-oscar-nominated-animated-shorts
@@ -347,7 +137,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:XyC38Kp9sas8vsgCaaC62yZaoXDb9Nnh
 SUMMARY:Great Freedom
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220319T011000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11158-great-freedom
@@ -357,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2Q1o8tl8I0Wu5QfroPLANa5SAOaHom1h
 SUMMARY:2022 Oscar-Nominated Live Action Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220319T013000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11147-2022-oscar-nominated-live-action-shorts
@@ -367,7 +157,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:X6oVTe2WFq/MsZRAf0z+cfF5/7Ub7XYz
 SUMMARY:Alice
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220319T033000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11156-alice
@@ -377,7 +167,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:GVSYDm2lsKyd3HAbFiy4v8fNQvQtemo5
 SUMMARY:2022 Oscar-Nominated Documentary Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220319T200000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11149-2022-oscar-nominated-documentary-shorts
@@ -387,7 +177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:zGmtUj3Ylo9N1roeAKEEmIBUDBtYt5Ni
 SUMMARY:Drive My Car
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220319T202000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11154-drive-my-car
@@ -397,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:oKAx57aG9v74PsR686SJqJbEoyfQPc9M
 SUMMARY:2022 Oscar-Nominated Live Action Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220319T234500Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11147-2022-oscar-nominated-live-action-shorts
@@ -407,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:F8Ma2Lw7H5wCiYr138GHBVWWlPWu/g18
 SUMMARY:Tzouhalem
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220320T013000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11146-tzouhalem
@@ -417,7 +207,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:76ht+9QpEvuggyMRVPz+wX//Jr14XDlY
 SUMMARY:Alice
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220320T023000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11156-alice
@@ -427,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hxUtiWHHECmdjb59nZSbG6cGexecHj7m
 SUMMARY:2022 Oscar-Nominated Animated Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220320T033000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11148-2022-oscar-nominated-animated-shorts
@@ -437,7 +227,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Uomoh+VQkTsn7av02/u31ikFTQGSGSgQ
 SUMMARY:2022 Oscar-Nominated Animated Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220320T200000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11148-2022-oscar-nominated-animated-shorts
@@ -447,7 +237,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bf+4DZ6KsfVuQ4BhKU9gZdOVPuchxMCj
 SUMMARY:Ascension
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220320T203000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11168-ascension
@@ -457,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5fUgK+TYgI+smHaI0G+Mwl+aT5nk30y3
 SUMMARY:2022 Oscar-Nominated Live Action Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220320T220000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11147-2022-oscar-nominated-live-action-shorts
@@ -467,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a1N2NncV2bUirHGY6hDBnoGIj76618Vw
 SUMMARY:Writing With Fire
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220320T223000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11167-writing-with-fire
@@ -477,7 +267,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kMKWDtY7hNah1S7qF+otpwMoIOTDbJcH
 SUMMARY:Great Freedom
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220321T004000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11158-great-freedom
@@ -487,7 +277,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:IUKukxjzA3nmmBxFttIuacN81qY7QpTd
 SUMMARY:2022 Oscar-Nominated Animated Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220321T010000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11148-2022-oscar-nominated-animated-shorts
@@ -497,7 +287,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:AfF0Jh5Px2LTmm/5EzY1TQOmwAXaBuiM
 SUMMARY:Alice
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220321T030000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11156-alice
@@ -507,7 +297,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rnn4dzCJZcaugQf4Rj3sAOtZmwhian68
 SUMMARY:After Yang
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220321T032000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11145-after-yang
@@ -517,7 +307,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:C/2cLV8yIbOBfu6YKJieg6PVMtRWPv3W
 SUMMARY:2022 Oscar-Nominated Documentary Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220322T000000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11149-2022-oscar-nominated-documentary-shorts
@@ -527,7 +317,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:JjEgVAO0Ik/kDY/AmAweXh2aV3RcDdbB
 SUMMARY:Alice
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220322T003000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11156-alice
@@ -537,7 +327,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:NyphI/BseERXkgwP2Dp4K6c87xcCnie6
 SUMMARY:Great Freedom
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220322T023000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11158-great-freedom
@@ -547,7 +337,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:g2lU9WcafKWx9A+jibPZvffMPUv18j0N
 SUMMARY:After Yang
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220322T032000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11145-after-yang
@@ -557,7 +347,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4JutIpHg7NunBJnhmN3rPrYO0Vmp0Ach
 SUMMARY:2022 Oscar-Nominated Live Action Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220323T000000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11147-2022-oscar-nominated-live-action-shorts
@@ -567,7 +357,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vJeEEsZalda/jJnqXUbJ20aYbBvkbuvp
 SUMMARY:Great Freedom
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220323T003000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11158-great-freedom
@@ -577,7 +367,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:etR+/upLvh5C530HzGCEc500zHSuLeIe
 SUMMARY:Ascension
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220323T023000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11168-ascension
@@ -587,7 +377,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:i9pBibrTHPsisIoOme7RPngjSD41z7yO
 SUMMARY:Alice
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220323T025000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11156-alice
@@ -597,7 +387,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:zmhGNuHbZpVlp3cgFoJsM1hLu7QSvaKP
 SUMMARY:2022 Oscar-Nominated Animated Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220324T000000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11148-2022-oscar-nominated-animated-shorts
@@ -607,7 +397,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:HlGjUH6yJOAvNuQ8N4KRwlKD97KE8JOG
 SUMMARY:After Yang
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220324T003000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11145-after-yang
@@ -617,7 +407,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vlBoWzI3gmE0PhwbRruAF6IKpRjNDTsG
 SUMMARY:Writing With Fire
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220324T020000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11167-writing-with-fire
@@ -627,7 +417,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:w6ZsNob0kCl/6QKyn4swj1ekL6RlNlIG
 SUMMARY:Alice
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220324T023000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11156-alice
@@ -637,7 +427,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nTI0TYZs0HK0uq+V/LtbyIIjiihseLxH
 SUMMARY:2022 Oscar-Nominated Live Action Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220325T000000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11147-2022-oscar-nominated-live-action-shorts
@@ -647,7 +437,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:yaBdqmHxZhbtpinmlaN4sys5geA4FiDm
 SUMMARY:Great Freedom
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220325T003000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11158-great-freedom
@@ -657,7 +447,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Ge98f8mzgZp7iOHRkWYyNuPbBudQ/vE6
 SUMMARY:After Yang
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220325T023000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11145-after-yang
@@ -667,7 +457,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:itoFn6HgQVOlxR1alagmDkIzomyE+99M
 SUMMARY:Alice
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220325T025000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11156-alice
@@ -677,7 +467,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:RvXFZYxFMAuuEhkUkHpGgZnId7djy+F3
 SUMMARY:Dune
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220325T200000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11186-dune
@@ -687,7 +477,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isgamSVEn3DIJF0hFrdIohvW5ICQ1Sw8
 SUMMARY:Apollo 10½
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220325T230000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11173-apollo-1012-a-space-age-childhood
@@ -697,7 +487,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bcaZN6hrzciR8iMl8DFx9IPqvo6rYg24
 SUMMARY:2022 Oscar-Nominated Animated Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220325T233000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11148-2022-oscar-nominated-animated-shorts
@@ -707,7 +497,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3+KIPAUmkOYvDTOABeyTFogII65AAbKr
 SUMMARY:Ahed's Knee
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220326T005000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11155-aheds-knee
@@ -717,7 +507,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:+t0dUu3QVArhlgSRp0KM2iu/d9IJa70d
 SUMMARY:Întregalde
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220326T013000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11157-întregalde
@@ -727,7 +517,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7MDCBC0VlP5a3G49XiugUceTHTTHBViH
 SUMMARY:Apollo 10½
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220326T030000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11173-apollo-1012-a-space-age-childhood
@@ -737,7 +527,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:PM2+nE8uGM/7jYNcGkxrNFAoYG+I2AQJ
 SUMMARY:Alice
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220326T034000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11156-alice
@@ -747,7 +537,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tCbrw/m02wxPAmRXnu60qe8xV1x9Zr5D
 SUMMARY:The Power of the Dog
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220326T193000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11176-the-power-of-the-dog
@@ -757,7 +547,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Wzc/gcjKBl//9jZbYkUa3cm2Op7UI6t3
 SUMMARY:Apollo 10½
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220326T200000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11173-apollo-1012-a-space-age-childhood
@@ -767,7 +557,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kulOvAIZwpa2s9QnH6NXGHbmJ1Kc07e6
 SUMMARY:2022 Oscar-Nominated Live Action Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220326T220000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11147-2022-oscar-nominated-live-action-shorts
@@ -777,7 +567,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:giQuuqfrsCh8dOzQisaf5RTq4iB/JZcX
 SUMMARY:Alice
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220326T222000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11156-alice
@@ -787,7 +577,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:q2SxQuNM7RxGem/m89sxn8xbzbpXf6Mm
 SUMMARY:2022 Oscar-Nominated Animated Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220327T002000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11148-2022-oscar-nominated-animated-shorts
@@ -797,7 +587,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:UKWrcRYybFq45REPESeSz+KWmu8lx3s1
 SUMMARY:Apollo 10½
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220327T004000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11173-apollo-1012-a-space-age-childhood
@@ -807,7 +597,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:GOjwnklJWXhp7VsF7ZwwfxQCjW2xLwQT
 SUMMARY:2022 Oscar-Nominated Live Action Shorts
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220327T022000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11147-2022-oscar-nominated-live-action-shorts
@@ -817,7 +607,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:k7RIbNXZDHbUtJkO2IPEfolX7DRokeIH
 SUMMARY:Ahed's Knee
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220327T024000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11155-aheds-knee
@@ -827,7 +617,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Upvy4QuKd5yuRwGOingrFDqCC38ZuV24
 SUMMARY:The 94th Academy Awards Viewing Party
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220327T220000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11177-the-academy-awards-2022
@@ -837,7 +627,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:WosPA/cWWsAqHKlDn37tZ9U8ZRCrJZQs
 SUMMARY:Apollo 10½
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220328T230000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11173-apollo-1012-a-space-age-childhood
@@ -847,7 +637,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:+kIMWSwfGlKT7oEkUYzlLKAkIzPa/59m
 SUMMARY:Întregalde
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220328T233000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11157-întregalde
@@ -857,7 +647,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cFKIl7FAfypeJEffSLH/CCKWEMKg6uAZ
 SUMMARY:Ahed's Knee
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220329T010000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11155-aheds-knee
@@ -867,7 +657,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bF2KZPa35/7bp3Ynax/faflwsViI2fvL
 SUMMARY:Apollo 10½
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220329T014000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11173-apollo-1012-a-space-age-childhood
@@ -877,7 +667,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:GcPGpWAL9TyOZHkBBiCywzTF/VCiJpr4
 SUMMARY:Apollo 10½
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220329T031000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11173-apollo-1012-a-space-age-childhood
@@ -887,7 +677,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:HxHHxlVm4EE89B8SY0Jx0TDJOJ/QT21M
 SUMMARY:Alice
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220329T033000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11156-alice
@@ -897,7 +687,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:MlvDptoQvpz6SC8A16xb6erTYhjNDgtQ
 SUMMARY:Apollo 10½
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220330T002000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11173-apollo-1012-a-space-age-childhood
@@ -907,7 +697,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:k3TV6m0LB3G8cVMaWpQFzPvL+vwS4Yp3
 SUMMARY:Întregalde
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220330T004500Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11157-întregalde
@@ -917,7 +707,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cSQukqXy9SEegfWQWcjpfMBb+GppF6Uq
 SUMMARY:Surviving Sex Trafficking + Discussion
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220330T023000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11159-surviving-sex-trafficking
@@ -927,7 +717,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:YJPMwOt0SYcV1NTbMefVvZkHLm352eOR
 SUMMARY:Apollo 10½
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220330T030000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11173-apollo-1012-a-space-age-childhood
@@ -937,7 +727,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:I416DP0/1bZHtXfxjdbCX2bKF7pxXTBi
 SUMMARY:Întregalde
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220331T224500Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11157-întregalde
@@ -947,7 +737,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Ghg/2fCu/IWGiuScOJJC4CuQwvp2qgbb
 SUMMARY:Apollo 10½
-DTSTAMP:20220311T224300Z
+DTSTAMP:20220315T161500Z
 DTSTART:20220401T010000Z
 DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
 	icle::permalink=fc11173-apollo-1012-a-space-age-childhood
