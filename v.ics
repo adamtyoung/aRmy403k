@@ -5,623 +5,192 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Acs+dPrL3oWMyT9lFkJ9FxXXYpSWmSqb
-SUMMARY:Scarborough
-DTSTAMP:20220426T160100Z
-DTSTART:20220426T210000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11234-scarborough
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:uRpIYIV/gITIyCWF15tcKY6ZwSSgu3q3
-SUMMARY:Inside the Uffizi
-DTSTAMP:20220426T160100Z
-DTSTART:20220426T213000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11236-inside-the-uffizi
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:kqL2AmN2HC+rpw0CnkflAQ3MKXyIPwFz
-SUMMARY:Hit the Road
-DTSTAMP:20220426T160100Z
-DTSTART:20220427T210000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11228-hit-the-road
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:wfPb6Sd5XpJ/WKf3DpnTy2VJs3zbghia
+UID:+6uwfXbB3Tztfcdx6O0tpMVFtccfsbM3
 SUMMARY:Between Two Worlds
-DTSTAMP:20220426T160100Z
-DTSTART:20220429T223000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11246-between-two-worlds
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
+DTSTAMP:20220427T225800Z
+DTSTART:20220401T070000Z
+DESCRIPTION:https://viff.org/whats-on/between-two-worlds/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:5nLlYHzhxBZIGPpO+RrzQfuonHa+22Pq
+UID:tIuIsE7MIH1AEU6OzR6/CMV0YixRpljl
+SUMMARY:Between Two Worlds
+DTSTAMP:20220427T225800Z
+DTSTART:20220402T070000Z
+DESCRIPTION:https://viff.org/whats-on/between-two-worlds/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:OtBax3YpqiNK9mjGPROpHKrS0/JMlEfR
+SUMMARY:Between Two Worlds
+DTSTAMP:20220427T225800Z
+DTSTART:20220403T070000Z
+DESCRIPTION:https://viff.org/whats-on/between-two-worlds/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:tRm3E7zmb8K1M1xXQrtq1o0snDPlGqfx
+SUMMARY:Between Two Worlds
+DTSTAMP:20220427T225800Z
+DTSTART:20220404T070000Z
+DESCRIPTION:https://viff.org/whats-on/between-two-worlds/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:M+CoK7A8WuAzkg9/g0qcbXeWCcryU8ze
+SUMMARY:Between Two Worlds
+DTSTAMP:20220427T225800Z
+DTSTART:20220405T070000Z
+DESCRIPTION:https://viff.org/whats-on/between-two-worlds/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:jm5klzsg9aaTQttjLIqvIi18MSIvKgYP
 SUMMARY:Final Account
-DTSTAMP:20220426T160100Z
-DTSTART:20220429T230000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11238-final-account
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
+DTSTAMP:20220427T225800Z
+DTSTART:20220401T070000Z
+DESCRIPTION:https://viff.org/whats-on/final-account/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:dGUS1//KJ7BiCujjUln1Iz56xjYoiyru
+UID:H/ekiSHLtyVIsuOoTUPn9Fsu4f/49Ynw
+SUMMARY:Final Account
+DTSTAMP:20220427T225800Z
+DTSTART:20220402T070000Z
+DESCRIPTION:https://viff.org/whats-on/final-account/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:T+6WlLm7hk/aWGqiXLyRDU7oq7SRZHQR
 SUMMARY:Hit the Road
-DTSTAMP:20220426T160100Z
-DTSTART:20220430T010000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11228-hit-the-road
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
+DTSTAMP:20220427T225800Z
+DTSTART:20220401T070000Z
+DESCRIPTION:https://viff.org/whats-on/hit-the-road/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:kGgOMscpsFJ5zKChZJB0AqCeeeWd/sJc
+UID:Qvf7T6xgWp3eoiB2T+O/DKFaxehPagAD
+SUMMARY:Hit the Road
+DTSTAMP:20220427T225800Z
+DTSTART:20220402T070000Z
+DESCRIPTION:https://viff.org/whats-on/hit-the-road/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:+y4eTvNQwDaBUzea9SXZMSivnT2vFYtS
+SUMMARY:Hit the Road
+DTSTAMP:20220427T225800Z
+DTSTART:20220403T070000Z
+DESCRIPTION:https://viff.org/whats-on/hit-the-road/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Dn5ELB/xSxIlQeUygtzldjWvcVGRWxLd
+SUMMARY:Hit the Road
+DTSTAMP:20220427T225800Z
+DTSTART:20220404T070000Z
+DESCRIPTION:https://viff.org/whats-on/hit-the-road/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:uth6YRXuMVs7u1jAbcmcKWsUwYQWzIqt
+SUMMARY:Hit the Road
+DTSTAMP:20220427T225800Z
+DTSTART:20220405T070000Z
+DESCRIPTION:https://viff.org/whats-on/hit-the-road/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:/vDipeu85a4frdoneDm8w71XlYuaCGGp
 SUMMARY:Scarborough
-DTSTAMP:20220426T160100Z
-DTSTART:20220430T013000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11234-scarborough
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
+DTSTAMP:20220427T225800Z
+DTSTART:20220401T070000Z
+DESCRIPTION:https://viff.org/whats-on/scarborough/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:DTNQQhA7d5Xm71EpjlfwrOwQShVXC7Bt
-SUMMARY:Between Two Worlds
-DTSTAMP:20220426T160100Z
-DTSTART:20220430T025000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11246-between-two-worlds
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
+UID:4A3MoSR5P/vehfTSrkDO2pREuSHlmnnr
+SUMMARY:Scarborough
+DTSTAMP:20220427T225800Z
+DTSTART:20220402T070000Z
+DESCRIPTION:https://viff.org/whats-on/scarborough/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:q349HIFT6/QSV1GDb/zuBtVo1vOTyjno
+UID:spSQK9OYDSBgDqjYs7ZKGgi7wf1Ls4e1
 SUMMARY:Revolution of Our Times
-DTSTAMP:20220426T160100Z
-DTSTART:20220430T210000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11195-revolution-of-our-times
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
+DTSTAMP:20220427T225800Z
+DTSTART:20220401T070000Z
+DESCRIPTION:https://viff.org/whats-on/revolution-of-our-times/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:kRs1ZLwXAJWg/FpiwBqCU4etWXBpOAvt
-SUMMARY:Scarborough
-DTSTAMP:20220426T160100Z
-DTSTART:20220430T213000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11234-scarborough
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
+UID:+/cPkItk89azNXcll+c7j92e/KC9V7ls
+SUMMARY:Revolution of Our Times
+DTSTAMP:20220427T225800Z
+DTSTART:20220402T070000Z
+DESCRIPTION:https://viff.org/whats-on/revolution-of-our-times/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:K4ZuDpHDDw59Cw81YIQpies3aO/XWNEd
-SUMMARY:Between Two Worlds
-DTSTAMP:20220426T160100Z
-DTSTART:20220501T000000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11246-between-two-worlds
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
+UID:Qx6+VXOQmcC2URQAU4apy5pZimdKwlde
+SUMMARY:Revolution of Our Times
+DTSTAMP:20220427T225800Z
+DTSTART:20220403T070000Z
+DESCRIPTION:https://viff.org/whats-on/revolution-of-our-times/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:/iD4JTEiWH8yZettkarkscoMCURsIG4h
-SUMMARY:Hit the Road
-DTSTAMP:20220426T160100Z
-DTSTART:20220501T002000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11228-hit-the-road
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:4gVmIDsPIu3XE9IJpwx2078G0g4D7cxU
+UID:rVYj2t8w2IFVjvX5qdQI63bI72w1il6W
 SUMMARY:One Night Only: Huda's Salon
-DTSTAMP:20220426T160100Z
-DTSTART:20220501T021500Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11245-hudas-salon
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
+DTSTAMP:20220427T225800Z
+DTSTART:20220401T070000Z
+DESCRIPTION:https://viff.org/whats-on/one-night-only-hudas-salon/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:i0TOHWuGRX8A9CdmhxALGgB06qdYAEKe
-SUMMARY:Final Account
-DTSTAMP:20220426T160100Z
-DTSTART:20220501T024000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11238-final-account
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:HC71UQQ+5TWffiWnFYopBOT7ypH5H77s
-SUMMARY:Revolution of Our Times
-DTSTAMP:20220426T160100Z
-DTSTART:20220501T210000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11195-revolution-of-our-times
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:aEcAZR4ya/9qe4p/YWMlEVJvLFfGZQxi
-SUMMARY:Hit the Road
-DTSTAMP:20220426T160100Z
-DTSTART:20220501T213000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11228-hit-the-road
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:RaU24ujQV47V58mpbzgiGyj+Fc9XgGtv
-SUMMARY:Revolution of Our Times
-DTSTAMP:20220426T160100Z
-DTSTART:20220501T233000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11195-revolution-of-our-times
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:g8LEJWGRN/0RdmkOY06kaixWP+deLImw
+UID:dVAtySMSPY0ZPrrdL6lpctTY2QANBbQn
 SUMMARY:Portrait of Jason
-DTSTAMP:20220426T160100Z
-DTSTART:20220502T000000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11237-portrait-of-jason
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
+DTSTAMP:20220427T225800Z
+DTSTART:20220401T070000Z
+DESCRIPTION:https://viff.org/whats-on/portrait-of-jason/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:LIel59HubL2f6fNY21KKjRvYvxxp+6kY
-SUMMARY:Between Two Worlds
-DTSTAMP:20220426T160100Z
-DTSTART:20220502T023000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11246-between-two-worlds
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
+UID:X6AhyQblNZGQafiad1b1Yw1dljR3kP/r
+SUMMARY:Portrait of Jason
+DTSTAMP:20220427T225800Z
+DTSTART:20220402T070000Z
+DESCRIPTION:https://viff.org/whats-on/portrait-of-jason/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:V44iofLQcpDJlIJQ9UlsBoc83qESvAyk
-SUMMARY:Hit the Road
-DTSTAMP:20220426T160100Z
-DTSTART:20220502T024500Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11228-hit-the-road
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:+hXS/nH7mlht06zxc1HzQi/8zKo8EElk
-SUMMARY:Between Two Worlds
-DTSTAMP:20220426T160100Z
-DTSTART:20220503T230000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11246-between-two-worlds
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:ynsJIN4GKv6yJFRZyS0eX/d7YdbQqfAZ
-SUMMARY:Hit the Road
-DTSTAMP:20220426T160100Z
-DTSTART:20220504T000000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11228-hit-the-road
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:J2359PllJY/8DhB+hPTX0/AHa+bmdvA3
+UID:ZF/FycrnN7Y/nzJviTUUqUVGAI3fwo3g
 SUMMARY:Cinema Salon: The Deer Hunter
-DTSTAMP:20220426T160100Z
-DTSTART:20220504T013000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11233-the-deer-hunter
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fs5dGtEepDhQEiGHgnN0ey1d+9vkDSsd
-SUMMARY:Portrait of Jason
-DTSTAMP:20220426T160100Z
-DTSTART:20220504T021000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11237-portrait-of-jason
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:lKcz90xvOEZK5qxgxNkLc/Xs9ezuP5JR
-SUMMARY:Vortex
-DTSTAMP:20220426T160100Z
-DTSTART:20220519T220000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11240-vortex
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:TnFYUdhR95cQN4nfCHwwdagtlz+214s5
-SUMMARY:Vortex
-DTSTAMP:20220426T160100Z
-DTSTART:20220520T220000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11240-vortex
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:lAxBQPOwYrHmGyrNX3gigZd1El+LZzUU
-SUMMARY:Mau
-DTSTAMP:20220426T160100Z
-DTSTART:20220520T223000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11244-mau
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:Ra9evx4hALtabEF+C7Kte0X1CWgVqYwW
-SUMMARY:Jane by Charlotte
-DTSTAMP:20220426T160100Z
-DTSTART:20220521T001500Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11243-jane-by-charlotte
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:s8uJLXRcXBzDrOZfQ21Ob0XHb/W3KUWB
-SUMMARY:Vortex
-DTSTAMP:20220426T160100Z
-DTSTART:20220521T010000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11240-vortex
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:80HefF+zPqAjrSt9XEMdG4GxuiBcDZo1
-SUMMARY:Je t'aime moi non plus
-DTSTAMP:20220426T160100Z
-DTSTART:20220521T020000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11249-je-taime-moi-non-plus
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:GIYa5MLKy6lOh+05OCG6Rv+5GTJn+Ocq
-SUMMARY:Enter the Void
-DTSTAMP:20220426T160100Z
-DTSTART:20220521T034500Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11251-enter-the-void
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:KYqtlmferXt8fbT5An4pKduKX0mlnTeS
-SUMMARY:Lux Aeterna
-DTSTAMP:20220426T160100Z
-DTSTART:20220521T040000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11242-lux-aeterna
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:jGMJ414fYVW2letOR9uxq5SzzGX6Kczx
-SUMMARY:Vortex
-DTSTAMP:20220426T160100Z
-DTSTART:20220521T220000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11240-vortex
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:TeOgTng/VuZkbChEWrufp/PpZ3amxcYC
-SUMMARY:Jane by Charlotte
-DTSTAMP:20220426T160100Z
-DTSTART:20220521T223000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11243-jane-by-charlotte
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:4QR5yTT4SnQdfEdST2yjyBx8FK18kl41
-SUMMARY:Mau
-DTSTAMP:20220426T160100Z
-DTSTART:20220522T002000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11244-mau
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:RlxHGR410YpZaftjOzTJxftddCxuPW75
-SUMMARY:Je t'aime moi non plus
-DTSTAMP:20220426T160100Z
-DTSTART:20220522T004500Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11249-je-taime-moi-non-plus
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:Y6lPwMIYzm/IB/aJjwyd0txux4061upK
-SUMMARY:Enter the Void
-DTSTAMP:20220426T160100Z
-DTSTART:20220522T020000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11251-enter-the-void
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:8eh5aN2ZH3bl3+Fev7y4z3ieR1+9bZdi
-SUMMARY:Vortex
-DTSTAMP:20220426T160100Z
-DTSTART:20220522T024500Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11240-vortex
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:6vioZjnGbl9whCg/Zyq8N1WrVIvdsg5U
-SUMMARY:Vortex
-DTSTAMP:20220426T160100Z
-DTSTART:20220522T220000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11240-vortex
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dsvVqa0cOLx/eEKPw3B29K9MPkJkp7xR
-SUMMARY:Je t'aime moi non plus
-DTSTAMP:20220426T160100Z
-DTSTART:20220522T223000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11249-je-taime-moi-non-plus
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:gafM+iM9jGU0psh47bUk+7ps0JM6f1Cr
-SUMMARY:Jane by Charlotte
-DTSTAMP:20220426T160100Z
-DTSTART:20220523T002000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11243-jane-by-charlotte
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:8LQIJ/Tlp7y3gkUevgwxUPMPEwqwVA7F
-SUMMARY:Vortex
-DTSTAMP:20220426T160100Z
-DTSTART:20220523T010000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11240-vortex
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:PlzhXyNxFvaQHJ/SeSOoMbpFSvzdk98h
-SUMMARY:Mau
-DTSTAMP:20220426T160100Z
-DTSTART:20220523T021500Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11244-mau
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:g/OE1ge/ByqCfQeQSNH5tK2raSXEFfVb
-SUMMARY:Lux Aeterna
-DTSTAMP:20220426T160100Z
-DTSTART:20220523T034500Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11242-lux-aeterna
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:qnprZS0PQiR2rdhrhAkOTuGkNpXbsaz6
-SUMMARY:Vortex
-DTSTAMP:20220426T160100Z
-DTSTART:20220523T233000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11240-vortex
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:i04V+16sxBCwVVAv6+FilWZWU3N+v8pI
-SUMMARY:Jane by Charlotte
-DTSTAMP:20220426T160100Z
-DTSTART:20220524T000000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11243-jane-by-charlotte
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:U1BeRRkCIG/wFmgxsAwHgEvBC92kUt0C
-SUMMARY:Je t'aime moi non plus
-DTSTAMP:20220426T160100Z
-DTSTART:20220524T015000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11249-je-taime-moi-non-plus
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:A7rzckhFfzCvOGo5h6D+N95OyqSH5srd
-SUMMARY:Vortex
-DTSTAMP:20220426T160100Z
-DTSTART:20220524T021500Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11240-vortex
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:mVOT7/IAnQqStcyFVm/MyVilw5BYXURc
-SUMMARY:Lux Aeterna
-DTSTAMP:20220426T160100Z
-DTSTART:20220524T034000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11242-lux-aeterna
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:TdvcNEczmF4oeZvUdHKena70dImRTsQn
-SUMMARY:Vortex
-DTSTAMP:20220426T160100Z
-DTSTART:20220524T233000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11240-vortex
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:aCzatK19FXZbcsBeDmohgGr4ZzFcTcIl
-SUMMARY:Mau
-DTSTAMP:20220426T160100Z
-DTSTART:20220525T010000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11244-mau
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:bOIbFO0SUbws7BPqY+NveKjUnWs8PMKg
-SUMMARY:Vortex
-DTSTAMP:20220426T160100Z
-DTSTART:20220525T021500Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11240-vortex
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:cpINvRpXC9VSfC1rvFpF/3xxNmyONzpc
-SUMMARY:Lux Aeterna
-DTSTAMP:20220426T160100Z
-DTSTART:20220525T024500Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11242-lux-aeterna
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:ju3XLu+C+o2Tj5P50N032jM3nVAHc69B
-SUMMARY:Vortex
-DTSTAMP:20220426T160100Z
-DTSTART:20220525T233000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11240-vortex
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:gecz13+4tt5fJonQHuXgSpXABxA1HFpW
-SUMMARY:Jane by Charlotte
-DTSTAMP:20220426T160100Z
-DTSTART:20220526T003000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11243-jane-by-charlotte
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:GzRQk4EU1p7/iI+Zws6VfQgCCcxQKdw0
-SUMMARY:Vortex
-DTSTAMP:20220426T160100Z
-DTSTART:20220526T021500Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11240-vortex
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:4iee/8dVW0oMhrrseEYbMSDOfIfkYepD
-SUMMARY:Je t'aime moi non plus
-DTSTAMP:20220426T160100Z
-DTSTART:20220526T024000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11249-je-taime-moi-non-plus
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:f1HqH1dn1x1mr6ZRxtPBw1uFGnRbuoqw
-SUMMARY:Mau
-DTSTAMP:20220426T160100Z
-DTSTART:20220526T230000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11244-mau
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:c10xkAesptttWeguxsfpZCDIn0tG37uH
-SUMMARY:Vortex
-DTSTAMP:20220426T160100Z
-DTSTART:20220526T233000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11240-vortex
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:/HKhfEaensFYGalx7U33ILQP7jng0oFQ
-SUMMARY:Enter the Void
-DTSTAMP:20220426T160100Z
-DTSTART:20220527T005000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11251-enter-the-void
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:PFJR/adhG/qCUIHmHLBmUwbJ7POIPjRX
-SUMMARY:Vortex
-DTSTAMP:20220426T160100Z
-DTSTART:20220527T021500Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11240-vortex
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:zJmZ14bcdmvQFBq3bFS2uSBvn+0NT5sI
-SUMMARY:Lux Aeterna
-DTSTAMP:20220426T160100Z
-DTSTART:20220527T035000Z
-DESCRIPTION:https://viff.org/Online/default.asp?BOparam::WScontent::loadArt
-	icle::permalink=fc11242-lux-aeterna
-LOCATION:Vancity Theatre
-DURATION:PT2H30M
+DTSTAMP:20220427T225800Z
+DTSTART:20220401T070000Z
+DESCRIPTION:https://viff.org/whats-on/cinema-salon-the-deer-hunter/
+LOCATION:The Cinematheque
+DURATION:PT1H30M
 END:VEVENT
 END:VCALENDAR
