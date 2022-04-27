@@ -79,7 +79,6 @@ run(1)
         uid: uniqueId,
       }
       events.push(event)
-      console.log(event)
     })
 
     ics.createEvents(events, (error, value) => {
