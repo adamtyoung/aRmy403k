@@ -2,20 +2,31 @@ import needle from "needle"
 import cheerio from "cheerio"
 import cryptojs from "crypto-js"
 import ics from "ics"
-import { writeFileSync } from "fs"
+import { link, writeFileSync } from "fs"
 import ora from "ora"
 import { parse, format } from "date-fns"
 
-controller()
+controller(3) // pass in number of pages
 
-async function controller() {
+async function controller(pages) {
   try {
     let spinner = ora("Generating VIFF events").start()
     let finalEvents = []
     let calendarEvents = []
     spinner.text = "Getting film list"
-    let content = await needle("get", "https://viff.org/whats-on/")
-    let linkList = await getLinks(content)
+
+    // first page links
+    const content = await needle("get", "https://viff.org/whats-on/")
+    var linkList = await getLinks(content)
+
+    // other page links
+    for (let step = 2; step <= pages; step++) {
+      let dynamicLink = "https://viff.org/whats-on/page/" + step + "/"
+      let contentTwo = await needle("get", dynamicLink)
+      let linkListTwo = await getLinks(contentTwo)
+      linkList = linkList.concat(linkListTwo)
+    }
+
     spinner.text = "Getting and processing each film"
     for (var i = 0, len = linkList.length; i < len; i++) {
       let cleanLink = linkList[i].replace(/^http:\/\//i, "https://")
