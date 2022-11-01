@@ -27,7 +27,7 @@ async function controller(pages) {
       linkList = linkList.concat(linkListTwo)
     }
 
-    spinner.text = "Getting and processing each film"
+    spinner.text = "Getting and processing VIFF films"
     for (var i = 0, len = linkList.length; i < len; i++) {
       let cleanLink = linkList[i].replace(/^http:\/\//i, "https://")
       cleanLink = encodeURI(cleanLink)
@@ -89,6 +89,10 @@ function extractInfo(content) {
         let times = group(".c-event-instance__time").text().trim()
         let timesArr = times.split("\n")
         timesArr = cleanNames(timesArr)
+
+        if (isNaN(duration)) {
+          duration = 401
+        }
 
         // screenings.push(day + cleanNames(timesArr))
         timesArr.forEach((time) => {

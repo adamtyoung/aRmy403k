@@ -6,7 +6,7 @@ import { writeFileSync } from 'fs'
 import ora from 'ora'
 
 const events = []
-const spinner = ora('Scraping VIFF movies').start()
+const spinner = ora('Scraping Rio movies').start()
 
 function run(pagesToScrape) {
   return new Promise(async (resolve, reject) => {
@@ -14,7 +14,7 @@ function run(pagesToScrape) {
       if (!pagesToScrape) {
         pagesToScrape = 1
       }
-      spinner.text = 'Scraping ' + pagesToScrape + ' pages'
+      spinner.text = 'Scraping ' + pagesToScrape + ' Rio pages'
       const browser = await puppeteer.launch()
       const page = await browser.newPage()
       await page.goto("https://riotheatre.ca")

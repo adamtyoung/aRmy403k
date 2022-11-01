@@ -17,7 +17,7 @@ async function controller() {
     spinner.text = "Getting film list"
     let content = await needle("get", "https://thecinematheque.ca/films")
     let linkList = await getLinks(content)
-    spinner.text = "Getting and processing each film"
+    spinner.text = "Getting and processing each Cinematheque film"
     for (var i = 0, len = linkList.length; i < len; i++) {
       let cleanLink = linkList[i].replace(/^http:\/\//i, "https://")
       cleanLink = encodeURI(cleanLink)
@@ -71,7 +71,7 @@ function extractInfo(content) {
       .split("/")
     let year = url[4]
     let target = "/" + url[3] + "/" + url[4] + "/" + url[5]
-    let screenings = $("#screenings")
+    let screenings = $("#screeningDates")
       .find("li")
       .toArray()
       .map(function(x) {
@@ -81,7 +81,7 @@ function extractInfo(content) {
           .replace(/ *\([^)]*\) */g, "")
       })
 
-    let ampm = $("#screenings")
+    let ampm = $("#screeningDates")
       .find('li span.time')
       .toArray()
       .map(function(r) {
@@ -132,6 +132,9 @@ function extractInfo(content) {
       Object.keys(start).forEach(function(el) {
         start[el] = parseInt(start[el])
       })
+      if (isNaN(start)) {
+        start = [ 2022, 11, 2, 18, 30 ]
+      }
 
       let event = {
         title: title,
