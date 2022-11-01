@@ -132,9 +132,6 @@ function extractInfo(content) {
       Object.keys(start).forEach(function(el) {
         start[el] = parseInt(start[el])
       })
-      if (isNaN(start)) {
-        start = [ 2022, 11, 2, 18, 30 ]
-      }
 
       let event = {
         title: title,
