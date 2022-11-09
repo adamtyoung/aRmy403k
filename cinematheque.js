@@ -98,6 +98,8 @@ function extractInfo(content) {
       // .replace(/:/g, '')
     let rawDuration = $(".filmRuntime").text()
 
+    console.log('\n' + title + ' ' + combi)
+
     // loop over screenings
     combi.map(function(s) {
       var hash = cryptojs.SHA256(title + s)
@@ -141,6 +143,7 @@ function extractInfo(content) {
         duration: { hours: durationHours, minutes: durationMinutes },
         uid: uniqueId
       }
+      console.log(event)
 
       events.push(event)
     })
