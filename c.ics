@@ -5,203 +5,36 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:1kERAk/51e7PLj1g1GRFwX3/QKDtQc5t
-SUMMARY:Godzilla\n\n  Godzilla\n\n  King Kong vs. Godzilla\n\n  Mothra vs. 
-	Godzilla\n\n  Ghidorah\, the Three-Headed Monster\n\n  Invasion of Astro-M
-	onster\n\n  Ebirah\, Horror of the Deep\n\n  Destroy All Monsters\n\n  God
-	zilla vs. Hedorah\n\n  Godzilla vs. Gigan\n\n  Godzilla vs. Megalon\n\n  G
-	odzilla vs. Mechagodzilla\n\n  Terror of Mechagodzilla\n\n  Shin Godzilla
-DTSTAMP:20231027T154700Z
+UID:AhaPX7xtTQWkqHhl7O/YSY4bPBte0ckb
+SUMMARY:Godzilla\n\n  Godzilla\n\n  Shin Godzilla
+DTSTAMP:20231031T163300Z
 DTSTART:20231027T013000Z
 DESCRIPTION:/films/2023/godzilla
 LOCATION:The Cinematheque
-DURATION:PT1.6161531656581148e+27H4M
+DURATION:PT161602H
 END:VEVENT
 BEGIN:VEVENT
-UID:V1G22tyib+KtmkfvQNvxNJoKZ2YweUtp
-SUMMARY:Godzilla\n\n  Godzilla\n\n  King Kong vs. Godzilla\n\n  Mothra vs. 
-	Godzilla\n\n  Ghidorah\, the Three-Headed Monster\n\n  Invasion of Astro-M
-	onster\n\n  Ebirah\, Horror of the Deep\n\n  Destroy All Monsters\n\n  God
-	zilla vs. Hedorah\n\n  Godzilla vs. Gigan\n\n  Godzilla vs. Megalon\n\n  G
-	odzilla vs. Mechagodzilla\n\n  Terror of Mechagodzilla\n\n  Shin Godzilla
-DTSTAMP:20231027T154700Z
+UID:WIMO/c5w022PYiDFFD4aI9NQE0l+eTQI
+SUMMARY:Godzilla\n\n  Godzilla\n\n  Shin Godzilla
+DTSTAMP:20231031T163300Z
 DTSTART:20231101T013000Z
 DESCRIPTION:/films/2023/godzilla
 LOCATION:The Cinematheque
-DURATION:PT1.6161531656581148e+27H4M
+DURATION:PT161602H
 END:VEVENT
 BEGIN:VEVENT
-UID:qj7IFiC5FwvNPDmCwowkEg77xvjCaQwG
-SUMMARY:King Kong vs. Godzilla\n\n  Godzilla\n\n  King Kong vs. Godzilla\n\
-	n  Mothra vs. Godzilla\n\n  Ghidorah\, the Three-Headed Monster\n\n  Invas
-	ion of Astro-Monster\n\n  Ebirah\, Horror of the Deep\n\n  Destroy All Mon
-	sters\n\n  Godzilla vs. Hedorah\n\n  Godzilla vs. Gigan\n\n  Godzilla vs. 
-	Megalon\n\n  Godzilla vs. Mechagodzilla\n\n  Terror of Mechagodzilla\n\n  
-	Shin Godzilla
-DTSTAMP:20231027T154700Z
-DTSTART:20231028T013000Z
-DESCRIPTION:/films/2023/king-kong-vs-godzilla
-LOCATION:The Cinematheque
-DURATION:PT1.5328198323247815e+27H4M
-END:VEVENT
-BEGIN:VEVENT
-UID:VJ7eQjUeYxqZiTNX7SYVXJ7IzgJUytxc
-SUMMARY:Mothra vs. Godzilla\n\n  Godzilla\n\n  King Kong vs. Godzilla\n\n  
-	Mothra vs. Godzilla\n\n  Ghidorah\, the Three-Headed Monster\n\n  Invasion
-	 of Astro-Monster\n\n  Ebirah\, Horror of the Deep\n\n  Destroy All Monste
-	rs\n\n  Godzilla vs. Hedorah\n\n  Godzilla vs. Gigan\n\n  Godzilla vs. Meg
-	alon\n\n  Godzilla vs. Mechagodzilla\n\n  Terror of Mechagodzilla\n\n  Shi
-	n Godzilla
-DTSTAMP:20231027T154700Z
-DTSTART:20231028T033000Z
-DESCRIPTION:/films/2023/mothra-vs-godzilla
-LOCATION:The Cinematheque
-DURATION:PT1.4994864989914483e+27H28M
-END:VEVENT
-BEGIN:VEVENT
-UID:8psJB5Py7Cvwm/RJ46qeoSac6a5ANgF9
-SUMMARY:Ghidorah\, the Three-Headed Monster\n\n  Godzilla\n\n  King Kong vs
-	. Godzilla\n\n  Mothra vs. Godzilla\n\n  Ghidorah\, the Three-Headed Monst
-	er\n\n  Invasion of Astro-Monster\n\n  Ebirah\, Horror of the Deep\n\n  De
-	stroy All Monsters\n\n  Godzilla vs. Hedorah\n\n  Godzilla vs. Gigan\n\n  
-	Godzilla vs. Megalon\n\n  Godzilla vs. Mechagodzilla\n\n  Terror of Mechag
-	odzilla\n\n  Shin Godzilla
-DTSTAMP:20231027T154700Z
-DTSTART:20231029T000000Z
-DESCRIPTION:/films/2023/ghidorah
-LOCATION:The Cinematheque
-DURATION:PT1.566153165658115e+27H40M
-END:VEVENT
-BEGIN:VEVENT
-UID:g2q8zrrK+MbEA3t1o481dWl4XHIAOUz2
-SUMMARY:Invasion of Astro-Monster\n\n  Godzilla\n\n  King Kong vs. Godzilla
-	\n\n  Mothra vs. Godzilla\n\n  Ghidorah\, the Three-Headed Monster\n\n  In
-	vasion of Astro-Monster\n\n  Ebirah\, Horror of the Deep\n\n  Destroy All 
-	Monsters\n\n  Godzilla vs. Hedorah\n\n  Godzilla vs. Gigan\n\n  Godzilla v
-	s. Megalon\n\n  Godzilla vs. Mechagodzilla\n\n  Terror of Mechagodzilla\n\
-	n  Shin Godzilla
-DTSTAMP:20231027T154700Z
-DTSTART:20231029T020000Z
-DESCRIPTION:/films/2023/invasion-of-astro-monster
-LOCATION:The Cinematheque
-DURATION:PT1.5828198323247816e+27H28M
-END:VEVENT
-BEGIN:VEVENT
-UID:QxPBWtQsL/wbTfahCeheNleljy0NUiAF
-SUMMARY:Ebirah\, Horror of the Deep\n\n  Godzilla\n\n  King Kong vs. Godzil
-	la\n\n  Mothra vs. Godzilla\n\n  Ghidorah\, the Three-Headed Monster\n\n  
-	Invasion of Astro-Monster\n\n  Ebirah\, Horror of the Deep\n\n  Destroy Al
-	l Monsters\n\n  Godzilla vs. Hedorah\n\n  Godzilla vs. Gigan\n\n  Godzilla
-	 vs. Megalon\n\n  Godzilla vs. Mechagodzilla\n\n  Terror of Mechagodzilla\
-	n\n  Shin Godzilla
-DTSTAMP:20231027T154700Z
-DTSTART:20231029T040000Z
-DESCRIPTION:/films/2023/ebirah
-LOCATION:The Cinematheque
-DURATION:PT1.4494864989914482e+27H4M
-END:VEVENT
-BEGIN:VEVENT
-UID:dR3tzl7BBKb8EOF/HVbzjwBP8eP4x+nb
-SUMMARY:Destroy All Monsters\n\n  Godzilla\n\n  King Kong vs. Godzilla\n\n 
-	 Mothra vs. Godzilla\n\n  Ghidorah\, the Three-Headed Monster\n\n  Invasio
-	n of Astro-Monster\n\n  Ebirah\, Horror of the Deep\n\n  Destroy All Monst
-	ers\n\n  Godzilla vs. Hedorah\n\n  Godzilla vs. Gigan\n\n  Godzilla vs. Me
-	galon\n\n  Godzilla vs. Mechagodzilla\n\n  Terror of Mechagodzilla\n\n  Sh
-	in Godzilla
-DTSTAMP:20231027T154700Z
-DTSTART:20231029T210000Z
-DESCRIPTION:/films/2023/destroy-all-monsters
-LOCATION:The Cinematheque
-DURATION:PT1.4994864989914483e+27H28M
-END:VEVENT
-BEGIN:VEVENT
-UID:TiXYwcX0xyvuGpAPTGaiFhWJHEPUsyEX
-SUMMARY:Godzilla vs. Hedorah\n\n  Godzilla\n\n  King Kong vs. Godzilla\n\n 
-	 Mothra vs. Godzilla\n\n  Ghidorah\, the Three-Headed Monster\n\n  Invasio
-	n of Astro-Monster\n\n  Ebirah\, Horror of the Deep\n\n  Destroy All Monst
-	ers\n\n  Godzilla vs. Hedorah\n\n  Godzilla vs. Gigan\n\n  Godzilla vs. Me
-	galon\n\n  Godzilla vs. Mechagodzilla\n\n  Terror of Mechagodzilla\n\n  Sh
-	in Godzilla
-DTSTAMP:20231027T154700Z
-DTSTART:20231029T230000Z
-DESCRIPTION:/films/2023/godzilla-vs-hedorah
-LOCATION:The Cinematheque
-DURATION:PT1.4328198323247816e+27H16M
-END:VEVENT
-BEGIN:VEVENT
-UID:itDTnebdTax57/qWORWMUaSIjk2/v8uC
-SUMMARY:Godzilla vs. Gigan\n\n  Godzilla\n\n  King Kong vs. Godzilla\n\n  M
-	othra vs. Godzilla\n\n  Ghidorah\, the Three-Headed Monster\n\n  Invasion 
-	of Astro-Monster\n\n  Ebirah\, Horror of the Deep\n\n  Destroy All Monster
-	s\n\n  Godzilla vs. Hedorah\n\n  Godzilla vs. Gigan\n\n  Godzilla vs. Mega
-	lon\n\n  Godzilla vs. Mechagodzilla\n\n  Terror of Mechagodzilla\n\n  Shin
-	 Godzilla
-DTSTAMP:20231027T154700Z
-DTSTART:20231030T010000Z
-DESCRIPTION:/films/2023/godzilla-vs-gigan
-LOCATION:The Cinematheque
-DURATION:PT1.4994864989914483e+27H28M
-END:VEVENT
-BEGIN:VEVENT
-UID:e3+A2p33pdCNqDMwOujU25G6xQAOmXrU
-SUMMARY:Godzilla vs. Megalon\n\n  Godzilla\n\n  King Kong vs. Godzilla\n\n 
-	 Mothra vs. Godzilla\n\n  Ghidorah\, the Three-Headed Monster\n\n  Invasio
-	n of Astro-Monster\n\n  Ebirah\, Horror of the Deep\n\n  Destroy All Monst
-	ers\n\n  Godzilla vs. Hedorah\n\n  Godzilla vs. Gigan\n\n  Godzilla vs. Me
-	galon\n\n  Godzilla vs. Mechagodzilla\n\n  Terror of Mechagodzilla\n\n  Sh
-	in Godzilla
-DTSTAMP:20231027T154700Z
-DTSTART:20231030T030000Z
-DESCRIPTION:/films/2023/godzilla-vs-megalon
-LOCATION:The Cinematheque
-DURATION:PT1.3661531656581149e+27H4M
-END:VEVENT
-BEGIN:VEVENT
-UID:1+MWC8kOs3jJEYprf8A08m+imxJF6h4s
-SUMMARY:Godzilla vs. Mechagodzilla\n\n  Godzilla\n\n  King Kong vs. Godzill
-	a\n\n  Mothra vs. Godzilla\n\n  Ghidorah\, the Three-Headed Monster\n\n  I
-	nvasion of Astro-Monster\n\n  Ebirah\, Horror of the Deep\n\n  Destroy All
-	 Monsters\n\n  Godzilla vs. Hedorah\n\n  Godzilla vs. Gigan\n\n  Godzilla 
-	vs. Megalon\n\n  Godzilla vs. Mechagodzilla\n\n  Terror of Mechagodzilla\n
-	\n  Shin Godzilla
-DTSTAMP:20231027T154700Z
-DTSTART:20231031T013000Z
-DESCRIPTION:/films/2023/godzilla-vs-mechagodzilla
-LOCATION:The Cinematheque
-DURATION:PT1.416153165658115e+27H28M
-END:VEVENT
-BEGIN:VEVENT
-UID:ukyzyIXdEhqE0SZfgAjwun3aYm45vToA
-SUMMARY:Terror of Mechagodzilla\n\n  Godzilla\n\n  King Kong vs. Godzilla\n
-	\n  Mothra vs. Godzilla\n\n  Ghidorah\, the Three-Headed Monster\n\n  Inva
-	sion of Astro-Monster\n\n  Ebirah\, Horror of the Deep\n\n  Destroy All Mo
-	nsters\n\n  Godzilla vs. Hedorah\n\n  Godzilla vs. Gigan\n\n  Godzilla vs.
-	 Megalon\n\n  Godzilla vs. Mechagodzilla\n\n  Terror of Mechagodzilla\n\n 
-	 Shin Godzilla
-DTSTAMP:20231027T154700Z
-DTSTART:20231031T033000Z
-DESCRIPTION:/films/2023/terror-of-mechagodzilla
-LOCATION:The Cinematheque
-DURATION:PT1.3994864989914483e+27H40M
-END:VEVENT
-BEGIN:VEVENT
-UID:u275uoLu3wBFm4zGa5s9lyudHKY/EPXF
-SUMMARY:Shin Godzilla\n\n  Godzilla\n\n  King Kong vs. Godzilla\n\n  Mothra
-	 vs. Godzilla\n\n  Ghidorah\, the Three-Headed Monster\n\n  Invasion of As
-	tro-Monster\n\n  Ebirah\, Horror of the Deep\n\n  Destroy All Monsters\n\n
-	  Godzilla vs. Hedorah\n\n  Godzilla vs. Gigan\n\n  Godzilla vs. Megalon\n
-	\n  Godzilla vs. Mechagodzilla\n\n  Terror of Mechagodzilla\n\n  Shin Godz
-	illa
-DTSTAMP:20231027T154700Z
+UID:LXK/ibr7iRUM5hXRnh34G7tyM3d3iBWJ
+SUMMARY:Shin Godzilla\n\n  Godzilla\n\n  Shin Godzilla
+DTSTAMP:20231031T163300Z
 DTSTART:20231101T034000Z
 DESCRIPTION:/films/2023/shin-godzilla
 LOCATION:The Cinematheque
-DURATION:PT2.016153165658115e+27H32M
+DURATION:PT201602H
 END:VEVENT
 BEGIN:VEVENT
-UID:3Yv/nY1D/kPmjNaPwn0jPMh5yqEX0w93
+UID:iepWGgDh55XqwLnY/kBR5euHek2Jq82V
 SUMMARY:Seven Generations\n\n  Seven Generations\n\n  Wildhood
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231102T020000Z
 DESCRIPTION:/films/2023/seven-generations
 LOCATION:The Cinematheque
@@ -210,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:yjsSgSk/5Zo8CoGMnO+j4R69iugW0v+2
 SUMMARY:Carole Itter: Choreography of the Everyday
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231103T013000Z
 DESCRIPTION:/films/2023/carole-itter
 LOCATION:The Cinematheque
@@ -219,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:HHqEIJn8RSjHHN9MSwqnUgonAt0RtpuU
 SUMMARY:Lives of Performers
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231103T032000Z
 DESCRIPTION:/films/2023/lives-of-performers
 LOCATION:The Cinematheque
@@ -228,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wd1+HLqbHdm/zwgQoMeKQDH9KzTjSL28
 SUMMARY:Unrest
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231104T013000Z
 DESCRIPTION:/films/2023/unrest
 LOCATION:The Cinematheque
@@ -237,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Oy8iBwXl68mFlOHNDX48rzHyej8moNOt
 SUMMARY:Unrest
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231106T044000Z
 DESCRIPTION:/films/2023/unrest
 LOCATION:The Cinematheque
@@ -246,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hBg1xAR6Kt6o5mQ06PcDVZ7mcn3jn+fS
 SUMMARY:Unrest
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231112T023000Z
 DESCRIPTION:/films/2023/unrest
 LOCATION:The Cinematheque
@@ -255,30 +88,27 @@ END:VEVENT
 BEGIN:VEVENT
 UID:AEeUqzwZhHrf62iP7MTiiH/OnoADDTsY
 SUMMARY:Clearcut
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231104T033000Z
-DESCRIPTION:/films/2023/clearcut?fbclid=IwAR3qOeBHzBmD-q23jxCCEIWY2U-cxQiWj
-	LvGqP52JWDXDH4tqJj9vE3ycgc
+DESCRIPTION:/films/2023/clearcut
 LOCATION:The Cinematheque
 DURATION:PT1H40M
 END:VEVENT
 BEGIN:VEVENT
 UID:oBogOimKoTlcc4GMqt9irwFXXFaVZr10
 SUMMARY:Clearcut
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231107T023000Z
-DESCRIPTION:/films/2023/clearcut?fbclid=IwAR3qOeBHzBmD-q23jxCCEIWY2U-cxQiWj
-	LvGqP52JWDXDH4tqJj9vE3ycgc
+DESCRIPTION:/films/2023/clearcut
 LOCATION:The Cinematheque
 DURATION:PT1H40M
 END:VEVENT
 BEGIN:VEVENT
 UID:Pv1Dg43MmV/NAEBZgb/lobpu57FROSjf
 SUMMARY:Clearcut
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231110T042000Z
-DESCRIPTION:/films/2023/clearcut?fbclid=IwAR3qOeBHzBmD-q23jxCCEIWY2U-cxQiWj
-	LvGqP52JWDXDH4tqJj9vE3ycgc
+DESCRIPTION:/films/2023/clearcut
 LOCATION:The Cinematheque
 DURATION:PT1H40M
 END:VEVENT
@@ -286,7 +116,7 @@ BEGIN:VEVENT
 UID:N/GHXv2rFw8ubwvJObnnDxhH69ZDheS5
 SUMMARY:P.P. Rider\n\n  P.P. Rider\n\n  Typhoon Club\n\n  Sailor Suit and M
 	achine Gun
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231105T010000Z
 DESCRIPTION:/films/2023/pp-rider
 LOCATION:The Cinematheque
@@ -296,7 +126,7 @@ BEGIN:VEVENT
 UID:9gGs90GrOGXhUeXEgNMnIxk1OfMVW3ac
 SUMMARY:P.P. Rider\n\n  P.P. Rider\n\n  Typhoon Club\n\n  Sailor Suit and M
 	achine Gun
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231107T044000Z
 DESCRIPTION:/films/2023/pp-rider
 LOCATION:The Cinematheque
@@ -306,7 +136,7 @@ BEGIN:VEVENT
 UID:XRPz+EEi1qR3nM45OcfzATxF22YL0b38
 SUMMARY:P.P. Rider\n\n  P.P. Rider\n\n  Typhoon Club\n\n  Sailor Suit and M
 	achine Gun
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231113T020000Z
 DESCRIPTION:/films/2023/pp-rider
 LOCATION:The Cinematheque
@@ -316,7 +146,7 @@ BEGIN:VEVENT
 UID:d/xUP6+pRxcOlruK6ulBtdznrmnoe6AY
 SUMMARY:Typhoon Club\n\n  P.P. Rider\n\n  Typhoon Club\n\n  Sailor Suit and
 	 Machine Gun
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231105T033000Z
 DESCRIPTION:/films/2023/typhoon-club
 LOCATION:The Cinematheque
@@ -326,7 +156,7 @@ BEGIN:VEVENT
 UID:NKjn3tUFiacLqV1PVmwrbzTJ829NTA1g
 SUMMARY:Typhoon Club\n\n  P.P. Rider\n\n  Typhoon Club\n\n  Sailor Suit and
 	 Machine Gun
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231111T023000Z
 DESCRIPTION:/films/2023/typhoon-club
 LOCATION:The Cinematheque
@@ -336,7 +166,7 @@ BEGIN:VEVENT
 UID:5wi8lC0tN43BcfRSY8wal7wamTLzn9+F
 SUMMARY:Typhoon Club\n\n  P.P. Rider\n\n  Typhoon Club\n\n  Sailor Suit and
 	 Machine Gun
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231113T043000Z
 DESCRIPTION:/films/2023/typhoon-club
 LOCATION:The Cinematheque
@@ -346,7 +176,7 @@ BEGIN:VEVENT
 UID:T3+DxC8lcWFeMGt6J6QtQ5L0+xXC+bf9
 SUMMARY:Sailor Suit and Machine Gun\n\n  P.P. Rider\n\n  Typhoon Club\n\n  
 	Sailor Suit and Machine Gun
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231106T020000Z
 DESCRIPTION:/films/2023/sailor-suit-and-machine-gun
 LOCATION:The Cinematheque
@@ -356,7 +186,7 @@ BEGIN:VEVENT
 UID:TcrpVXUE26rliJeB4gwvovId1Gzei5gg
 SUMMARY:Sailor Suit and Machine Gun\n\n  P.P. Rider\n\n  Typhoon Club\n\n  
 	Sailor Suit and Machine Gun
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231111T050000Z
 DESCRIPTION:/films/2023/sailor-suit-and-machine-gun
 LOCATION:The Cinematheque
@@ -366,7 +196,7 @@ BEGIN:VEVENT
 UID:xhfgBIq7HZWZ3v4iMBpAtEHCTia1F6+R
 SUMMARY:Sailor Suit and Machine Gun\n\n  P.P. Rider\n\n  Typhoon Club\n\n  
 	Sailor Suit and Machine Gun
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231114T043000Z
 DESCRIPTION:/films/2023/sailor-suit-and-machine-gun
 LOCATION:The Cinematheque
@@ -375,7 +205,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9X8egz2TBwst0ak0A2JBcEDXQxFuWvIR
 SUMMARY:Nova\n\n  Nova\n\n  The Wiz
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231109T030000Z
 DESCRIPTION:/films/2023/nova
 LOCATION:The Cinematheque
@@ -384,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:OoQ+7GniyFChoT82Sr965sBG/Pr977kh
 SUMMARY:Nowhere
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231110T023000Z
 DESCRIPTION:/films/2023/nowhere
 LOCATION:The Cinematheque
@@ -393,7 +223,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aM5LppgIDIvMwNzdGoapC3X0j/sj3MJk
 SUMMARY:Nowhere
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231112T043000Z
 DESCRIPTION:/films/2023/nowhere
 LOCATION:The Cinematheque
@@ -402,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:94YfJm/hu2J/ZF3OaUVAL/lH3WWl3Hv/
 SUMMARY:Nowhere
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231114T023000Z
 DESCRIPTION:/films/2023/nowhere
 LOCATION:The Cinematheque
@@ -411,7 +241,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:+VyFqJdbG5ZFErrEyW3wByU2G/SSa/6m
 SUMMARY:Another Body\n\n  Another Body\n\n  Much Ado About Dying
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231116T030000Z
 DESCRIPTION:/films/2023/another-body
 LOCATION:The Cinematheque
@@ -427,7 +257,7 @@ SUMMARY:Ramona\n\n  Ramona\n\n  The Last Temptation of the Belgians\n\n  Do
 	ek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n\n  Li
 	sten\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il Boemo\
 	n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231117T030000Z
 DESCRIPTION:/films/2023/ramona
 LOCATION:The Cinematheque
@@ -444,7 +274,7 @@ SUMMARY:The Last Temptation of the Belgians\n\n  Ramona\n\n  The Last Tempt
 	 the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Ra
 	p and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxe
 	mbourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231118T023000Z
 DESCRIPTION:/films/2023/last-temptation-belgians
 LOCATION:The Cinematheque
@@ -460,7 +290,7 @@ SUMMARY:Double Blind\n\n  Ramona\n\n  The Last Temptation of the Belgians\n
 	 Jelinek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n
 	\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il 
 	Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231118T042000Z
 DESCRIPTION:/films/2023/double-blind
 LOCATION:The Cinematheque
@@ -476,7 +306,7 @@ SUMMARY:Miss Viborg\n\n  Ramona\n\n  The Last Temptation of the Belgians\n\
 	Jelinek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n\
 	n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il B
 	oemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231119T023000Z
 DESCRIPTION:/films/2023/miss-viborg
 LOCATION:The Cinematheque
@@ -492,11 +322,20 @@ SUMMARY:Freestyle\n\n  Ramona\n\n  The Last Temptation of the Belgians\n\n
 	linek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n\n 
 	 Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il Boe
 	mo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231119T044000Z
 DESCRIPTION:/films/2023/freestyle
 LOCATION:The Cinematheque
 DURATION:PT1.4967948499818648e+69H24M
+END:VEVENT
+BEGIN:VEVENT
+UID:9wOAfnUBRy8jvqziUR84ZwRjBWgXITCV
+SUMMARY:Ishu Patel × 5\n\n  Ishu Patel × 5\n\n  Little Women
+DTSTAMP:20231031T163300Z
+DTSTART:20231119T190000Z
+DESCRIPTION:/films/2023/ishu-patel-5
+LOCATION:The Cinematheque
+DURATION:PT119518H35M
 END:VEVENT
 BEGIN:VEVENT
 UID:5TiYHdcE+9gaTwszJ6a3cOJGYhzhIZr5
@@ -508,7 +347,7 @@ SUMMARY:Yasmine’s Wedding\n\n  Ramona\n\n  The Last Temptation of the Belgi
 	riede Jelinek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Ni
 	ght\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n
 	  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231120T040000Z
 DESCRIPTION:/films/2023/yasmines-wedding
 LOCATION:The Cinematheque
@@ -524,20 +363,11 @@ SUMMARY:Comedy Queen\n\n  Ramona\n\n  The Last Temptation of the Belgians\n
 	 Jelinek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n
 	\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il 
 	Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231119T233000Z
 DESCRIPTION:/films/2023/comedy-queen
 LOCATION:The Cinematheque
 DURATION:PT1.5801281833151983e+69H28M
-END:VEVENT
-BEGIN:VEVENT
-UID:9wOAfnUBRy8jvqziUR84ZwRjBWgXITCV
-SUMMARY:Ishu Patel × 5\n\n  Ishu Patel × 5\n\n  Little Women
-DTSTAMP:20231027T154700Z
-DTSTART:20231119T190000Z
-DESCRIPTION:/films/2023/ishu-patel-5
-LOCATION:The Cinematheque
-DURATION:PT119518H35M
 END:VEVENT
 BEGIN:VEVENT
 UID:A09/Y4ukCf9Lulw+R6iwPwgcuhizRZjo
@@ -549,7 +379,7 @@ SUMMARY:Runner\n\n  Ramona\n\n  The Last Temptation of the Belgians\n\n  Do
 	ek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n\n  Li
 	sten\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il Boemo\
 	n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231120T020000Z
 DESCRIPTION:/films/2023/runner
 LOCATION:The Cinematheque
@@ -565,7 +395,7 @@ SUMMARY:Io sto bene\n\n  Ramona\n\n  The Last Temptation of the Belgians\n\
 	Jelinek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n\
 	n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il B
 	oemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231121T023000Z
 DESCRIPTION:/films/2023/io-sto-bene
 LOCATION:The Cinematheque
@@ -581,7 +411,7 @@ SUMMARY:A Viper’s Pit\n\n  Ramona\n\n  The Last Temptation of the Belgians\
 	e Jelinek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\
 	n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il
 	 Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231121T043500Z
 DESCRIPTION:/films/2023/a-vipers-pit
 LOCATION:The Cinematheque
@@ -597,7 +427,7 @@ SUMMARY:Semmelweis\n\n  Ramona\n\n  The Last Temptation of the Belgians\n\n
 	elinek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n\n
 	  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il Bo
 	emo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231122T020000Z
 DESCRIPTION:/films/2023/semmelweis
 LOCATION:The Cinematheque
@@ -613,7 +443,7 @@ SUMMARY:Remains of the Wind\n\n  Ramona\n\n  The Last Temptation of the Bel
 	lfriede Jelinek – Language Unleashed\n\n  Mikado\n\n  Till the End of the 
 	Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n
 	\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231122T043500Z
 DESCRIPTION:/films/2023/remains-of-the-wind
 LOCATION:The Cinematheque
@@ -629,7 +459,7 @@ SUMMARY:The Man with the Answers\n\n  Ramona\n\n  The Last Temptation of th
 	\n  Elfriede Jelinek – Language Unleashed\n\n  Mikado\n\n  Till the End of
 	 the Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reind
 	eer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231123T023000Z
 DESCRIPTION:/films/2023/man-answers
 LOCATION:The Cinematheque
@@ -645,7 +475,7 @@ SUMMARY:Soviet Milk\n\n  Ramona\n\n  The Last Temptation of the Belgians\n\
 	Jelinek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n\
 	n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il B
 	oemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231123T042000Z
 DESCRIPTION:/films/2023/soviet-milk
 LOCATION:The Cinematheque
@@ -661,7 +491,7 @@ SUMMARY:107 Mothers\n\n  Ramona\n\n  The Last Temptation of the Belgians\n\
 	Jelinek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n\
 	n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il B
 	oemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231124T023000Z
 DESCRIPTION:/films/2023/107-mothers
 LOCATION:The Cinematheque
@@ -677,7 +507,7 @@ SUMMARY:Carbide\n\n  Ramona\n\n  The Last Temptation of the Belgians\n\n  D
 	nek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n\n  L
 	isten\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il Boemo
 	\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231124T043000Z
 DESCRIPTION:/films/2023/carbide
 LOCATION:The Cinematheque
@@ -693,7 +523,7 @@ SUMMARY:The Spring of My Life\n\n  Ramona\n\n  The Last Temptation of the B
 	 Elfriede Jelinek – Language Unleashed\n\n  Mikado\n\n  Till the End of th
 	e Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer
 	\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231125T023000Z
 DESCRIPTION:/films/2023/spring-of-my-life
 LOCATION:The Cinematheque
@@ -710,7 +540,7 @@ SUMMARY:Elfriede Jelinek – Language Unleashed\n\n  Ramona\n\n  The Last Tem
 	ll the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  
 	Rap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Lu
 	xembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231125T043500Z
 DESCRIPTION:/films/2023/elfriede-jelinek-language-unleashed
 LOCATION:The Cinematheque
@@ -726,7 +556,7 @@ SUMMARY:Mikado\n\n  Ramona\n\n  The Last Temptation of the Belgians\n\n  Do
 	ek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n\n  Li
 	sten\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il Boemo\
 	n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231126T023000Z
 DESCRIPTION:/films/2023/mikado
 LOCATION:The Cinematheque
@@ -742,7 +572,7 @@ SUMMARY:Till the End of the Night\n\n  Ramona\n\n  The Last Temptation of t
 	n\n  Elfriede Jelinek – Language Unleashed\n\n  Mikado\n\n  Till the End o
 	f the Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Rein
 	deer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231126T044000Z
 DESCRIPTION:/films/2023/till-the-end-of-the-night
 LOCATION:The Cinematheque
@@ -758,7 +588,7 @@ SUMMARY:Listen\n\n  Ramona\n\n  The Last Temptation of the Belgians\n\n  Do
 	ek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n\n  Li
 	sten\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il Boemo\
 	n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231127T020000Z
 DESCRIPTION:/films/2023/listen
 LOCATION:The Cinematheque
@@ -774,7 +604,7 @@ SUMMARY:Mother\n\n  Ramona\n\n  The Last Temptation of the Belgians\n\n  Do
 	ek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n\n  Li
 	sten\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il Boemo\
 	n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231127T042000Z
 DESCRIPTION:/films/2023/mother
 LOCATION:The Cinematheque
@@ -790,7 +620,7 @@ SUMMARY:Leave No Traces\n\n  Ramona\n\n  The Last Temptation of the Belgian
 	ede Jelinek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Nigh
 	t\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  
 	Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231128T023000Z
 DESCRIPTION:/films/2023/leave-no-traces
 LOCATION:The Cinematheque
@@ -806,7 +636,7 @@ SUMMARY:Rap and Reindeer\n\n  Ramona\n\n  The Last Temptation of the Belgia
 	iede Jelinek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Nig
 	ht\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n 
 	 Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231129T023000Z
 DESCRIPTION:/films/2023/rap-and-reindeer
 LOCATION:The Cinematheque
@@ -822,10 +652,273 @@ SUMMARY:Il Boemo\n\n  Ramona\n\n  The Last Temptation of the Belgians\n\n
 	inek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n\n  
 	Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il Boem
 	o\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231027T154700Z
+DTSTAMP:20231031T163300Z
 DTSTART:20231129T041500Z
 DESCRIPTION:/films/2023/il-boemo
 LOCATION:The Cinematheque
 DURATION:PT2.296794849981865e+69H24M
+END:VEVENT
+BEGIN:VEVENT
+UID:HSShPqrRSDlsPmaegKfjO5yXdalrrlQs
+SUMMARY:Kalev\n\n  Ramona\n\n  The Last Temptation of the Belgians\n\n  Dou
+	ble Blind\n\n  Miss Viborg\n\n  Freestyle\n\n  Yasmine’s Wedding\n\n  Come
+	dy Queen\n\n  Runner\n\n  Io sto bene\n\n  A Viper’s Pit\n\n  Semmelweis\n
+	\n  Remains of the Wind\n\n  The Man with the Answers\n\n  Soviet Milk\n\n
+	  107 Mothers\n\n  Carbide\n\n  The Spring of My Life\n\n  Elfriede Jeline
+	k – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n\n  Lis
+	ten\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il Boemo\n
+	\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
+DTSTAMP:20231031T163300Z
+DTSTART:20231130T023000Z
+DESCRIPTION:/films/2023/kalev
+LOCATION:The Cinematheque
+DURATION:PT1.530128183315198e+69H48M
+END:VEVENT
+BEGIN:VEVENT
+UID:QCzn4hxOm2TL60kNolrm8Y6uvNsh2QtI
+SUMMARY:Riders\n\n  Ramona\n\n  The Last Temptation of the Belgians\n\n  Do
+	uble Blind\n\n  Miss Viborg\n\n  Freestyle\n\n  Yasmine’s Wedding\n\n  Com
+	edy Queen\n\n  Runner\n\n  Io sto bene\n\n  A Viper’s Pit\n\n  Semmelweis\
+	n\n  Remains of the Wind\n\n  The Man with the Answers\n\n  Soviet Milk\n\
+	n  107 Mothers\n\n  Carbide\n\n  The Spring of My Life\n\n  Elfriede Jelin
+	ek – Language Unleashed\n\n  Mikado\n\n  Till the End of the Night\n\n  Li
+	sten\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il Boemo\
+	n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
+DTSTAMP:20231031T163300Z
+DTSTART:20231130T043000Z
+DESCRIPTION:/films/2023/riders
+LOCATION:The Cinematheque
+DURATION:PT1.796794849981865e+69H8M
+END:VEVENT
+BEGIN:VEVENT
+UID:XZeF3peoueB6e+fR3u7E31aO9dV1GdjF
+SUMMARY:Luxembourg\, Luxembourg\n\n  Ramona\n\n  The Last Temptation of the
+	 Belgians\n\n  Double Blind\n\n  Miss Viborg\n\n  Freestyle\n\n  Yasmine’s
+	 Wedding\n\n  Comedy Queen\n\n  Runner\n\n  Io sto bene\n\n  A Viper’s Pit
+	\n\n  Semmelweis\n\n  Remains of the Wind\n\n  The Man with the Answers\n\
+	n  Soviet Milk\n\n  107 Mothers\n\n  Carbide\n\n  The Spring of My Life\n\
+	n  Elfriede Jelinek – Language Unleashed\n\n  Mikado\n\n  Till the End of 
+	the Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Rap and Reinde
+	er\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxembourg
+DTSTAMP:20231031T163300Z
+DTSTART:20231201T030000Z
+DESCRIPTION:/films/2023/luxembourg-luxembourg
+LOCATION:The Cinematheque
+DURATION:PT1.7634615166485316e+69H44M
+END:VEVENT
+BEGIN:VEVENT
+UID:Ji1Kx1rgjjBh9uWuyyLB+pbVhvRDw6Ms
+SUMMARY:Nostalghia\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev
+	\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
+DTSTAMP:20231031T163300Z
+DTSTART:20231202T020000Z
+DESCRIPTION:/films/2023/nostalghia
+LOCATION:The Cinematheque
+DURATION:PT208543253052785100000H56M
+END:VEVENT
+BEGIN:VEVENT
+UID:CtLGWjUBruiS73FBJFnlQo1NTbR6cM4P
+SUMMARY:Nostalghia\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev
+	\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
+DTSTAMP:20231031T163300Z
+DTSTART:20231205T043500Z
+DESCRIPTION:/films/2023/nostalghia
+LOCATION:The Cinematheque
+DURATION:PT208543253052785100000H56M
+END:VEVENT
+BEGIN:VEVENT
+UID:u6SW5RrjQzRb6EOw9Mz2HC2DrvBd3cvx
+SUMMARY:Nostalghia\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev
+	\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
+DTSTAMP:20231031T163300Z
+DTSTART:20231215T020000Z
+DESCRIPTION:/films/2023/nostalghia
+LOCATION:The Cinematheque
+DURATION:PT208543253052785100000H56M
+END:VEVENT
+BEGIN:VEVENT
+UID:qA4wmexOqgIQSyNzDqSLfFc0EV62PD+d
+SUMMARY:Nostalghia\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev
+	\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
+DTSTAMP:20231031T163300Z
+DTSTART:20231231T000000Z
+DESCRIPTION:/films/2023/nostalghia
+LOCATION:The Cinematheque
+DURATION:PT208543253052785100000H56M
+END:VEVENT
+BEGIN:VEVENT
+UID:jaiTg/Udm2Z3UtOAoimXpzvj0EJo5EOJ
+SUMMARY:Ivan’s Childhood\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei 
+	Rublev\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
+DTSTAMP:20231031T163300Z
+DTSTART:20231202T044000Z
+DESCRIPTION:/films/2023/ivans-childhood
+LOCATION:The Cinematheque
+DURATION:PT158543253052785100000H56M
+END:VEVENT
+BEGIN:VEVENT
+UID:MHygYlzKXAEARtoAw98eKUfpiOR/hsOm
+SUMMARY:Ivan’s Childhood\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei 
+	Rublev\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
+DTSTAMP:20231031T163300Z
+DTSTART:20231212T043000Z
+DESCRIPTION:/films/2023/ivans-childhood
+LOCATION:The Cinematheque
+DURATION:PT158543253052785100000H56M
+END:VEVENT
+BEGIN:VEVENT
+UID:C7PvMpt2vy7MapmuHSspvFd+o2M0Vg1I
+SUMMARY:Ivan’s Childhood\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei 
+	Rublev\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
+DTSTAMP:20231031T163300Z
+DTSTART:20231228T020000Z
+DESCRIPTION:/films/2023/ivans-childhood
+LOCATION:The Cinematheque
+DURATION:PT158543253052785100000H56M
+END:VEVENT
+BEGIN:VEVENT
+UID:2R+73pr9eOG0m9KM3ezu0HRtbVe4N27W
+SUMMARY:Andrei Rublev\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rub
+	lev\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
+DTSTAMP:20231031T163300Z
+DTSTART:20231203T030000Z
+DESCRIPTION:/films/2023/andrei-rublev
+LOCATION:The Cinematheque
+DURATION:PT305209919719451800000H36M
+END:VEVENT
+BEGIN:VEVENT
+UID:/wqmI72JHMoKPMvseN8rr4RASWJCW6j5
+SUMMARY:Andrei Rublev\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rub
+	lev\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
+DTSTAMP:20231031T163300Z
+DTSTART:20231208T030000Z
+DESCRIPTION:/films/2023/andrei-rublev
+LOCATION:The Cinematheque
+DURATION:PT305209919719451800000H36M
+END:VEVENT
+BEGIN:VEVENT
+UID:eviUevF+bllv1a5XbQC/CSZnJSYJyaXc
+SUMMARY:Andrei Rublev\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rub
+	lev\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
+DTSTAMP:20231031T163300Z
+DTSTART:20231226T220000Z
+DESCRIPTION:/films/2023/andrei-rublev
+LOCATION:The Cinematheque
+DURATION:PT305209919719451800000H36M
+END:VEVENT
+BEGIN:VEVENT
+UID:a9jtkqXAnQm7cmFvsgZmDByu2V3mjvPM
+SUMMARY:Solaris\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev\n\
+	n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
+DTSTAMP:20231031T163300Z
+DTSTART:20231204T030000Z
+DESCRIPTION:/films/2023/solaris
+LOCATION:The Cinematheque
+DURATION:PT278543253052785100000H56M
+END:VEVENT
+BEGIN:VEVENT
+UID:ncE3lZDXD1OqwIcprttM5Cxcih/I+d/8
+SUMMARY:Solaris\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev\n\
+	n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
+DTSTAMP:20231031T163300Z
+DTSTART:20231222T030000Z
+DESCRIPTION:/films/2023/solaris
+LOCATION:The Cinematheque
+DURATION:PT278543253052785100000H56M
+END:VEVENT
+BEGIN:VEVENT
+UID:rr6FFQf55tjUk8JO88bNiwlxVWaO4ode
+SUMMARY:Solaris\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev\n\
+	n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
+DTSTAMP:20231031T163300Z
+DTSTART:20230103T040000Z
+DESCRIPTION:/films/2023/solaris
+LOCATION:The Cinematheque
+DURATION:PT278543253052785100000H56M
+END:VEVENT
+BEGIN:VEVENT
+UID:QsLsFLV1+pLcwkaihs+CRbnIAcDSfhiN
+SUMMARY:Wavelength + ←→\n\n  Wavelength + ←→\n\n  So Is This + A Casing She
+	lved\n\n  Presents\n\n  *Corpus Callosum
+DTSTAMP:20231031T163300Z
+DTSTART:20231205T023000Z
+DESCRIPTION:/films/2023/wavelength-back-and-forth
+LOCATION:The Cinematheque
+DURATION:PT159931484H52M
+END:VEVENT
+BEGIN:VEVENT
+UID:EXkkqAJD6ucVWvnVEDEwfcqD3Zh3in4N
+SUMMARY:Wildhood\n\n  Seven Generations\n\n  Wildhood
+DTSTAMP:20231031T163300Z
+DTSTART:20231207T030000Z
+DESCRIPTION:/films/2023/wildhood
+LOCATION:The Cinematheque
+DURATION:PT179901H47M
+END:VEVENT
+BEGIN:VEVENT
+UID:nv+JiRbZKn6KsYGuY0lc4lEHRhA/pgBQ
+SUMMARY:Days of Heaven\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining in the
+	 Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n\n  Al
+	l That Heaven Allows\n\n  An Autumn Afternoon
+DTSTAMP:20231031T163300Z
+DTSTART:20231209T023000Z
+DESCRIPTION:/films/2023/days-of-heaven
+LOCATION:The Cinematheque
+DURATION:PT15823505200183527000H16M
+END:VEVENT
+BEGIN:VEVENT
+UID:MsqIddOLVLQAE7llK4hNkhuBE/sr8R6Z
+SUMMARY:Days of Heaven\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining in the
+	 Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n\n  Al
+	l That Heaven Allows\n\n  An Autumn Afternoon
+DTSTAMP:20231031T163300Z
+DTSTART:20231215T044000Z
+DESCRIPTION:/films/2023/days-of-heaven
+LOCATION:The Cinematheque
+DURATION:PT15823505200183527000H16M
+END:VEVENT
+BEGIN:VEVENT
+UID:oi1LcVcehrhXnMrnWwVISkqNLKemeZuz
+SUMMARY:Days of Heaven\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining in the
+	 Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n\n  Al
+	l That Heaven Allows\n\n  An Autumn Afternoon
+DTSTAMP:20231031T163300Z
+DTSTART:20231228T041000Z
+DESCRIPTION:/films/2023/days-of-heaven
+LOCATION:The Cinematheque
+DURATION:PT15823505200183527000H16M
+END:VEVENT
+BEGIN:VEVENT
+UID:NC+QCP9AyZIyG6Bq9x83rACFFTN/5GSI
+SUMMARY:Hana-bi\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining in the Mounta
+	in\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n\n  All That 
+	Heaven Allows\n\n  An Autumn Afternoon
+DTSTAMP:20231031T163300Z
+DTSTART:20231209T044000Z
+DESCRIPTION:/films/2023/hana-bi
+LOCATION:The Cinematheque
+DURATION:PT17323505200183527000H16M
+END:VEVENT
+BEGIN:VEVENT
+UID:HdzIKWcC/FHh216MWgX5gwFhjkAY5zN+
+SUMMARY:Hana-bi\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining in the Mounta
+	in\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n\n  All That 
+	Heaven Allows\n\n  An Autumn Afternoon
+DTSTAMP:20231031T163300Z
+DTSTART:20231217T023000Z
+DESCRIPTION:/films/2023/hana-bi
+LOCATION:The Cinematheque
+DURATION:PT17323505200183527000H16M
+END:VEVENT
+BEGIN:VEVENT
+UID:PDjBl8PP1GeU15K4mXVPgl3/wYb2epr9
+SUMMARY:Hana-bi\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining in the Mounta
+	in\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n\n  All That 
+	Heaven Allows\n\n  An Autumn Afternoon
+DTSTAMP:20231031T163300Z
+DTSTART:20231227T043000Z
+DESCRIPTION:/films/2023/hana-bi
+LOCATION:The Cinematheque
+DURATION:PT17323505200183527000H16M
 END:VEVENT
 END:VCALENDAR
