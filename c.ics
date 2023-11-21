@@ -5,42 +5,27 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:DmRrYgzCDBt2oAWMDZGyIMa1HF/2pYur
-SUMMARY:Semmelweis\n\n  Semmelweis\n\n  Remains of the Wind\n\n  The Man wi
-	th the Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbide\n\n  The Spr
-	ing of My Life\n\n  Elfriede Jelinek – Language Unleashed\n\n  Mikado\n\n 
-	 Till the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\
-	n  Rap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\,
-	 Luxembourg
-DTSTAMP:20231121T171000Z
+UID:v+q/vQZphaVAyXZ4oO0MtWBHixzHa86l
+SUMMARY:Semmelweis
+DTSTAMP:20231121T215900Z
 DTSTART:20231122T020000Z
 DESCRIPTION:/films/2023/semmelweis
 LOCATION:The Cinematheque
 DURATION:PT2.0687354633518217e+47H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:B5/FyPbX1TJ+agO7oZbdTRfKFcUSbwUN
-SUMMARY:Remains of the Wind\n\n  Semmelweis\n\n  Remains of the Wind\n\n  T
-	he Man with the Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbide\n\n
-	  The Spring of My Life\n\n  Elfriede Jelinek – Language Unleashed\n\n  Mi
-	kado\n\n  Till the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave No 
-	Traces\n\n  Rap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Lux
-	embourg\, Luxembourg
-DTSTAMP:20231121T171000Z
+UID:p8XAdWiVQ1A9fVb6eD0qk9bWIEPBiK22
+SUMMARY:Remains of the Wind
+DTSTAMP:20231121T215900Z
 DTSTART:20231122T043500Z
 DESCRIPTION:/films/2023/remains-of-the-wind
 LOCATION:The Cinematheque
 DURATION:PT2.1187354633518217e+47H8M
 END:VEVENT
 BEGIN:VEVENT
-UID:WaYwjr7yYaPnCoAVT07K9cta247UPiGB
-SUMMARY:The Man with the Answers\n\n  Semmelweis\n\n  Remains of the Wind\n
-	\n  The Man with the Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbid
-	e\n\n  The Spring of My Life\n\n  Elfriede Jelinek – Language Unleashed\n\
-	n  Mikado\n\n  Till the End of the Night\n\n  Listen\n\n  Mother\n\n  Leav
-	e No Traces\n\n  Rap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n
-	  Luxembourg\, Luxembourg
-DTSTAMP:20231121T171000Z
+UID:MvDIzjCCoC2L6mpKo13x1xP2NsU36zZG
+SUMMARY:The Man with the Answers
+DTSTAMP:20231121T215900Z
 DTSTART:20231123T023000Z
 DESCRIPTION:/films/2023/man-answers?fbclid=IwAR1sfDQBCRZfdRVX0CMmimPXVWXQdg
 	QEDv3wF-iVLB2ilRyN0WD0V0lJFRU
@@ -48,737 +33,594 @@ LOCATION:The Cinematheque
 DURATION:PT1.3354021300184885e+47H36M
 END:VEVENT
 BEGIN:VEVENT
-UID:Cus4kLs9Q6KG0bBbmVkHF0hbHbvUYKFE
-SUMMARY:Soviet Milk\n\n  Semmelweis\n\n  Remains of the Wind\n\n  The Man w
-	ith the Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbide\n\n  The Sp
-	ring of My Life\n\n  Elfriede Jelinek – Language Unleashed\n\n  Mikado\n\n
-	  Till the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n
-	\n  Rap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\
-	, Luxembourg
-DTSTAMP:20231121T171000Z
+UID:Jl57y1iH2ssTxktV1XziOwUQrqzYBM29
+SUMMARY:Soviet Milk
+DTSTAMP:20231121T215900Z
 DTSTART:20231123T042000Z
 DESCRIPTION:/films/2023/soviet-milk
 LOCATION:The Cinematheque
 DURATION:PT1.8354021300184885e+47H28M
 END:VEVENT
 BEGIN:VEVENT
-UID:2vSJwfyNYXDByAOL5Q3Mz+g8eeTYDWB0
-SUMMARY:107 Mothers\n\n  Semmelweis\n\n  Remains of the Wind\n\n  The Man w
-	ith the Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbide\n\n  The Sp
-	ring of My Life\n\n  Elfriede Jelinek – Language Unleashed\n\n  Mikado\n\n
-	  Till the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n
-	\n  Rap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\
-	, Luxembourg
-DTSTAMP:20231121T171000Z
+UID:X+5KexlzS1wAL1bADm7b/N7Gv7xXGAFN
+SUMMARY:107 Mothers
+DTSTAMP:20231121T215900Z
 DTSTART:20231124T023000Z
 DESCRIPTION:/films/2023/107-mothers
 LOCATION:The Cinematheque
 DURATION:PT1.5520687966851552e+47H48M
 END:VEVENT
 BEGIN:VEVENT
-UID:hmDoPyDJofVjBXbF3Y/cuInAyr6pP/p3
-SUMMARY:Carbide\n\n  Semmelweis\n\n  Remains of the Wind\n\n  The Man with 
-	the Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbide\n\n  The Spring
-	 of My Life\n\n  Elfriede Jelinek – Language Unleashed\n\n  Mikado\n\n  Ti
-	ll the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  
-	Rap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Lu
-	xembourg
-DTSTAMP:20231121T171000Z
+UID:TyFiFBz6L5N41Oqm8BTW2Mmrcg/4vcFl
+SUMMARY:Carbide
+DTSTAMP:20231121T215900Z
 DTSTART:20231124T043000Z
 DESCRIPTION:/films/2023/carbide
 LOCATION:The Cinematheque
 DURATION:PT1.8854021300184885e+47H24M
 END:VEVENT
 BEGIN:VEVENT
-UID:EfmuFAauylInnIOroD3G3JxNb5ekOz4n
-SUMMARY:The Spring of My Life\n\n  Semmelweis\n\n  Remains of the Wind\n\n 
-	 The Man with the Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbide\n
-	\n  The Spring of My Life\n\n  Elfriede Jelinek – Language Unleashed\n\n  
-	Mikado\n\n  Till the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave N
-	o Traces\n\n  Rap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  L
-	uxembourg\, Luxembourg
-DTSTAMP:20231121T171000Z
+UID:5NkFRThoWlW9SeIL+DlcBBQLVoGzu4yT
+SUMMARY:The Spring of My Life
+DTSTAMP:20231121T215900Z
 DTSTART:20231125T023000Z
 DESCRIPTION:/films/2023/spring-of-my-life
 LOCATION:The Cinematheque
 DURATION:PT1.5854021300184885e+47H4M
 END:VEVENT
 BEGIN:VEVENT
-UID:QkDvWIvACxGNDzhnZV9T+8r0udafdjCk
-SUMMARY:Elfriede Jelinek – Language Unleashed\n\n  Semmelweis\n\n  Remains 
-	of the Wind\n\n  The Man with the Answers\n\n  Soviet Milk\n\n  107 Mother
-	s\n\n  Carbide\n\n  The Spring of My Life\n\n  Elfriede Jelinek – Language
-	 Unleashed\n\n  Mikado\n\n  Till the End of the Night\n\n  Listen\n\n  Mot
-	her\n\n  Leave No Traces\n\n  Rap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\
-	n  Riders\n\n  Luxembourg\, Luxembourg
-DTSTAMP:20231121T171000Z
+UID:tkAw2zVZL0MnZVVI+tMfk5RXLXUmAAy/
+SUMMARY:Elfriede Jelinek – Language Unleashed
+DTSTAMP:20231121T215900Z
 DTSTART:20231125T043500Z
 DESCRIPTION:/films/2023/elfriede-jelinek-language-unleashed
 LOCATION:The Cinematheque
 DURATION:PT1.6187354633518218e+47H20M
 END:VEVENT
 BEGIN:VEVENT
-UID:2KHRMCOqOXxbJl9M3OTIb2b2SslfxrRA
-SUMMARY:Mikado\n\n  Semmelweis\n\n  Remains of the Wind\n\n  The Man with t
-	he Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbide\n\n  The Spring 
-	of My Life\n\n  Elfriede Jelinek – Language Unleashed\n\n  Mikado\n\n  Til
-	l the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  R
-	ap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Lux
-	embourg
-DTSTAMP:20231121T171000Z
+UID:Jd7PkEcLYWoNWyJJAlbCrMEhhypKwQ9w
+SUMMARY:Mikado
+DTSTAMP:20231121T215900Z
 DTSTART:20231126T023000Z
 DESCRIPTION:/films/2023/mikado
 LOCATION:The Cinematheque
 DURATION:PT1.6020687966851552e+47H40M
 END:VEVENT
 BEGIN:VEVENT
-UID:H0KO0k7TxdgHZwvS6IUJmqYdgfgq+ht/
-SUMMARY:Till the End of the Night\n\n  Semmelweis\n\n  Remains of the Wind\
-	n\n  The Man with the Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbi
-	de\n\n  The Spring of My Life\n\n  Elfriede Jelinek – Language Unleashed\n
-	\n  Mikado\n\n  Till the End of the Night\n\n  Listen\n\n  Mother\n\n  Lea
-	ve No Traces\n\n  Rap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\
-	n  Luxembourg\, Luxembourg
-DTSTAMP:20231121T171000Z
+UID:kTfk6kQDkV+ImfpKZ32k6alIzKk+PT/n
+SUMMARY:Till the End of the Night
+DTSTAMP:20231121T215900Z
 DTSTART:20231126T044000Z
 DESCRIPTION:/films/2023/till-the-end-of-the-night
 LOCATION:The Cinematheque
 DURATION:PT2.0520687966851555e+47H44M
 END:VEVENT
 BEGIN:VEVENT
-UID:Dh4K74BSVSumzBuxt+31WSl8z0GDKdHL
-SUMMARY:Listen\n\n  Semmelweis\n\n  Remains of the Wind\n\n  The Man with t
-	he Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbide\n\n  The Spring 
-	of My Life\n\n  Elfriede Jelinek – Language Unleashed\n\n  Mikado\n\n  Til
-	l the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  R
-	ap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Lux
-	embourg
-DTSTAMP:20231121T171000Z
+UID:HGBjYFixIMzLGx1hdqEBCG3j3WwggV5W
+SUMMARY:Listen
+DTSTAMP:20231121T215900Z
 DTSTART:20231127T020000Z
 DESCRIPTION:/films/2023/listen
 LOCATION:The Cinematheque
 DURATION:PT1.8020687966851552e+47H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZJRqeFTfWxQI2UGb4LP4BGzqTercp82s
-SUMMARY:Mother\n\n  Semmelweis\n\n  Remains of the Wind\n\n  The Man with t
-	he Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbide\n\n  The Spring 
-	of My Life\n\n  Elfriede Jelinek – Language Unleashed\n\n  Mikado\n\n  Til
-	l the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  R
-	ap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Lux
-	embourg
-DTSTAMP:20231121T171000Z
+UID:nqLEIUrrB3g1biJfkB9Zc1OOqSUxY4tv
+SUMMARY:Mother
+DTSTAMP:20231121T215900Z
 DTSTART:20231127T042000Z
 DESCRIPTION:/films/2023/mother
 LOCATION:The Cinematheque
 DURATION:PT1.952068796685155e+47H52M
 END:VEVENT
 BEGIN:VEVENT
-UID:23zp1uuc8HX9yIUmlwnVMyIyGIICjdcr
-SUMMARY:Leave No Traces\n\n  Semmelweis\n\n  Remains of the Wind\n\n  The M
-	an with the Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbide\n\n  Th
-	e Spring of My Life\n\n  Elfriede Jelinek – Language Unleashed\n\n  Mikado
-	\n\n  Till the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave No Trac
-	es\n\n  Rap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembo
-	urg\, Luxembourg
-DTSTAMP:20231121T171000Z
+UID:Jbe0ewvfFPF3wLUXwJjAr9FZbQhSimKf
+SUMMARY:Leave No Traces
+DTSTAMP:20231121T215900Z
 DTSTART:20231128T023000Z
 DESCRIPTION:/films/2023/leave-no-traces
 LOCATION:The Cinematheque
 DURATION:PT2.6687354633518216e+47H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:8WLEpeWDE1aChi9qYZSNZBN6f8GmsEKh
-SUMMARY:Rap and Reindeer\n\n  Semmelweis\n\n  Remains of the Wind\n\n  The 
-	Man with the Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbide\n\n  T
-	he Spring of My Life\n\n  Elfriede Jelinek – Language Unleashed\n\n  Mikad
-	o\n\n  Till the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave No Tra
-	ces\n\n  Rap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxemb
-	ourg\, Luxembourg
-DTSTAMP:20231121T171000Z
+UID:PgPy9/jBM6JHLRSNqa6ewKDZE2V+ot8H
+SUMMARY:Rap and Reindeer
+DTSTAMP:20231121T215900Z
 DTSTART:20231129T023000Z
 DESCRIPTION:/films/2023/rap-and-reindeer
 LOCATION:The Cinematheque
 DURATION:PT1.252068796685155e+47H28M
 END:VEVENT
 BEGIN:VEVENT
-UID:xplULNEjzoY35Kd0vbq9TM4Y1qlDJXkq
-SUMMARY:Il Boemo\n\n  Semmelweis\n\n  Remains of the Wind\n\n  The Man with
-	 the Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbide\n\n  The Sprin
-	g of My Life\n\n  Elfriede Jelinek – Language Unleashed\n\n  Mikado\n\n  T
-	ill the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n 
-	 Rap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, L
-	uxembourg
-DTSTAMP:20231121T171000Z
+UID:MKHoWmGU3E1NLc6qbDag1Jo2XvNtgIB3
+SUMMARY:Il Boemo
+DTSTAMP:20231121T215900Z
 DTSTART:20231129T041500Z
 DESCRIPTION:/films/2023/il-boemo
 LOCATION:The Cinematheque
 DURATION:PT2.2854021300184886e+47H32M
 END:VEVENT
 BEGIN:VEVENT
-UID:IfxH54IWdeTBD4dfpE8Bhtt6PY7rM7Hw
-SUMMARY:Kalev\n\n  Semmelweis\n\n  Remains of the Wind\n\n  The Man with th
-	e Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbide\n\n  The Spring o
-	f My Life\n\n  Elfriede Jelinek – Language Unleashed\n\n  Mikado\n\n  Till
-	 the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  Ra
-	p and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Luxe
-	mbourg
-DTSTAMP:20231121T171000Z
+UID:RC61mQHgoJLIdWCKZAqktreTIfKCoBvx
+SUMMARY:Kalev
+DTSTAMP:20231121T215900Z
 DTSTART:20231130T023000Z
 DESCRIPTION:/films/2023/kalev
 LOCATION:The Cinematheque
 DURATION:PT1.518735463351822e+47H32M
 END:VEVENT
 BEGIN:VEVENT
-UID:rbm6v+AIXoInTJebAPXlkVnkGzyWugRF
-SUMMARY:Riders\n\n  Semmelweis\n\n  Remains of the Wind\n\n  The Man with t
-	he Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbide\n\n  The Spring 
-	of My Life\n\n  Elfriede Jelinek – Language Unleashed\n\n  Mikado\n\n  Til
-	l the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave No Traces\n\n  R
-	ap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n  Luxembourg\, Lux
-	embourg
-DTSTAMP:20231121T171000Z
+UID:SwYNLmYOh12Dmh3a1rYrYBDiwV4aKSxo
+SUMMARY:Riders
+DTSTAMP:20231121T215900Z
 DTSTART:20231130T043000Z
 DESCRIPTION:/films/2023/riders
 LOCATION:The Cinematheque
 DURATION:PT1.7854021300184886e+47H36M
 END:VEVENT
 BEGIN:VEVENT
-UID:6rtPVDU7J0lo+rMiX/LhCoHpFG5wMAuQ
-SUMMARY:Luxembourg\, Luxembourg\n\n  Semmelweis\n\n  Remains of the Wind\n\
-	n  The Man with the Answers\n\n  Soviet Milk\n\n  107 Mothers\n\n  Carbide
-	\n\n  The Spring of My Life\n\n  Elfriede Jelinek – Language Unleashed\n\n
-	  Mikado\n\n  Till the End of the Night\n\n  Listen\n\n  Mother\n\n  Leave
-	 No Traces\n\n  Rap and Reindeer\n\n  Il Boemo\n\n  Kalev\n\n  Riders\n\n 
-	 Luxembourg\, Luxembourg
-DTSTAMP:20231121T171000Z
+UID:K2OlUXcpWn9Z+nH+tLkIeHVZyxgtkKR0
+SUMMARY:Luxembourg\, Luxembourg
+DTSTAMP:20231121T215900Z
 DTSTART:20231201T030000Z
 DESCRIPTION:/films/2023/luxembourg-luxembourg
 LOCATION:The Cinematheque
 DURATION:PT1.752068796685155e+47H20M
 END:VEVENT
 BEGIN:VEVENT
-UID:Ji1Kx1rgjjBh9uWuyyLB+pbVhvRDw6Ms
-SUMMARY:Nostalghia\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev
-	\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:+6yRuF75h8j+O4w+CjWnFvAFhL9lPb/l
+SUMMARY:Nostalghia
+DTSTAMP:20231121T215900Z
 DTSTART:20231202T020000Z
 DESCRIPTION:/films/2023/nostalghia
 LOCATION:The Cinematheque
 DURATION:PT208543253052785100000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:CtLGWjUBruiS73FBJFnlQo1NTbR6cM4P
-SUMMARY:Nostalghia\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev
-	\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:4ERAOfoVNDcKUgHdB3206mWIui27F3gt
+SUMMARY:Nostalghia
+DTSTAMP:20231121T215900Z
 DTSTART:20231205T043500Z
 DESCRIPTION:/films/2023/nostalghia
 LOCATION:The Cinematheque
 DURATION:PT208543253052785100000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:u6SW5RrjQzRb6EOw9Mz2HC2DrvBd3cvx
-SUMMARY:Nostalghia\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev
-	\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:s33AuqRMHy5lIMLzucnROc8XnWw3QR5i
+SUMMARY:Nostalghia
+DTSTAMP:20231121T215900Z
 DTSTART:20231215T020000Z
 DESCRIPTION:/films/2023/nostalghia
 LOCATION:The Cinematheque
 DURATION:PT208543253052785100000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:qA4wmexOqgIQSyNzDqSLfFc0EV62PD+d
-SUMMARY:Nostalghia\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev
-	\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:mR/7L8nE/OljFNV+MVYaI1NTGLZwnVGv
+SUMMARY:Nostalghia
+DTSTAMP:20231121T215900Z
 DTSTART:20231231T000000Z
 DESCRIPTION:/films/2023/nostalghia
 LOCATION:The Cinematheque
 DURATION:PT208543253052785100000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:jaiTg/Udm2Z3UtOAoimXpzvj0EJo5EOJ
-SUMMARY:Ivan’s Childhood\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei 
-	Rublev\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:CHUZTryf/BE+FS/wu81TCary9LIEWIqD
+SUMMARY:Ivan’s Childhood
+DTSTAMP:20231121T215900Z
 DTSTART:20231202T044000Z
 DESCRIPTION:/films/2023/ivans-childhood
 LOCATION:The Cinematheque
 DURATION:PT158543253052785100000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:MHygYlzKXAEARtoAw98eKUfpiOR/hsOm
-SUMMARY:Ivan’s Childhood\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei 
-	Rublev\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:7Cw2M4y01TCwim/phNTSqeOp8lcIaQSB
+SUMMARY:Ivan’s Childhood
+DTSTAMP:20231121T215900Z
 DTSTART:20231212T043000Z
 DESCRIPTION:/films/2023/ivans-childhood
 LOCATION:The Cinematheque
 DURATION:PT158543253052785100000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:C7PvMpt2vy7MapmuHSspvFd+o2M0Vg1I
-SUMMARY:Ivan’s Childhood\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei 
-	Rublev\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:k5Qkqb1idqLQtV4qV4nxD5L7FIB0g3pJ
+SUMMARY:Ivan’s Childhood
+DTSTAMP:20231121T215900Z
 DTSTART:20231228T020000Z
 DESCRIPTION:/films/2023/ivans-childhood
 LOCATION:The Cinematheque
 DURATION:PT158543253052785100000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:2R+73pr9eOG0m9KM3ezu0HRtbVe4N27W
-SUMMARY:Andrei Rublev\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rub
-	lev\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:kqOcshwXZhLcPa97On4UIO3Xze6gAYLc
+SUMMARY:Andrei Rublev
+DTSTAMP:20231121T215900Z
 DTSTART:20231203T030000Z
 DESCRIPTION:/films/2023/andrei-rublev
 LOCATION:The Cinematheque
 DURATION:PT305209919719451800000H36M
 END:VEVENT
 BEGIN:VEVENT
-UID:/wqmI72JHMoKPMvseN8rr4RASWJCW6j5
-SUMMARY:Andrei Rublev\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rub
-	lev\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:GuWnUkazsDl4qweerFWy0QVp7/IRJ30C
+SUMMARY:Andrei Rublev
+DTSTAMP:20231121T215900Z
 DTSTART:20231208T030000Z
 DESCRIPTION:/films/2023/andrei-rublev
 LOCATION:The Cinematheque
 DURATION:PT305209919719451800000H36M
 END:VEVENT
 BEGIN:VEVENT
-UID:eviUevF+bllv1a5XbQC/CSZnJSYJyaXc
-SUMMARY:Andrei Rublev\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rub
-	lev\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:e7YENBfYteibvmbT9o9lBp4+OCsPHH4g
+SUMMARY:Andrei Rublev
+DTSTAMP:20231121T215900Z
 DTSTART:20231226T220000Z
 DESCRIPTION:/films/2023/andrei-rublev
 LOCATION:The Cinematheque
 DURATION:PT305209919719451800000H36M
 END:VEVENT
 BEGIN:VEVENT
-UID:a9jtkqXAnQm7cmFvsgZmDByu2V3mjvPM
-SUMMARY:Solaris\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev\n\
-	n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:IIyHq1E9/6LijeflAojrZ353P12/GxmB
+SUMMARY:Solaris
+DTSTAMP:20231121T215900Z
 DTSTART:20231204T030000Z
 DESCRIPTION:/films/2023/solaris
 LOCATION:The Cinematheque
 DURATION:PT278543253052785100000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:ncE3lZDXD1OqwIcprttM5Cxcih/I+d/8
-SUMMARY:Solaris\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev\n\
-	n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:nPrOYmCFzQkvZ2kXaUztlaQjCHCGIVk6
+SUMMARY:Solaris
+DTSTAMP:20231121T215900Z
 DTSTART:20231222T030000Z
 DESCRIPTION:/films/2023/solaris
 LOCATION:The Cinematheque
 DURATION:PT278543253052785100000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:rr6FFQf55tjUk8JO88bNiwlxVWaO4ode
-SUMMARY:Solaris\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev\n\
-	n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:LL6BAvj8XBiYAbBAFHLUNMR4db8ElL+2
+SUMMARY:Solaris
+DTSTAMP:20231121T215900Z
 DTSTART:20230103T040000Z
 DESCRIPTION:/films/2023/solaris
 LOCATION:The Cinematheque
 DURATION:PT278543253052785100000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:QsLsFLV1+pLcwkaihs+CRbnIAcDSfhiN
-SUMMARY:Wavelength + ←→\n\n  Wavelength + ←→\n\n  So Is This + A Casing She
-	lved\n\n  Presents\n\n  *Corpus Callosum
-DTSTAMP:20231121T171000Z
+UID:x3d9vfe9b16PLJsR12K4U90vtrpPN1Im
+SUMMARY:Wavelength + ←→
+DTSTAMP:20231121T215900Z
 DTSTART:20231205T023000Z
 DESCRIPTION:/films/2023/wavelength-back-and-forth
 LOCATION:The Cinematheque
 DURATION:PT159931484H52M
 END:VEVENT
 BEGIN:VEVENT
-UID:AsPP4scn18YoX3PvoCxNpxjpBGMeNFUL
-SUMMARY:Wildhood\n\n  Wildhood
-DTSTAMP:20231121T171000Z
+UID:A+7or3yUsQwb5b0IpiikJNe7DbH4lr2x
+SUMMARY:Wildhood
+DTSTAMP:20231121T215900Z
 DTSTART:20231207T030000Z
 DESCRIPTION:/films/2023/wildhood
 LOCATION:The Cinematheque
 DURATION:PT1785H7M
 END:VEVENT
 BEGIN:VEVENT
-UID:nv+JiRbZKn6KsYGuY0lc4lEHRhA/pgBQ
-SUMMARY:Days of Heaven\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining in the
-	 Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n\n  Al
-	l That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:EGS20LnFK+9r2MFn+C79tsQLd5qDk+8m
+SUMMARY:Days of Heaven
+DTSTAMP:20231121T215900Z
 DTSTART:20231209T023000Z
 DESCRIPTION:/films/2023/days-of-heaven
 LOCATION:The Cinematheque
 DURATION:PT15823505200183527000H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:MsqIddOLVLQAE7llK4hNkhuBE/sr8R6Z
-SUMMARY:Days of Heaven\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining in the
-	 Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n\n  Al
-	l That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:Ivz4hNKpkzSpbEWogxmxwm25D/XltTEg
+SUMMARY:Days of Heaven
+DTSTAMP:20231121T215900Z
 DTSTART:20231215T044000Z
 DESCRIPTION:/films/2023/days-of-heaven
 LOCATION:The Cinematheque
 DURATION:PT15823505200183527000H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:oi1LcVcehrhXnMrnWwVISkqNLKemeZuz
-SUMMARY:Days of Heaven\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining in the
-	 Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n\n  Al
-	l That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:s8qsXl8IPzt8/b0rYZ8hqg61iOyUblwq
+SUMMARY:Days of Heaven
+DTSTAMP:20231121T215900Z
 DTSTART:20231228T041000Z
 DESCRIPTION:/films/2023/days-of-heaven
 LOCATION:The Cinematheque
 DURATION:PT15823505200183527000H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:NC+QCP9AyZIyG6Bq9x83rACFFTN/5GSI
-SUMMARY:Hana-bi\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining in the Mounta
-	in\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n\n  All That 
-	Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:xFq72KznWh0+KK6tlZ+fhdpPtPd2DeuF
+SUMMARY:Hana-bi
+DTSTAMP:20231121T215900Z
 DTSTART:20231209T044000Z
 DESCRIPTION:/films/2023/hana-bi
 LOCATION:The Cinematheque
 DURATION:PT17323505200183527000H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:HdzIKWcC/FHh216MWgX5gwFhjkAY5zN+
-SUMMARY:Hana-bi\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining in the Mounta
-	in\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n\n  All That 
-	Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:cyaSR+hRZ0bscZh0kT5i5N3faV3AMeM3
+SUMMARY:Hana-bi
+DTSTAMP:20231121T215900Z
 DTSTART:20231217T023000Z
 DESCRIPTION:/films/2023/hana-bi
 LOCATION:The Cinematheque
 DURATION:PT17323505200183527000H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:PDjBl8PP1GeU15K4mXVPgl3/wYb2epr9
-SUMMARY:Hana-bi\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining in the Mounta
-	in\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n\n  All That 
-	Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:8Sav9gFDg2hw0RJl94Qo1e5ZDhEEYDz8
+SUMMARY:Hana-bi
+DTSTAMP:20231121T215900Z
 DTSTART:20231227T043000Z
 DESCRIPTION:/films/2023/hana-bi
 LOCATION:The Cinematheque
 DURATION:PT17323505200183527000H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:5awpPCCHWum41Hz1hRWLfP3rb9h1N0B1
-SUMMARY:Mirror\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev\n\n
-	  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:/FPWDLVgEyjE3Q9qqvANO2JtuES3thXp
+SUMMARY:Mirror
+DTSTAMP:20231121T215900Z
 DTSTART:20231210T043000Z
 DESCRIPTION:/films/2023/mirror
 LOCATION:The Cinematheque
 DURATION:PT176876586386118440000H32M
 END:VEVENT
 BEGIN:VEVENT
-UID:71Gn4OwAhX+97nZbxFI8zE30r+gAue95
-SUMMARY:Mirror\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev\n\n
-	  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:2VK6oJzKgFmvOzDpF6Zng+b+HNncdYFR
+SUMMARY:Mirror
+DTSTAMP:20231121T215900Z
 DTSTART:20231218T000000Z
 DESCRIPTION:/films/2023/mirror
 LOCATION:The Cinematheque
 DURATION:PT176876586386118440000H32M
 END:VEVENT
 BEGIN:VEVENT
-UID:GzSIpfOtIeK7qNLxDpYh3dxDDH5OR0RE
-SUMMARY:Mirror\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev\n\n
-	  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:/hrKcSOQXKGbZFjqT8VPuL/NclsUuje+
+SUMMARY:Mirror
+DTSTAMP:20231121T215900Z
 DTSTART:20231229T020000Z
 DESCRIPTION:/films/2023/mirror
 LOCATION:The Cinematheque
 DURATION:PT176876586386118440000H32M
 END:VEVENT
 BEGIN:VEVENT
-UID:66PcLTgrwdBpYBl910b2c2AsWnh8D7GK
-SUMMARY:Raining in the Mountain\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raini
-	ng in the Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Pries
-	t\n\n  All That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:ekWSQVydqNaQm0Df0vLhM8M0UR+u4hX9
+SUMMARY:Raining in the Mountain
+DTSTAMP:20231121T215900Z
 DTSTART:20231210T020000Z
 DESCRIPTION:/films/2023/raining-in-the-mountain
 LOCATION:The Cinematheque
 DURATION:PT20156838533516860000H36M
 END:VEVENT
 BEGIN:VEVENT
-UID:62+dnb+QPIsZU88grFvnncZzfDilH+Eh
-SUMMARY:Raining in the Mountain\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raini
-	ng in the Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Pries
-	t\n\n  All That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:XUysb10xzojspp3EqzHhp5jy4BDSGp91
+SUMMARY:Raining in the Mountain
+DTSTAMP:20231121T215900Z
 DTSTART:20231223T043000Z
 DESCRIPTION:/films/2023/raining-in-the-mountain
 LOCATION:The Cinematheque
 DURATION:PT20156838533516860000H36M
 END:VEVENT
 BEGIN:VEVENT
-UID:5JtFJUz4Cvn2VbbgF4FMO/GbBn/X02py
-SUMMARY:Raining in the Mountain\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raini
-	ng in the Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Pries
-	t\n\n  All That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:uXt/K9ycVUKu/TjjLUbITFQ9Rk0xjvy2
+SUMMARY:Raining in the Mountain
+DTSTAMP:20231121T215900Z
 DTSTART:20231228T233000Z
 DESCRIPTION:/films/2023/raining-in-the-mountain
 LOCATION:The Cinematheque
 DURATION:PT20156838533516860000H36M
 END:VEVENT
 BEGIN:VEVENT
-UID:JjT8GMvAwNhJ51T02oThaM0LfqysHtgb
-SUMMARY:Sunday Bloody Sunday\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining 
-	in the Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n
-	\n  All That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:IOQLOIH0e9sSXOU7dhylhnVLkZAWRjFq
+SUMMARY:Sunday Bloody Sunday
+DTSTAMP:20231121T215900Z
 DTSTART:20231211T020000Z
 DESCRIPTION:/films/2023/sunday-bloody-sunday
 LOCATION:The Cinematheque
 DURATION:PT18490171866850193000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:KRLJ9A91WC37NXro40VlVrda85aFZg4z
-SUMMARY:Sunday Bloody Sunday\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining 
-	in the Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n
-	\n  All That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:z6WsiFh63TDVpek+U4zKw8CB+DvlmCXn
+SUMMARY:Sunday Bloody Sunday
+DTSTAMP:20231121T215900Z
 DTSTART:20231224T043000Z
 DESCRIPTION:/films/2023/sunday-bloody-sunday
 LOCATION:The Cinematheque
 DURATION:PT18490171866850193000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:ml047EzYBt6fUSrCCc0omrWnBmWvt8PT
-SUMMARY:Sunday Bloody Sunday\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining 
-	in the Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n
-	\n  All That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:cssl2yNayQfCkS+7JZPL5on0TMG5qjC9
+SUMMARY:Sunday Bloody Sunday
+DTSTAMP:20231121T215900Z
 DTSTART:20230104T040000Z
 DESCRIPTION:/films/2023/sunday-bloody-sunday
 LOCATION:The Cinematheque
 DURATION:PT18490171866850193000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:LUE81dNRyj9Zq0u/96iH0OKBipED5yXh
-SUMMARY:Diary of a Country Priest\n\n  Days of Heaven\n\n  Hana-bi\n\n  Rai
-	ning in the Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Pri
-	est\n\n  All That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:UV7SHMnLjfGGyMC2IlcKxCSv8HunVNFU
+SUMMARY:Diary of a Country Priest
+DTSTAMP:20231121T215900Z
 DTSTART:20231211T042000Z
 DESCRIPTION:/films/2023/diary-of-a-country-priest
 LOCATION:The Cinematheque
 DURATION:PT19323505200183525000H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:vg2+Fx4YJ8bScizNIxU+yJ1Eh2FQPJq1
-SUMMARY:Diary of a Country Priest\n\n  Days of Heaven\n\n  Hana-bi\n\n  Rai
-	ning in the Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Pri
-	est\n\n  All That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:MASvDy3RbRj1BZezcZpUgcEGT3bGygsO
+SUMMARY:Diary of a Country Priest
+DTSTAMP:20231121T215900Z
 DTSTART:20231223T020000Z
 DESCRIPTION:/films/2023/diary-of-a-country-priest
 LOCATION:The Cinematheque
 DURATION:PT19323505200183525000H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:o52u6TL39bChWVPh2aMFy8blw66XOksY
-SUMMARY:Diary of a Country Priest\n\n  Days of Heaven\n\n  Hana-bi\n\n  Rai
-	ning in the Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Pri
-	est\n\n  All That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:5SL8aJCSJ76tMMYkwIzKPRmBTLC80tLz
+SUMMARY:Diary of a Country Priest
+DTSTAMP:20231121T215900Z
 DTSTART:20230104T042000Z
 DESCRIPTION:/films/2023/diary-of-a-country-priest
 LOCATION:The Cinematheque
 DURATION:PT19323505200183525000H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:p4VvUy0keQvQjuE6OQAniwkTyLmJ1KTY
-SUMMARY:So Is This + A Casing Shelved\n\n  Wavelength + ←→\n\n  So Is This 
-	+ A Casing Shelved\n\n  Presents\n\n  *Corpus Callosum
-DTSTAMP:20231121T171000Z
+UID:ZD2blrg3ec7npeYEiGiLIZApAdikHSuu
+SUMMARY:So Is This + A Casing Shelved
+DTSTAMP:20231121T215900Z
 DTSTART:20231212T023000Z
 DESCRIPTION:/films/2023/so-is-this-a-casing-shelved
 LOCATION:The Cinematheque
 DURATION:PT148264818H12M
 END:VEVENT
 BEGIN:VEVENT
-UID:iO+SUUhLsM31d09leZWU+TQToRD3wEMq
-SUMMARY:Much Ado About Dying\n\n  Much Ado About Dying
-DTSTAMP:20231121T171000Z
+UID:WsvpF0om29RQYnKav5a/xgf4vvg36PkD
+SUMMARY:Much Ado About Dying
+DTSTAMP:20231121T215900Z
 DTSTART:20231214T030000Z
 DESCRIPTION:/films/2023/much-ado-about-dying
 LOCATION:The Cinematheque
 DURATION:PT141H24M
 END:VEVENT
 BEGIN:VEVENT
-UID:infrLpeBCU1t5XDoKBp8Ijcr/0AAc9VF
-SUMMARY:The Sacrifice\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rub
-	lev\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:ZbIQWPtxHeDLgaWm5NNX8+ZnpA9FYO5P
+SUMMARY:The Sacrifice
+DTSTAMP:20231121T215900Z
 DTSTART:20231216T043000Z
 DESCRIPTION:/films/2023/the-sacrifice
 LOCATION:The Cinematheque
 DURATION:PT241876586386118440000H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:dmchZsBqqXGkYkLZVJntPvPQxMLMBgCv
-SUMMARY:The Sacrifice\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rub
-	lev\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:JXF4VlqhQj88okgCxOqUUFex37tsQaxP
+SUMMARY:The Sacrifice
+DTSTAMP:20231121T215900Z
 DTSTART:20231227T230000Z
 DESCRIPTION:/films/2023/the-sacrifice
 LOCATION:The Cinematheque
 DURATION:PT241876586386118440000H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:9FNIVbRdNbDTwVobCpQVNYmyxSPcXLB0
-SUMMARY:The Sacrifice\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rub
-	lev\n\n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:Y46n5iA2+KnTHfighWmFE48fKThNJ2Yb
+SUMMARY:The Sacrifice
+DTSTAMP:20231121T215900Z
 DTSTART:20231231T030000Z
 DESCRIPTION:/films/2023/the-sacrifice
 LOCATION:The Cinematheque
 DURATION:PT241876586386118440000H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:bmnH6Q0CdQ24n8kGEAEJKhuHtJhqPVWN
-SUMMARY:All That Heaven Allows\n\n  Days of Heaven\n\n  Hana-bi\n\n  Rainin
-	g in the Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest
-	\n\n  All That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:SQwHHUpqbEFe4IlncdXUtXf9fHUn6nSR
+SUMMARY:All That Heaven Allows
+DTSTAMP:20231121T215900Z
 DTSTART:20231216T023000Z
 DESCRIPTION:/films/2023/all-that-heaven-allows
 LOCATION:The Cinematheque
 DURATION:PT14990171866850193000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:UZ+VtLaXyemn+Q4OTkcXW/Zhno8uUO2K
-SUMMARY:All That Heaven Allows\n\n  Days of Heaven\n\n  Hana-bi\n\n  Rainin
-	g in the Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest
-	\n\n  All That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:Yb4Z2li+ishETZyceOATn8DyI7h/Hh4W
+SUMMARY:All That Heaven Allows
+DTSTAMP:20231121T215900Z
 DTSTART:20231224T023000Z
 DESCRIPTION:/films/2023/all-that-heaven-allows
 LOCATION:The Cinematheque
 DURATION:PT14990171866850193000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:FwCnEsaqDJTowIsIJjUwgfyb622L+IY4
-SUMMARY:All That Heaven Allows\n\n  Days of Heaven\n\n  Hana-bi\n\n  Rainin
-	g in the Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest
-	\n\n  All That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:6Eb+foELOGWBh23OIL18LHHQgYfzbvHf
+SUMMARY:All That Heaven Allows
+DTSTAMP:20231121T215900Z
 DTSTART:20231229T042000Z
 DESCRIPTION:/films/2023/all-that-heaven-allows
 LOCATION:The Cinematheque
 DURATION:PT14990171866850193000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:Kiig7+hrzTWGhuFMh3MIgl4F25tYf/k5
-SUMMARY:An Autumn Afternoon\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining i
-	n the Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n\
-	n  All That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:G7E2yuLZ97MqacTnenXxIwp3oM/dI0fR
+SUMMARY:An Autumn Afternoon
+DTSTAMP:20231121T215900Z
 DTSTART:20231217T044500Z
 DESCRIPTION:/films/2023/an-autumn-afternoon
 LOCATION:The Cinematheque
 DURATION:PT18990171866850193000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:vxLFLqoiRRW3kX9PQpEkdNHHPtCMyLAz
-SUMMARY:An Autumn Afternoon\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining i
-	n the Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n\
-	n  All That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:CCVNQxdM5up5y31KSYDv+DrBZh9WfHTT
+SUMMARY:An Autumn Afternoon
+DTSTAMP:20231121T215900Z
 DTSTART:20231227T020000Z
 DESCRIPTION:/films/2023/an-autumn-afternoon
 LOCATION:The Cinematheque
 DURATION:PT18990171866850193000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:TjvJpRmjWBdcPtObNaL/nP/ZXBVyCh4P
-SUMMARY:An Autumn Afternoon\n\n  Days of Heaven\n\n  Hana-bi\n\n  Raining i
-	n the Mountain\n\n  Sunday Bloody Sunday\n\n  Diary of a Country Priest\n\
-	n  All That Heaven Allows\n\n  An Autumn Afternoon
-DTSTAMP:20231121T171000Z
+UID:6bcIhk3FTRUvXSmSLsYLFg4SOrCmmcpX
+SUMMARY:An Autumn Afternoon
+DTSTAMP:20231121T215900Z
 DTSTART:20231230T000000Z
 DESCRIPTION:/films/2023/an-autumn-afternoon
 LOCATION:The Cinematheque
 DURATION:PT18990171866850193000H56M
 END:VEVENT
 BEGIN:VEVENT
-UID:ancB8JNwICM1iRjS0fpy9NcApO4jFzFQ
-SUMMARY:Little Women\n\n  Little Women
-DTSTAMP:20231121T171000Z
+UID:1W786xO7ps991VrWZC7RkBzMtSiMSTul
+SUMMARY:Little Women
+DTSTAMP:20231121T215900Z
 DTSTART:20231217T190000Z
 DESCRIPTION:/films/2023/little-women
 LOCATION:The Cinematheque
 DURATION:PT1918H35M
 END:VEVENT
 BEGIN:VEVENT
-UID:9Z2h63kVN6bE28Uznz/9lAjNKPMreR1/
-SUMMARY:Stalker\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev\n\
-	n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:KYZp7pcgRzpW2dsPf7zv6zwsbB+OHzKH
+SUMMARY:Stalker
+DTSTAMP:20231121T215900Z
 DTSTART:20231218T023000Z
 DESCRIPTION:/films/2023/stalker
 LOCATION:The Cinematheque
 DURATION:PT271876586386118440000H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:p9TqmoYvtYezZrmZdxgLZL2Z9Ip01jLV
-SUMMARY:Stalker\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev\n\
-	n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:NPd3dxHJINCbX0KnHmWSVMRfRgVWCemh
+SUMMARY:Stalker
+DTSTAMP:20231121T215900Z
 DTSTART:20231223T230000Z
 DESCRIPTION:/films/2023/stalker
 LOCATION:The Cinematheque
 DURATION:PT271876586386118440000H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:DtLnDy1dvawdAycHeowzb19pcA1P5jT1
-SUMMARY:Stalker\n\n  Nostalghia\n\n  Ivan’s Childhood\n\n  Andrei Rublev\n\
-	n  Solaris\n\n  Mirror\n\n  The Sacrifice\n\n  Stalker
-DTSTAMP:20231121T171000Z
+UID:F+2tAPj/yLtMIs/r47E7gjqZRgPNUJT7
+SUMMARY:Stalker
+DTSTAMP:20231121T215900Z
 DTSTART:20231230T023000Z
 DESCRIPTION:/films/2023/stalker
 LOCATION:The Cinematheque
 DURATION:PT271876586386118440000H16M
 END:VEVENT
 BEGIN:VEVENT
-UID:TQ+T30K1ql3pm2dvExq1nnKSXz9JhIxn
-SUMMARY:Presents\n\n  Wavelength + ←→\n\n  So Is This + A Casing Shelved\n\
-	n  Presents\n\n  *Corpus Callosum
-DTSTAMP:20231121T171000Z
+UID:UK8K5a8t96aGFM+zdI6Z4reFWThJ9e8V
+SUMMARY:Presents
+DTSTAMP:20231121T215900Z
 DTSTART:20231219T023000Z
 DESCRIPTION:/films/2023/presents
 LOCATION:The Cinematheque
 DURATION:PT151598151H32M
 END:VEVENT
 BEGIN:VEVENT
-UID:c5PkU6b6gmIHIGgvBxRWo3wdGW22HdIC
-SUMMARY:*Corpus Callosum\n\n  Wavelength + ←→\n\n  So Is This + A Casing Sh
-	elved\n\n  Presents\n\n  *Corpus Callosum
-DTSTAMP:20231121T171000Z
+UID:wG4Uqx7GquXcBLV3yshRqL4agWzGth5D
+SUMMARY:*Corpus Callosum
+DTSTAMP:20231121T215900Z
 DTSTART:20231219T043000Z
 DESCRIPTION:/films/2023/corpus-callosum
 LOCATION:The Cinematheque
 DURATION:PT154931484H52M
 END:VEVENT
 BEGIN:VEVENT
-UID:gvtuirmZPzub5UTwNemTTROUtfwWTQ37
-SUMMARY:The Wiz\n\n  The Wiz
-DTSTAMP:20231121T171000Z
+UID:wDRH17vYi1mADyRNS3pEKQoLCQopm9Cb
+SUMMARY:The Wiz
+DTSTAMP:20231121T215900Z
 DTSTART:20231221T030000Z
 DESCRIPTION:/films/2023/the-wiz
 LOCATION:The Cinematheque
