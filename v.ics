@@ -7,7 +7,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:IaOh0nefPY5JPWuCt2GBDDgUkzMjtAs8
 SUMMARY:VIFF Live: Cowboy Bebop + The Cowboy Bebop Bebop Band
-DTSTAMP:20240719T163900Z
+DTSTAMP:20240719T214500Z
 DTSTART:20240827T023000Z
 DESCRIPTION:https://viff.org/whats-on/cowboy-bebop-live/
 LOCATION:Vancity Theatre
@@ -16,7 +16,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2FkJQ86Aa0Aj2QeHoToR23FC4g4zDB3T
 SUMMARY:Pantheon\, The Greatest Films of All Time: Pather Panchali
-DTSTAMP:20240719T163900Z
+DTSTAMP:20240719T214500Z
 DTSTART:20240915T180000Z
 DESCRIPTION:https://viff.org/whats-on/pather-panchali/
 LOCATION:Vancity Theatre
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vY1jYLFJID3/OMlrOkKpjFgV3SuOC0js
 SUMMARY:Pantheon\, The Greatest Films of All Time: Pather Panchali
-DTSTAMP:20240719T163900Z
+DTSTAMP:20240719T214500Z
 DTSTART:20240918T005000Z
 DESCRIPTION:https://viff.org/whats-on/pather-panchali/
 LOCATION:Vancity Theatre
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:3nIxaNuEsbVWIIE7rKUSpf5ADPYOZvS4
 SUMMARY:VIFF Live: John Coltrane's Blue World: The Mike Allen Trio + Le cha
 	t dans le sac
-DTSTAMP:20240719T163900Z
+DTSTAMP:20240719T214500Z
 DTSTART:20240922T023000Z
 DESCRIPTION:https://viff.org/whats-on/john-coltrane-blue-world-live/
 LOCATION:Vancity Theatre
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wE7udIns0wPLhGDrQw//ByCfqVOLSknf
 SUMMARY:Pantheon\, The Greatest Films of All Time: The Night of the Hunter
-DTSTAMP:20240719T163900Z
+DTSTAMP:20240719T214500Z
 DTSTART:20241020T180000Z
 DESCRIPTION:https://viff.org/whats-on/the-night-of-the-hunter/
 LOCATION:Vancity Theatre
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8r2Hd0Z1mLu6hd16TpfdAlunt9NdYMgN
 SUMMARY:Pantheon\, The Greatest Films of All Time: The Night of the Hunter
-DTSTAMP:20240719T163900Z
+DTSTAMP:20240719T214500Z
 DTSTART:20241023T005000Z
 DESCRIPTION:https://viff.org/whats-on/the-night-of-the-hunter/
 LOCATION:Vancity Theatre
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Q1/DjTCMk8UFsbJFplPTMUla6GbfYt60
 SUMMARY:Pantheon\, The Greatest Films of All Time: The Battle of Algiers
-DTSTAMP:20240719T163900Z
+DTSTAMP:20240719T214500Z
 DTSTART:20241117T190000Z
 DESCRIPTION:https://viff.org/whats-on/the-battle-of-algiers/
 LOCATION:Vancity Theatre
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:QFkUlcjOtaB2oMkaWR+/VDp0FA5DnWMf
 SUMMARY:Pantheon\, The Greatest Films of All Time: The Battle of Algiers
-DTSTAMP:20240719T163900Z
+DTSTAMP:20240719T214500Z
 DTSTART:20241120T015000Z
 DESCRIPTION:https://viff.org/whats-on/the-battle-of-algiers/
 LOCATION:Vancity Theatre
@@ -80,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:VFTGBlYGlh3joTaI9EWZUqUBn+LYDmaA
 SUMMARY:Pantheon\, The Greatest Films of All Time: Playtime
-DTSTAMP:20240719T163900Z
+DTSTAMP:20240719T214500Z
 DTSTART:20241215T190000Z
 DESCRIPTION:https://viff.org/whats-on/playtime/
 LOCATION:Vancity Theatre
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ioPqglx8yhw4+88KZXxo4Jluc8A+H1L4
 SUMMARY:Pantheon\, The Greatest Films of All Time: Playtime
-DTSTAMP:20240719T163900Z
+DTSTAMP:20240719T214500Z
 DTSTART:20241218T015000Z
 DESCRIPTION:https://viff.org/whats-on/playtime/
 LOCATION:Vancity Theatre
