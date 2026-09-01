@@ -5,157 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2740deedf0b7c6053aee218449401815
-SUMMARY:T.J: The Alien Everywhere Tour
-DTSTAMP:20260827T173200Z
-DTSTART:20260828T020000Z
-DESCRIPTION:https://riotheatre.ca/event/t-j-the-alien-everywhere/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:343c1f45e37edd4f2146dd770e8bd1da
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTAMP:20260827T173200Z
-DTSTART:20260828T043000Z
-DESCRIPTION:https://riotheatre.ca/movie/teenage-sex-and-death-at-camp-miasm
-	a/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:3538d38c4f2b862e7415c2338def6bbb
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTAMP:20260827T173200Z
-DTSTART:20260829T010000Z
-DESCRIPTION:https://riotheatre.ca/movie/teenage-sex-and-death-at-camp-miasm
-	a/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:91109407901c0feb9bf036d1224396b5
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTAMP:20260827T173200Z
-DTSTART:20260829T043000Z
-DESCRIPTION:https://riotheatre.ca/movie/teenage-sex-and-death-at-camp-miasm
-	a/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:68028a553cdf0a364a4204eded84380d
-SUMMARY:The Wrong Girls
-DTSTAMP:20260827T173200Z
-DTSTART:20260829T210000Z
-DESCRIPTION:https://riotheatre.ca/movie/the-wrong-girls/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:ae0616bce0ee6d456c16b884dcb99b94
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTAMP:20260827T173200Z
-DTSTART:20260829T233000Z
-DESCRIPTION:https://riotheatre.ca/movie/teenage-sex-and-death-at-camp-miasm
-	a/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:d15f653fd2c135c810a2544cbe557ea7
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTAMP:20260827T173200Z
-DTSTART:20260830T023000Z
-DESCRIPTION:https://riotheatre.ca/movie/teenage-sex-and-death-at-camp-miasm
-	a/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:b131cf414547652abbb611b3ed4e92e1
-SUMMARY:Buffet Infinity
-DTSTAMP:20260827T173200Z
-DTSTART:20260830T051500Z
-DESCRIPTION:https://riotheatre.ca/movie/buffet-infinity/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:8ff0ee4698d0523801327c7dd7b012de
-SUMMARY:Wet Hot American Summer (25th Annive…
-DTSTAMP:20260827T173200Z
-DTSTART:20260830T201000Z
-DESCRIPTION:https://riotheatre.ca/movie/wet-hot-american-summer/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:225e0fdeafaa6515ac875183a1881ba6
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTAMP:20260827T173200Z
-DTSTART:20260830T223000Z
-DESCRIPTION:https://riotheatre.ca/movie/teenage-sex-and-death-at-camp-miasm
-	a/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:183c409446373740f530bb83bdf02b3f
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTAMP:20260827T173200Z
-DTSTART:20260831T011500Z
-DESCRIPTION:https://riotheatre.ca/movie/teenage-sex-and-death-at-camp-miasm
-	a/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:43cc548c3b998eecef499c6b4768bfad
-SUMMARY:It Ends
-DTSTAMP:20260827T173200Z
-DTSTART:20260831T040000Z
-DESCRIPTION:https://riotheatre.ca/movie/it-ends/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:04172d7676e60034a4525955ba3eb702
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTAMP:20260827T173200Z
-DTSTART:20260901T013000Z
-DESCRIPTION:https://riotheatre.ca/movie/teenage-sex-and-death-at-camp-miasm
-	a/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:7130a2259e2659388733e908bb7ba811
-SUMMARY:I Want Your Sex
-DTSTAMP:20260827T173200Z
-DTSTART:20260901T041500Z
-DESCRIPTION:https://riotheatre.ca/movie/i-want-your-sex-2/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
 UID:5f0378aaeb5e3af2c3d82c5f591df29c
 SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260902T013000Z
 DESCRIPTION:https://riotheatre.ca/movie/teenage-sex-and-death-at-camp-miasm
 	a/
@@ -166,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e89d973d38d476a47b3ec8487ae9da76
 SUMMARY:The Wrong Girls
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260902T041500Z
 DESCRIPTION:https://riotheatre.ca/movie/the-wrong-girls/
 LOCATION:Rio Theatre
@@ -176,7 +28,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:34fbdd795b6e7b946f8cb1892f558eee
 SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260903T013000Z
 DESCRIPTION:https://riotheatre.ca/movie/teenage-sex-and-death-at-camp-miasm
 	a/
@@ -187,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:65b67723532cfe4b99082a9bc4192757
 SUMMARY:I Want Your Sex
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260903T041500Z
 DESCRIPTION:https://riotheatre.ca/movie/i-want-your-sex-2/
 LOCATION:Rio Theatre
@@ -197,7 +49,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:731887f7aae80083d35ae3fa7301229f
 SUMMARY:Manhunter: The Final Cut
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260904T013000Z
 DESCRIPTION:https://riotheatre.ca/movie/manhunter-the-final-cut/
 LOCATION:Rio Theatre
@@ -207,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:73ffd725f7e596432bb3a6c05aef04fb
 SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260904T041500Z
 DESCRIPTION:https://riotheatre.ca/movie/teenage-sex-and-death-at-camp-miasm
 	a/
@@ -216,9 +68,39 @@ ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
+UID:c9646e1abe97411bacc1636bb70ed17b
+SUMMARY:JFL Vancouver: Usama Siddiquee
+DTSTAMP:20260901T183800Z
+DTSTART:20260905T020000Z
+DESCRIPTION:https://riotheatre.ca/event/349104/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:200b105d36020ee391d71f752a14975f
+SUMMARY:JFL Vancouver: Usama Siddiquee
+DTSTAMP:20260901T183800Z
+DTSTART:20260905T043000Z
+DESCRIPTION:https://riotheatre.ca/event/349104/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:0c446242002c138067bd2b776edd11aa
+SUMMARY:Superbad
+DTSTAMP:20260901T183800Z
+DTSTART:20260905T063000Z
+DESCRIPTION:https://riotheatre.ca/movie/superbad/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
 UID:3b2cbece2127d56f19b4be02edd63c4a
 SUMMARY:The Saturday Morning All-You-Can-Eat…
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260905T173000Z
 DESCRIPTION:https://riotheatre.ca/event/the-saturday-morning-all-you-can-ea
 	t-cereal-cartoon-party/
@@ -229,8 +111,81 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a108265579fc7c6b5145e2a55c0c7376
 SUMMARY:Late Fame
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260905T214500Z
+DESCRIPTION:https://riotheatre.ca/movie/late-fame/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:39498a3f226207bf663d8ac95a8aa1ee
+SUMMARY:The Rio Theatre Burlesque & Var…
+DTSTAMP:20260901T183800Z
+DTSTART:20260906T040000Z
+DESCRIPTION:https://riotheatre.ca/event/the-rio-theatre-burlesque-variety-s
+	how-september-edition/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:c7148df2f584c4fa11128b448a70dbe5
+SUMMARY:The Wrong Girls
+DTSTAMP:20260901T183800Z
+DTSTART:20260906T192000Z
+DESCRIPTION:https://riotheatre.ca/movie/the-wrong-girls/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:1b2b5f1a5131638a074aaf94dcd8338c
+SUMMARY:Teenage Sex and Death at Camp Miasma
+DTSTAMP:20260901T183800Z
+DTSTART:20260906T214500Z
+DESCRIPTION:https://riotheatre.ca/movie/teenage-sex-and-death-at-camp-miasm
+	a/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:5d3a745140b878e7ea8fe5d7f83c1512
+SUMMARY:Dr. Brady Smith
+DTSTAMP:20260901T183800Z
+DTSTART:20260907T020000Z
+DESCRIPTION:https://riotheatre.ca/event/dr-brady-smith/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:e51b8bb4337c62ebc03e98badf24cda1
+SUMMARY:Big Trouble in Little China (40th An…
+DTSTAMP:20260901T183800Z
+DTSTART:20260907T050000Z
+DESCRIPTION:https://riotheatre.ca/movie/big-trouble-in-little-china/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ee6cef8e8bcf0b2557965433fe5a97
+SUMMARY:Teenage Sex and Death at Camp Miasma
+DTSTAMP:20260901T183800Z
+DTSTART:20260907T201500Z
+DESCRIPTION:https://riotheatre.ca/movie/teenage-sex-and-death-at-camp-miasm
+	a/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:02ffd51b9e4769ad53aa8b1d6024c91f
+SUMMARY:Late Fame
+DTSTAMP:20260901T183800Z
+DTSTART:20260907T230000Z
 DESCRIPTION:https://riotheatre.ca/movie/late-fame/
 LOCATION:Rio Theatre
 ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
@@ -239,7 +194,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7a7155cf94fdf96019863a5b25940f70
 SUMMARY:The Room Returns (With Director Q&#0…
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260908T014500Z
 DESCRIPTION:https://riotheatre.ca/movie/the-room-returns-with-director-qa/
 LOCATION:Rio Theatre
@@ -247,9 +202,29 @@ ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
+UID:1c56d68d4281accc20dff6b40782abce
+SUMMARY:The Wrong Girls
+DTSTAMP:20260901T183800Z
+DTSTART:20260908T043000Z
+DESCRIPTION:https://riotheatre.ca/movie/the-wrong-girls/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:451c68512ac003eeb5adb2a653b956cc
+SUMMARY:The Rivals of Amziah King
+DTSTAMP:20260901T183800Z
+DTSTART:20260911T013000Z
+DESCRIPTION:https://riotheatre.ca/movie/the-rivals-of-amziah-king/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
 UID:b2fa77713c42779fc12c294f7ade6098
 SUMMARY:Faust: 100th Anniversary Screening p…
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260913T020000Z
 DESCRIPTION:https://riotheatre.ca/event/faust-100th-anniversary-screening-p
 	lus-nosferatu-with-the-invincible-czars/
@@ -260,7 +235,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9449ba27677754e8777f271c72296c2b
 SUMMARY:Nosferatu: Silent Sinema Screening w…
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260913T041500Z
 DESCRIPTION:https://riotheatre.ca/movie/nosferatu-the-cabinet-or-dr-caligar
 	i-live-with-the-invincible-czars/
@@ -271,7 +246,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b7c76ace44d34e22558ce20ff5b564d2
 SUMMARY:Butthole Surfers: The Hole Truth and…
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260915T013000Z
 DESCRIPTION:https://riotheatre.ca/movie/butthole-surfers-the-hole-truth-and
 	-nothing-butt/
@@ -282,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:02d7b616a5ee1751b04666df3daa0005
 SUMMARY:POV36 Film Festival – The 36th Persi…
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260916T023000Z
 DESCRIPTION:https://riotheatre.ca/event/pov36-film-festival-the-36th-persis
 	tence-of-vision-pov-film-festival/
@@ -291,9 +266,29 @@ ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
+UID:ecec0dd4f48fdbb46021815c213e12cf
+SUMMARY:Legend (Tim Curry Tribute Screening)
+DTSTAMP:20260901T183800Z
+DTSTART:20260919T063000Z
+DESCRIPTION:https://riotheatre.ca/movie/legend-2/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:d39250357189c9fd6d716a5db0dbe8ee
+SUMMARY:Tim Burton’s Batman (Batman Da…
+DTSTAMP:20260901T183800Z
+DTSTART:20260920T050000Z
+DESCRIPTION:https://riotheatre.ca/movie/batman-batman-day/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
 UID:0e157c4e3e3ce42c98bde308b02b7bc9
 SUMMARY:The Samurai and the Prisoner
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260925T010000Z
 DESCRIPTION:https://riotheatre.ca/movie/the-samurai-and-the-prisoner/
 LOCATION:Rio Theatre
@@ -303,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4bdc4f723d27e8ede2f44684c1b0855e
 SUMMARY:Dan Savage presents: 2026 HUMP! Film…
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260926T013000Z
 DESCRIPTION:https://riotheatre.ca/event/2025-hump-film-festival-fall-lineup
 	/
@@ -312,9 +307,19 @@ ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
+UID:077b55766533499678cf81b93caabb55
+SUMMARY:Total Recall (4K Restoration)
+DTSTAMP:20260901T183800Z
+DTSTART:20260926T063000Z
+DESCRIPTION:https://riotheatre.ca/movie/total-recall-2/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
 UID:5b7b183da0b523674462d84ec6e85564
 SUMMARY:Vancouver Short Film Showcase: Volum…
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260927T190000Z
 DESCRIPTION:https://riotheatre.ca/movie/vancouver-short-film-showcase/
 LOCATION:Rio Theatre
@@ -322,42 +327,42 @@ ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:06142cca6dbdafe3500d01811970d7ed
-SUMMARY:Claudio Simonetti’s Goblin Per…
-DTSTAMP:20260827T173200Z
-DTSTART:20261107T040000Z
-DESCRIPTION:https://riotheatre.ca/movie/tenebre/
+UID:c9c5ab8e7d74311619cba027bacb3db3
+SUMMARY:The Beloved (El Ser querido): VIFF 2…
+DTSTAMP:20260901T183800Z
+DTSTART:20261002T010000Z
+DESCRIPTION:https://riotheatre.ca/movie/the-beloved-el-ser-querido-viff-202
+	6/
 LOCATION:Rio Theatre
 ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:c9646e1abe97411bacc1636bb70ed17b
-SUMMARY:JFL Vancouver: Usama Siddiquee
-DTSTAMP:20260827T173200Z
-DTSTART:20260905T020000Z
-DESCRIPTION:https://riotheatre.ca/event/349104/
+UID:0c53ff781834d2d7b232cd8dded0c95e
+SUMMARY:Species (Sanguine): VIFF 2026
+DTSTAMP:20260901T183800Z
+DTSTART:20261002T041500Z
+DESCRIPTION:https://riotheatre.ca/movie/species-sanguine-viff-2026/
 LOCATION:Rio Theatre
 ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:39498a3f226207bf663d8ac95a8aa1ee
-SUMMARY:The Rio Theatre Burlesque & Var…
-DTSTAMP:20260827T173200Z
-DTSTART:20260906T040000Z
-DESCRIPTION:https://riotheatre.ca/event/the-rio-theatre-burlesque-variety-s
-	how-september-edition/
+UID:fcf360473d5bf85e753d4f3a8d005b44
+SUMMARY:The History of Concrete: VIFF 2026
+DTSTAMP:20260901T183800Z
+DTSTART:20261003T013000Z
+DESCRIPTION:https://riotheatre.ca/movie/the-history-of-concrete-viff-2026/
 LOCATION:Rio Theatre
 ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:5d3a745140b878e7ea8fe5d7f83c1512
-SUMMARY:Dr. Brady Smith
-DTSTAMP:20260827T173200Z
-DTSTART:20260907T020000Z
-DESCRIPTION:https://riotheatre.ca/event/dr-brady-smith/
+UID:78bdbb2ea6bea0ad2c0612ec8a7533f6
+SUMMARY:Seventeen: VIFF 2026
+DTSTAMP:20260901T183800Z
+DTSTART:20261003T034500Z
+DESCRIPTION:https://riotheatre.ca/movie/seventeen-viff-2026/
 LOCATION:Rio Theatre
 ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
@@ -365,7 +370,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bb4425a97cddfaf864fac9f98ce2c744
 SUMMARY:Paul Anthony’s Talent Time
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260909T030000Z
 DESCRIPTION:https://riotheatre.ca/event/paul-anthonys-talent-time-3/
 LOCATION:Rio Theatre
@@ -375,7 +380,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:915df71f6d49023f0b6dcfa60be3c577
 SUMMARY:Found Footage Fest: Porcelain VHS Tr…
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260910T023000Z
 DESCRIPTION:https://riotheatre.ca/event/found-footage-fest-porcelain-vhs-tr
 	easures/
@@ -386,7 +391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:94c7b15c0b8d2f53f369490e0c84d4e5
 SUMMARY:Rolling Quartz: My Turn 2026 Tour
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260912T020000Z
 DESCRIPTION:https://riotheatre.ca/event/rolling-quartz-my-turn-2026-tour-in
 	-vancouver/
@@ -397,7 +402,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7a5094305e16fd9876bf63f7ebbed142
 SUMMARY:Do Go On: Canada Tour 2026
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260912T200000Z
 DESCRIPTION:https://riotheatre.ca/event/do-go-on-podcast/
 LOCATION:Rio Theatre
@@ -407,7 +412,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:47bdc835700f65e9ebad86f473e33b70
 SUMMARY:Artcell
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260914T010000Z
 DESCRIPTION:https://riotheatre.ca/event/artcell-live-in-vancouver/
 LOCATION:Rio Theatre
@@ -417,7 +422,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2ed87b10969e8299a882a8c6967eafe6
 SUMMARY:Katie Boyle
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260918T020000Z
 DESCRIPTION:https://riotheatre.ca/event/katie-boyle/
 LOCATION:Rio Theatre
@@ -427,7 +432,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:849b67de24d8104738b8d1a98137cf73
 SUMMARY:Witch Perfect
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260919T030000Z
 DESCRIPTION:https://riotheatre.ca/event/witch-perfect/
 LOCATION:Rio Theatre
@@ -437,7 +442,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7d97bd0479d54c6697612bf5d268d2cb
 SUMMARY:Wes Barker
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260920T013000Z
 DESCRIPTION:https://riotheatre.ca/event/wes-barker/
 LOCATION:Rio Theatre
@@ -447,7 +452,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9dae1043af9e449094c615c2fd719886
 SUMMARY:Babes\, Babes\, Babes! Burlesque • Dra…
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260921T030000Z
 DESCRIPTION:https://riotheatre.ca/event/babes-babes-babes-burlesque-drag-co
 	medy/
@@ -458,7 +463,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d022a0477f1bd4291386b8c868a3ad83
 SUMMARY:Steve Hofstetter
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260924T030000Z
 DESCRIPTION:https://riotheatre.ca/event/steve-hofstetter/
 LOCATION:Rio Theatre
@@ -468,9 +473,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:20a5c6fc0d5b0e42b9c61d42dc8c637e
 SUMMARY:Sammy Obeid
-DTSTAMP:20260827T173200Z
+DTSTAMP:20260901T183800Z
 DTSTART:20260928T000000Z
 DESCRIPTION:https://riotheatre.ca/event/sammy-obeid/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:183405aae68ec583796cce6388f5670b
+SUMMARY:LLoyd Cole
+DTSTAMP:20260901T183800Z
+DTSTART:20261016T030000Z
+DESCRIPTION:https://riotheatre.ca/event/lloyd-cole-2/
 LOCATION:Rio Theatre
 ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
