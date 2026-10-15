@@ -5,51 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:60f87fb22e3912d6257b4a21ad442b07
-SUMMARY:Teton Gravity Presents: Actually\, It…
-DTSTAMP:20261013T184100Z
-DTSTART:20261014T010000Z
-DESCRIPTION:https://riotheatre.ca/event/teton-gravity-presents-actually-it-
-	is-rocket-science/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:58d9cc0bb174933baa277f341ea28ebf
-SUMMARY:Teton Gravity Presents: Actually\, It…
-DTSTAMP:20261013T184100Z
-DTSTART:20261014T033000Z
-DESCRIPTION:https://riotheatre.ca/event/teton-gravity-presents-actually-it-
-	is-rocket-science/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:8cb914d9db480dde522696520244e14c
-SUMMARY:Los Ríos (Filmmakers in Attendance f…
-DTSTAMP:20261013T184100Z
-DTSTART:20261015T014500Z
-DESCRIPTION:https://riotheatre.ca/movie/los-rios/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:7a285735a0b55665f9ac2e260745a2d4
-SUMMARY:Tony
-DTSTAMP:20261013T184100Z
-DTSTART:20261015T043000Z
-DESCRIPTION:https://riotheatre.ca/movie/tony/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
 UID:183405aae68ec583796cce6388f5670b
 SUMMARY:LLoyd Cole
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261016T030000Z
 DESCRIPTION:https://riotheatre.ca/event/lloyd-cole-2/
 LOCATION:Rio Theatre
@@ -59,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:55d0d033ba183d0108e06b6088cd53fa
 SUMMARY:LOWROAD’s Comedy Extravaganza
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261017T023000Z
 DESCRIPTION:https://riotheatre.ca/event/lowroads-comedy-extravaganza/
 LOCATION:Rio Theatre
@@ -69,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6243dbca43dc6985c4076560cfcbfe65
 SUMMARY:Monster House (20th Anniversary Scre…
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261017T060000Z
 DESCRIPTION:https://riotheatre.ca/movie/monster-house/
 LOCATION:Rio Theatre
@@ -77,9 +35,19 @@ ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
+UID:5891e38c5fc9ceb3cf2d7d95bf4e0fff
+SUMMARY:Musk
+DTSTAMP:20261015T165600Z
+DTSTART:20261017T193000Z
+DESCRIPTION:https://riotheatre.ca/movie/musk/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
 UID:6af1092e74228b51c6b8079e85d9875a
 SUMMARY:The Rio Theatre Burlesque & Var…
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261018T040000Z
 DESCRIPTION:https://riotheatre.ca/event/the-rio-theatre-burlesque-and-varie
 	ty-show-halloween-edition/
@@ -88,9 +56,19 @@ ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
+UID:c7b0039e53aaf740dd24559a3eee2caf
+SUMMARY:Musk
+DTSTAMP:20261015T165600Z
+DTSTART:20261018T193000Z
+DESCRIPTION:https://riotheatre.ca/movie/musk/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
 UID:6c2c0af52b5d6ac94425af6cfbc2c1b6
 SUMMARY:Melody Mangler Presents: Dreadful De…
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261019T030000Z
 DESCRIPTION:https://riotheatre.ca/event/dreadful-delights/
 LOCATION:Rio Theatre
@@ -100,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:38b7cef54c105a685e616ce7d1b1da00
 SUMMARY:Gremlins: In Conversation with Zach …
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261020T020000Z
 DESCRIPTION:https://riotheatre.ca/movie/gremlins-in-conversation-with-zach-
 	galligan/
@@ -109,9 +87,52 @@ ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
+UID:a61c5594ddb1b215a7bd23f0626ba6fa
+SUMMARY:Musk
+DTSTAMP:20261015T165600Z
+DTSTART:20261021T013000Z
+DESCRIPTION:https://riotheatre.ca/movie/musk/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:2ecc9db85dabc08705f47596b9a4d985
+SUMMARY:The Critical Hit Show: A #DNDLive Im…
+DTSTAMP:20261015T165600Z
+DTSTART:20261022T020000Z
+DESCRIPTION:https://riotheatre.ca/event/the-critical-hit-show-a-live-dnd-im
+	provised-epic-fantasy/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:83ecd6a43042560cbfa0cd9a177c5cff
+SUMMARY:Jim Queen (Advance Screening)
+DTSTAMP:20261015T165600Z
+DTSTART:20261022T043000Z
+DESCRIPTION:https://riotheatre.ca/movie/jim-queen-and-the-quest-for-chloroq
+	ueer/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:4ef204a9d1a2c8cfd10e4a3f7b87dd62
+SUMMARY:Vancouver Burlesque Co.: Halloween S…
+DTSTAMP:20261015T165600Z
+DTSTART:20261023T030000Z
+DESCRIPTION:https://riotheatre.ca/event/vancouver-burlesque-co-halloween-st
+	udent-showcase/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
 UID:adba296178665071f277ad1ba50abf44
 SUMMARY:The Rocky Horror Picture Show (Rocky…
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261024T064500Z
 DESCRIPTION:https://riotheatre.ca/movie/the-rocky-horror-picture-show-3/
 LOCATION:Rio Theatre
@@ -121,7 +142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3418b55fec2767cdb32c8df5d4437953
 SUMMARY:The Saturday Morning All-You-Can-Eat…
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261024T170000Z
 DESCRIPTION:https://riotheatre.ca/event/46963/
 LOCATION:Rio Theatre
@@ -131,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:60d1ee32820d8ad6c1bc21069d2090e4
 SUMMARY:Traces of Home (With Filmmakers Dr. …
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261025T173000Z
 DESCRIPTION:https://riotheatre.ca/movie/traces-of-home/
 LOCATION:Rio Theatre
@@ -139,9 +160,19 @@ ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
+UID:291267413d049ef1e927b67adb9e5365
+SUMMARY:The Craft (30th Anniversary Screenin…
+DTSTAMP:20261015T165600Z
+DTSTART:20261026T040000Z
+DESCRIPTION:https://riotheatre.ca/movie/the-craft/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
 UID:8c7e1ba6a971034acd5cb5d62c877116
 SUMMARY:Prophet of Ecstasy (With Special Gue…
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261027T003000Z
 DESCRIPTION:https://riotheatre.ca/movie/prophet-of-ecstasy-w-cast-special-g
 	uests-panel/
@@ -152,7 +183,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:22c8445568289f9b7ab7d534dea9c2e3
 SUMMARY:Coast Mountain Film Fest: Ski Night
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261106T030000Z
 DESCRIPTION:https://riotheatre.ca/movie/coast-mountain-film-fest-ski-night/
 LOCATION:Rio Theatre
@@ -162,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4671a97367201db4358bee9be9c7e4fc
 SUMMARY:Coast Mountain Film Fest: Snowboard …
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261106T053000Z
 DESCRIPTION:https://riotheatre.ca/movie/coast-mountain-film-fest-snowboard-
 	night/
@@ -173,7 +204,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:06142cca6dbdafe3500d01811970d7ed
 SUMMARY:Claudio Simonetti’s Goblin Per…
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261107T040000Z
 DESCRIPTION:https://riotheatre.ca/movie/tenebre/
 LOCATION:Rio Theatre
@@ -183,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:175c54d31ed8b8574bd25774ced7d322
 SUMMARY:FIGHT! FIGHT! FIGHT!
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261124T053000Z
 DESCRIPTION:https://riotheatre.ca/movie/fight-fight-fight/
 LOCATION:Rio Theatre
@@ -193,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:387fbf0d55ba5860cd4799a49667a59d
 SUMMARY:Mountains on Stage: Winter 2026
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261210T030000Z
 DESCRIPTION:https://riotheatre.ca/event/mountains-on-stage-winter-2026/
 LOCATION:Rio Theatre
@@ -201,31 +232,9 @@ ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:2ecc9db85dabc08705f47596b9a4d985
-SUMMARY:The Critical Hit Show: A #DNDLive Im…
-DTSTAMP:20261013T184100Z
-DTSTART:20261022T020000Z
-DESCRIPTION:https://riotheatre.ca/event/the-critical-hit-show-a-live-dnd-im
-	provised-epic-fantasy/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:4ef204a9d1a2c8cfd10e4a3f7b87dd62
-SUMMARY:Vancouver Burlesque Co.: Halloween S…
-DTSTAMP:20261013T184100Z
-DTSTART:20261023T030000Z
-DESCRIPTION:https://riotheatre.ca/event/vancouver-burlesque-co-halloween-st
-	udent-showcase/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
 UID:37231eaaee9bb1ba47d3ecae9044bfa9
 SUMMARY:Dandy’s CABIN IN THE WOODS
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261024T030000Z
 DESCRIPTION:https://riotheatre.ca/event/dandys-cabin-in-the-woods/
 LOCATION:Rio Theatre
@@ -235,7 +244,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6d63490dd1dabf5cd32b5a09d2e79b1a
 SUMMARY:JFL Vancouver: Rayna Greenberg
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261029T020000Z
 DESCRIPTION:https://riotheatre.ca/event/jfl-vancouver-rayna-greenberg/
 LOCATION:Rio Theatre
@@ -245,7 +254,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:205e7453dc1692408931764fd7ae20b6
 SUMMARY:Davide de Pierro
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261101T230000Z
 DESCRIPTION:https://riotheatre.ca/event/davide-de-pierro/
 LOCATION:Rio Theatre
@@ -255,7 +264,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:65e85de6e7c21e75a3b5e56048ac7bd1
 SUMMARY:Chutzpah! Festival
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261104T033000Z
 DESCRIPTION:https://riotheatre.ca/event/chutzpah-festival/
 LOCATION:Rio Theatre
@@ -265,7 +274,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:65f47af2f99d3725dea0d4692f3ccf64
 SUMMARY:Just Joni
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261108T040000Z
 DESCRIPTION:https://riotheatre.ca/event/just-joni/
 LOCATION:Rio Theatre
@@ -275,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:91d5370c84899401d599f14359140d42
 SUMMARY:Justin McElroy: Searching for the Be…
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261110T030000Z
 DESCRIPTION:https://riotheatre.ca/event/searching-for-the-best-place-on-ear
 	th-with-justin-mcelroy/
@@ -286,7 +295,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:96e6e9215d99d9179c3c41b260634903
 SUMMARY:JFL Vancouver: Ron Funches
-DTSTAMP:20261013T184100Z
+DTSTAMP:20261015T165600Z
 DTSTART:20261114T030000Z
 DESCRIPTION:https://riotheatre.ca/event/jfl-vancouver-ron-funches/
 LOCATION:Rio Theatre
