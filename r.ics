@@ -5,182 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:4ef204a9d1a2c8cfd10e4a3f7b87dd62
-SUMMARY:Vancouver Burlesque Co.: Halloween S…
-DTSTAMP:20261022T201400Z
-DTSTART:20261023T030000Z
-DESCRIPTION:https://riotheatre.ca/event/vancouver-burlesque-co-halloween-st
-	udent-showcase/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:37231eaaee9bb1ba47d3ecae9044bfa9
-SUMMARY:Dandy’s CABIN IN THE WOODS
-DTSTAMP:20261022T201400Z
-DTSTART:20261024T030000Z
-DESCRIPTION:https://riotheatre.ca/event/dandys-cabin-in-the-woods/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:adba296178665071f277ad1ba50abf44
-SUMMARY:The Rocky Horror Picture Show (Rocky…
-DTSTAMP:20261022T201400Z
-DTSTART:20261024T064500Z
-DESCRIPTION:https://riotheatre.ca/movie/the-rocky-horror-picture-show-3/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:3418b55fec2767cdb32c8df5d4437953
-SUMMARY:The Saturday Morning All-You-Can-Eat…
-DTSTAMP:20261022T201400Z
-DTSTART:20261024T170000Z
-DESCRIPTION:https://riotheatre.ca/event/46963/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:7f0794560da1aa405b01826b0ec9f73c
-SUMMARY:Jim Queen
-DTSTAMP:20261022T201400Z
-DTSTART:20261024T210000Z
-DESCRIPTION:https://riotheatre.ca/movie/jim-queen-and-the-quest-for-chloroq
-	ueer/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:f414319038884ce7c092aff8f0203487
-SUMMARY:The Rocky Horror Picture Show (Rocky…
-DTSTAMP:20261022T201400Z
-DTSTART:20261025T031500Z
-DESCRIPTION:https://riotheatre.ca/movie/the-rocky-horror-picture-show-3/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:ef4ea8743fd69d80c76247cd2527f2fc
-SUMMARY:The Rocky Horror Picture Show (Rocky…
-DTSTAMP:20261022T201400Z
-DTSTART:20261025T064500Z
-DESCRIPTION:https://riotheatre.ca/movie/the-rocky-horror-picture-show-3/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:60d1ee32820d8ad6c1bc21069d2090e4
-SUMMARY:Traces of Home (With Filmmakers Dr. …
-DTSTAMP:20261022T201400Z
-DTSTART:20261025T173000Z
-DESCRIPTION:https://riotheatre.ca/movie/traces-of-home/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:a8d288e5b6dc41335776db4e7423d621
-SUMMARY:The Rocky Horror Picture Show (Rocky…
-DTSTAMP:20261022T201400Z
-DTSTART:20261025T213000Z
-DESCRIPTION:https://riotheatre.ca/movie/the-rocky-horror-picture-show-3/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:ade9fe79955d477b162df084b522453b
-SUMMARY:Brian de Palma’s ‘Carrie…
-DTSTAMP:20261022T201400Z
-DTSTART:20261026T013000Z
-DESCRIPTION:https://riotheatre.ca/movie/carrie/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:291267413d049ef1e927b67adb9e5365
-SUMMARY:The Craft (30th Anniversary Screenin…
-DTSTAMP:20261022T201400Z
-DTSTART:20261026T040000Z
-DESCRIPTION:https://riotheatre.ca/movie/the-craft/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:8c7e1ba6a971034acd5cb5d62c877116
-SUMMARY:Prophet of Ecstasy (With Special Gue…
-DTSTAMP:20261022T201400Z
-DTSTART:20261027T003000Z
-DESCRIPTION:https://riotheatre.ca/movie/prophet-of-ecstasy-w-cast-special-g
-	uests-panel/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:f3e12a251ddb22a7f5d0c2e481402889
-SUMMARY:Scream (30th Anniversary Screening)
-DTSTAMP:20261022T201400Z
-DTSTART:20261027T043000Z
-DESCRIPTION:https://riotheatre.ca/movie/scream/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:fced874d4e6a829855fed98f5a6f66fe
-SUMMARY:Clue (Tim Curry Tribute Screening)
-DTSTAMP:20261022T201400Z
-DTSTART:20261028T020000Z
-DESCRIPTION:https://riotheatre.ca/movie/clue/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:a7e674cb99992ecd48ae4959439510ac
-SUMMARY:The Rocky Horror Picture Show (Rocky…
-DTSTAMP:20261022T201400Z
-DTSTART:20261028T043000Z
-DESCRIPTION:https://riotheatre.ca/movie/the-rocky-horror-picture-show-3/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:6d63490dd1dabf5cd32b5a09d2e79b1a
-SUMMARY:JFL Vancouver: Rayna Greenberg
-DTSTAMP:20261022T201400Z
-DTSTART:20261029T020000Z
-DESCRIPTION:https://riotheatre.ca/event/jfl-vancouver-rayna-greenberg/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:eb8717d43b1e81f1192b3c60e9c722c9
-SUMMARY:The Rocky Horror Picture Show (Rocky…
-DTSTAMP:20261022T201400Z
-DTSTART:20261029T050000Z
-DESCRIPTION:https://riotheatre.ca/movie/the-rocky-horror-picture-show-3/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
 UID:8c33885f7bd152f4c3622599ce358ddf
 SUMMARY:Freddy’s Dead: The Final Night…
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261030T013000Z
 DESCRIPTION:https://riotheatre.ca/movie/freddys-dead-the-final-nightmare-35
 	th-anniversary-3d-screening-with-director-rachel-talalay/
@@ -191,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d66a56ca6f2a02c4a76d901b6ba4d80b
 SUMMARY:The Exorcist
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261030T043000Z
 DESCRIPTION:https://riotheatre.ca/movie/the-exorcist-2/
 LOCATION:Rio Theatre
@@ -201,8 +28,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ad651340e98fa4f65ceee3e1a77e0d4b
 SUMMARY:The Rocky Horror Picture Show (Rocky…
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261031T031500Z
+DESCRIPTION:https://riotheatre.ca/movie/the-rocky-horror-picture-show-3/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:f2ec07198199f8e733825b3d8c970657
+SUMMARY:The Rocky Horror Picture Show (Rocky…
+DTSTAMP:20261029T172200Z
+DTSTART:20261031T064500Z
 DESCRIPTION:https://riotheatre.ca/movie/the-rocky-horror-picture-show-3/
 LOCATION:Rio Theatre
 ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
@@ -211,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a3d935f94f6225f4fbb3bc254cd5d741
 SUMMARY:The Saturday Morning All-You-Can-Eat…
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261031T170000Z
 DESCRIPTION:https://riotheatre.ca/event/46963/
 LOCATION:Rio Theatre
@@ -219,9 +56,89 @@ ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
+UID:d0e42d7c86bb0c2687800fbef6c443f2
+SUMMARY:The Rocky Horror Picture Show (Rocky…
+DTSTAMP:20261029T172200Z
+DTSTART:20261031T213000Z
+DESCRIPTION:https://riotheatre.ca/movie/the-rocky-horror-picture-show-3/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:758aec9ebec259dc5508cb948002a8ae
+SUMMARY:The Rocky Horror Picture Show (Rocky…
+DTSTAMP:20261029T172200Z
+DTSTART:20261101T030000Z
+DESCRIPTION:https://riotheatre.ca/movie/the-rocky-horror-picture-show-3/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:e0c69a8ebb7351caa07cd7babc01510b
+SUMMARY:The Rocky Horror Picture Show (Rocky…
+DTSTAMP:20261029T172200Z
+DTSTART:20261101T064500Z
+DESCRIPTION:https://riotheatre.ca/movie/the-rocky-horror-picture-show-3/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:205e7453dc1692408931764fd7ae20b6
+SUMMARY:Davide de Pierro
+DTSTAMP:20261029T172200Z
+DTSTART:20261101T230000Z
+DESCRIPTION:https://riotheatre.ca/event/davide-de-pierro/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:34897cf02a949715936c8981f176cbf1
+SUMMARY:Davide de Pierro
+DTSTAMP:20261029T172200Z
+DTSTART:20261102T030000Z
+DESCRIPTION:https://riotheatre.ca/event/davide-de-pierro/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:4b83d9ce826463b1c646ec66866c313b
+SUMMARY:Davide de Pierro
+DTSTAMP:20261029T172200Z
+DTSTART:20261103T030000Z
+DESCRIPTION:https://riotheatre.ca/event/davide-de-pierro/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:65e85de6e7c21e75a3b5e56048ac7bd1
+SUMMARY:Chutzpah! Festival
+DTSTAMP:20261029T172200Z
+DTSTART:20261104T033000Z
+DESCRIPTION:https://riotheatre.ca/event/chutzpah-festival/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:2523a98622d67b77f618b55a1c84ddb0
+SUMMARY:Musk
+DTSTAMP:20261029T172200Z
+DTSTART:20261105T023000Z
+DESCRIPTION:https://riotheatre.ca/movie/musk/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
 UID:22c8445568289f9b7ab7d534dea9c2e3
 SUMMARY:Coast Mountain Film Fest: Ski Night
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261106T030000Z
 DESCRIPTION:https://riotheatre.ca/movie/coast-mountain-film-fest-ski-night/
 LOCATION:Rio Theatre
@@ -231,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4671a97367201db4358bee9be9c7e4fc
 SUMMARY:Coast Mountain Film Fest: Snowboard …
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261106T053000Z
 DESCRIPTION:https://riotheatre.ca/movie/coast-mountain-film-fest-snowboard-
 	night/
@@ -242,7 +159,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:06142cca6dbdafe3500d01811970d7ed
 SUMMARY:Claudio Simonetti’s Goblin Per…
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261107T040000Z
 DESCRIPTION:https://riotheatre.ca/movie/tenebre/
 LOCATION:Rio Theatre
@@ -252,7 +169,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b433258e105ef6385c3172410c2aad0c
 SUMMARY:Forward (Filmmakers in Attendance fo…
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261124T024500Z
 DESCRIPTION:https://riotheatre.ca/movie/forward/
 LOCATION:Rio Theatre
@@ -262,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:175c54d31ed8b8574bd25774ced7d322
 SUMMARY:FIGHT! FIGHT! FIGHT!
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261124T053000Z
 DESCRIPTION:https://riotheatre.ca/movie/fight-fight-fight/
 LOCATION:Rio Theatre
@@ -272,7 +189,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:46b2d7604cb03a1a56e3260ed0e6697a
 SUMMARY:Paper Flowers – Special Presentation
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261128T220000Z
 DESCRIPTION:https://riotheatre.ca/movie/paper-flowers/
 LOCATION:Rio Theatre
@@ -282,7 +199,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:387fbf0d55ba5860cd4799a49667a59d
 SUMMARY:Mountains on Stage: Winter 2026
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261210T030000Z
 DESCRIPTION:https://riotheatre.ca/event/mountains-on-stage-winter-2026/
 LOCATION:Rio Theatre
@@ -290,29 +207,9 @@ ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:205e7453dc1692408931764fd7ae20b6
-SUMMARY:Davide de Pierro
-DTSTAMP:20261022T201400Z
-DTSTART:20261101T230000Z
-DESCRIPTION:https://riotheatre.ca/event/davide-de-pierro/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:65e85de6e7c21e75a3b5e56048ac7bd1
-SUMMARY:Chutzpah! Festival
-DTSTAMP:20261022T201400Z
-DTSTART:20261104T033000Z
-DESCRIPTION:https://riotheatre.ca/event/chutzpah-festival/
-LOCATION:Rio Theatre
-ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
 UID:65f47af2f99d3725dea0d4692f3ccf64
 SUMMARY:Just Joni
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261108T040000Z
 DESCRIPTION:https://riotheatre.ca/event/just-joni/
 LOCATION:Rio Theatre
@@ -322,7 +219,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:91d5370c84899401d599f14359140d42
 SUMMARY:Justin McElroy: Searching for the Be…
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261110T030000Z
 DESCRIPTION:https://riotheatre.ca/event/searching-for-the-best-place-on-ear
 	th-with-justin-mcelroy/
@@ -333,7 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8c07fe1a6c63372ecb695e5841b94712
 SUMMARY:Ricardo Quevedo
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261112T040000Z
 DESCRIPTION:https://riotheatre.ca/event/ricardo_quevedo_2026/
 LOCATION:Rio Theatre
@@ -341,9 +238,20 @@ ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
+UID:c73e460d9ff0be033d9db8ce0e7188c6
+SUMMARY:Vancouver Burlesque Co.: Halloween S…
+DTSTAMP:20261029T172200Z
+DTSTART:20261113T040000Z
+DESCRIPTION:https://riotheatre.ca/event/vancouver-burlesque-co-halloween-st
+	udent-showcase/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
 UID:96e6e9215d99d9179c3c41b260634903
 SUMMARY:JFL Vancouver: Ron Funches
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261114T030000Z
 DESCRIPTION:https://riotheatre.ca/event/jfl-vancouver-ron-funches/
 LOCATION:Rio Theatre
@@ -353,7 +261,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5c808d96cb141e48bdd0b32a5b53ae05
 SUMMARY:Crazy Diamonds 2026
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261115T050000Z
 DESCRIPTION:https://riotheatre.ca/event/crazy-diamonds-2026/
 LOCATION:Rio Theatre
@@ -363,7 +271,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d6bbaff2f56c24fcfd17ac5a2e11352a
 SUMMARY:Hassam: Oh My Dog Recargado (Reloade…
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261120T033000Z
 DESCRIPTION:https://riotheatre.ca/event/hassam-oh-my-dog-recargado-reloaded
 	/
@@ -374,7 +282,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2908e67eb7691ba69d565ba11e697552
 SUMMARY:Nick Colletti
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261121T030000Z
 DESCRIPTION:https://riotheatre.ca/event/nick-colletti/
 LOCATION:Rio Theatre
@@ -384,9 +292,50 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5b1e83622f512764a2faf6af65bde573
 SUMMARY:The East Van Opry XIII
-DTSTAMP:20261022T201400Z
+DTSTAMP:20261029T172200Z
 DTSTART:20261122T040000Z
 DESCRIPTION:https://riotheatre.ca/event/the-east-van-opry/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:1e8260ff4bc22698bfdd22f616895136
+SUMMARY:Jenny Tian: Ripe
+DTSTAMP:20261029T172200Z
+DTSTART:20261123T030000Z
+DESCRIPTION:https://riotheatre.ca/event/jenny-tian-nov-22/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:aa2cbcfaeb51cb41ee9c3e5ed85b4ddf
+SUMMARY:Burlesque Long Form: Encore Edition!
+DTSTAMP:20261029T172200Z
+DTSTART:20261129T050000Z
+DESCRIPTION:https://riotheatre.ca/event/burlesque-long-form-2026/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:eb9e38faa76b70710a4fb2bc5113128d
+SUMMARY:Alistair Ogden
+DTSTAMP:20261029T172200Z
+DTSTART:20261205T030000Z
+DESCRIPTION:https://riotheatre.ca/event/alistair-ogden/
+LOCATION:Rio Theatre
+ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:5ec8a3ab211be71efe22a7ff0c91943a
+SUMMARY:Let It Be Done: The Fiat Echoes Stil…
+DTSTAMP:20261029T172200Z
+DTSTART:20261205T210000Z
+DESCRIPTION:https://riotheatre.ca/event/let-it-be-done-the-fiat-echoes-stil
+	l/
 LOCATION:Rio Theatre
 ORGANIZER;CN=Rio Theatre:mailto:info@riotheatre.ca
 DURATION:PT3H
